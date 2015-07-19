@@ -543,47 +543,47 @@ item.grilledskewersItem.name=Gegrillter Bratspieß
 item.supremepizzaItem.name=Supreme Pizza
 item.omeletItem.name=Omelett
 
-item.hotwingsItem.name=Hot Wings
-item.chilipoppersItem.name=Chili Poppers
-item.extremechiliItem.name=Extreme Chili
-item.chilichocolateItem.name=Chili Chocolate
+item.hotwingsItem.name=Hähnchenschenkel
+item.chilipoppersItem.name=Chili-Poppers
+item.extremechiliItem.name=Extremes Chili
+item.chilichocolateItem.name=Scharfe Schokolade
 
-item.lemonaideItem.name=Lemonade
-item.lemonbarItem.name=Lemon Bar
-item.fishdinnerItem.name=Fish Dinner
-item.lemonsmoothieItem.name=Lemon Smoothie
-item.lemonmeringueItem.name=Lemon Meringue
-item.candiedlemonItem.name=Candied Lemon
-item.lemonchickenItem.name=Lemon Chicken
+item.lemonaideItem.name=Limonade
+item.lemonbarItem.name=Zitrone Bar
+item.fishdinnerItem.name=Fisch-Abendessen
+item.lemonsmoothieItem.name=Zitronen Smoothie
+item.lemonmeringueItem.name=Zitronen-Baiser
+item.candiedlemonItem.name=Zitronat
+item.lemonchickenItem.name=Zitronengeflügel
 
-item.blueberrysmoothieItem.name=Blueberry Smoothie
-item.blueberrypieItem.name=Blueberry Pie
-item.blueberrymuffinItem.name=Blueberry Muffin
-item.blueberryjuiceItem.name=Blueberry Juice
-item.pancakesItem.name=Pancakes
-item.blueberrypancakesItem.name=Blueberry Pancakes
+item.blueberrysmoothieItem.name=Blaubeeren Smoothie
+item.blueberrypieItem.name=Blaubeerkuchen
+item.blueberrymuffinItem.name=Blaubeermuffin
+item.blueberryjuiceItem.name=Blaubeersaft
+item.pancakesItem.name=Pfannkuchen
+item.blueberrypancakesItem.name=Blaubeer Pfannkuchen
 
-item.cherryjuiceItem.name=Cherry Juice
-item.cherrypieItem.name=Cherry Pie
-item.chocolatecherryItem.name=Chocolate Cherry
-item.cherrysmoothieItem.name=Cherry Smoothie
-item.cheesecakeItem.name=Cheesecake
-item.cherrycheesecakeItem.name=Cherry Cheesecake
+item.cherryjuiceItem.name=Kirschsaft
+item.cherrypieItem.name=Kirschkuchen
+item.chocolatecherryItem.name=Schokoladen-Kirsche
+item.cherrysmoothieItem.name=Kirsch Smoothie
+item.cheesecakeItem.name=Käsekuchen
+item.cherrycheesecakeItem.name=Kirsch-Käsekuchen
 
-item.stuffedeggplantItem.name=Stuffed Eggplant
-item.eggplantparmItem.name=Eggplant Parm
+item.stuffedeggplantItem.name=Gefüllte Aubergine
+item.eggplantparmItem.name=Parmigiana
 
-item.raspberryicedteaItem.name=Raspberry Iced Tea
-item.chaiteaItem.name=Chai Tea
+item.raspberryicedteaItem.name=Himbeer Eistee
+item.chaiteaItem.name=Chai Tee
 
 item.espressoItem.name=Espresso
-item.coffeeconlecheItem.name=Coffee con Leche
-item.mochaicecreamItem.name=Mocha Ice Cream
+item.coffeeconlecheItem.name=Milchkaffee
+item.mochaicecreamItem.name=Mokka Eiscreme
 
-item.pickledbeetsItem.name=Pickled Beets
-item.beetsaladItem.name=Beet Salad
-item.beetsoupItem.name=Beet Soup
-item.bakedbeetsItem.name=Baked Beets
+item.pickledbeetsItem.name=Eingelegte Rüben
+item.beetsaladItem.name=Rübensalat
+item.beetsoupItem.name=Rübensuppe
+item.bakedbeetsItem.name=Gebackene Rüben
 
 item.broccolimacItem.name=Broccoli Mac
 item.broccolindipItem.name=Broccoli n Dip
