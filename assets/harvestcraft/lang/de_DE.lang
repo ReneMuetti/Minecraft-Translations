@@ -16,7 +16,7 @@ tile.presser.name=Presse
 sink_0.name=Wasser-Fass
 sink_1.name=Steinbecken
 sink_2.name=Tonkrug
-sink_3.name=Brick Well
+sink_3.name=Ziegelbrunnen
 
 tile.salt.name=Steinsalz
 tile.pamcompressedsaltBlock.name=Komprimierter Steinsalzblock
