@@ -1,5 +1,8 @@
 # Minecraft-Translations
 
-Pam's Harvestcraft
+- Pam's Harvestcraft
+- Mo' Furnaces Mod
+
 ******************
+
 German 
