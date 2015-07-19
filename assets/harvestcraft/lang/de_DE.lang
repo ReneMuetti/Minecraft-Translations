@@ -957,15 +957,15 @@ item.walleyerawItem.name=Rohes Wahlauge
 
 item.holidaycakeItem.name=Feiertagskuchen
 
-item.clamcookedItem.name=Cooked Clam
-item.crabcookedItem.name=Cooked Crab
-item.crayfishcookedItem.name=Cooked Crayfish
-item.frogcookedItem.name=Cooked Frog Legs
-item.octopuscookedItem.name=Cooked Octopus
-item.scallopcookedItem.name=Cooked Scallop
-item.shrimpcookedItem.name=Cooked Shrimp
-item.snailcookedItem.name=Cooked Snail
-item.turtlecookedItem.name=Cooked Turtle
+item.clamcookedItem.name=Gekochte Muschel
+item.crabcookedItem.name=Gekochte Krabben
+item.crayfishcookedItem.name=Gekochte Flusskrebse
+item.frogcookedItem.name=Gekochte Froschchenkel
+item.octopuscookedItem.name=Gekochtrer Tintenfisch
+item.scallopcookedItem.name=Gekochte Jakobsmuscheln
+item.shrimpcookedItem.name=Gekochte Garnelen
+item.snailcookedItem.name=Gekochte Schnecken
+item.turtlecookedItem.name=Gekochte Schildkröte
 
 item.appleciderItem.name=Apple Cider
 item.bangersandmashItem.name=Bangers and Mash
