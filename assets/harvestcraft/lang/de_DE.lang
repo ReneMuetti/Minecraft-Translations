@@ -654,78 +654,78 @@ item.fruitcrumbleItem.name=Früchte-Allerlei
 item.pearyogurtItem.name=Birnen Joghurt
 item.plumyogurtItem.name=Pflaumen Joghurt
 
-item.bananasplitItem.name=Banana Split
-item.banananutbreadItem.name=Banana Nut Bread
-item.bananasmoothieItem.name=Banana Smoothie
-item.bananayogurtItem.name=Banana Yogurt
+item.bananasplitItem.name=Bananensplit
+item.banananutbreadItem.name=Bananen-Kernbrot
+item.bananasmoothieItem.name=Bananen Smoothie
+item.bananayogurtItem.name=Bananen Joghurt
 
-item.coconutmilkItem.name=Coconut Milk
-item.chickencurryItem.name=Chicken Curry
-item.coconutshrimpItem.name=Coconut Shrimp
-item.coconutyogurtItem.name=Coconut Yogurt
+item.coconutmilkItem.name=Kokosmilch
+item.chickencurryItem.name=Hühnchen-Curry
+item.coconutshrimpItem.name=Kokosnuss Garnelen
+item.coconutyogurtItem.name=Kokosnuss Joghurt
 
-item.orangejuiceItem.name=Orange Juice
-item.orangechickenItem.name=Orange Chicken
-item.orangesmoothieItem.name=Orange Smoothie
-item.orangeyogurtItem.name=Orange Yogurt
+item.orangejuiceItem.name=Orange Saft
+item.orangechickenItem.name=Hähnchen mit Orangen
+item.orangesmoothieItem.name=Orangen Smoothie
+item.orangeyogurtItem.name=Orangen Joghurt
 
-item.peachjuiceItem.name=Peach Juice
-item.peachcobblerItem.name=Peach Cobbler
-item.peachsmoothieItem.name=Peach Smoothie
-item.peachyogurtItem.name=Peach Yogurt
+item.peachjuiceItem.name=Pfirsichsaft
+item.peachcobblerItem.name=Pfirsich Flickschuster
+item.peachsmoothieItem.name=Pfirsich Smoothie
+item.peachyogurtItem.name=Pfirsich Joghurt
 
-item.limejuiceItem.name=Lime Juice
-item.keylimepieItem.name=Keylime Pie
-item.limesmoothieItem.name=Lime Smoothie
-item.limeyogurtItem.name=Lime Yogurt
+item.limejuiceItem.name=Limettensaft
+item.keylimepieItem.name=Limettenkuchen
+item.limesmoothieItem.name=Limetten Smoothie
+item.limeyogurtItem.name=Limetten Joghurt
 
-item.mangojuiceItem.name=Mango Juice
+item.mangojuiceItem.name=Mango Saft
 item.mangosmoothieItem.name=Mango Smoothie
-item.mangoyogurtItem.name=Mango Yogurt
+item.mangoyogurtItem.name=Mango Joghurt
 
-item.pomegranatejuiceItem.name=Pomegranate Juice
-item.pomegranatesmoothieItem.name=Pomegranate Smoothie
-item.pomegranateyogurtItem.name=Pomegranate Yogurt
+item.pomegranatejuiceItem.name=Granatapfelsaft
+item.pomegranatesmoothieItem.name=Granatapfel Smoothie
+item.pomegranateyogurtItem.name=Granatapfel Joghurt
 
-item.vanillayogurtItem.name=Vanilla Yogurt
+item.vanillayogurtItem.name=Vanille Joghurt
 
-item.cinnamonrollItem.name=Cinnamon Roll
-item.frenchtoastItem.name=French Toast
+item.cinnamonrollItem.name=Zimtschnecke
+item.frenchtoastItem.name=Französisches Toast
 
 item.marshmellowsItem.name=Marshmellows
 item.donutItem.name=Donut
-item.chocolatedonutItem.name=Chocolate Donut
-item.powdereddonutItem.name=Powdered Donut
-item.jellydonutItem.name=Jelly Donut
-item.frosteddonutItem.name=Frosted Donut
+item.chocolatedonutItem.name=Schokoladen Donut
+item.powdereddonutItem.name=Gepuderter Donut
+item.jellydonutItem.name=Gelée Donut
+item.frosteddonutItem.name=Glasierter Donut
 
-item.cactussoupItem.name=Cactus Soup
-item.wafflesItem.name=Waffles
-item.seedsoupItem.name=Seed Soup
-item.softpretzelItem.name=Soft Pretzel
-item.jellybeansItem.name=Jellybeans
-item.biscuitItem.name=Biscuit
+item.cactussoupItem.name=Kaktussupper
+item.wafflesItem.name=Waffeln
+item.seedsoupItem.name=Kernsuppe
+item.softpretzelItem.name=Laugenbretzel
+item.jellybeansItem.name=Geléebohnen
+item.biscuitItem.name=Biskuit
 
-item.creamcookieItem.name=Cream Cookie
-item.jaffaItem.name=Jaffa
-item.friedchickenItem.name=Fried Chicken
-item.chocolatesprinklecakeItem.name=Chocolate Spinkles Cake
-item.redvelvetcakeItem.name=Red Velvet Cake
+item.creamcookieItem.name=Sahne-Plätzchen
+item.jaffaItem.name=Jaffa-Kekse
+item.friedchickenItem.name=Gebratenes Huhn
+item.chocolatesprinklecakeItem.name=Schoko-Streusel-Kuchen
+item.redvelvetcakeItem.name=Roter Samtkuchen
 item.footlongItem.name=Footlong
 
-item.blueberryyogurtItem.name=Blueberry Yogurt
-item.lemonyogurtItem.name=Lemon Yogurt
-item.cherryyogurtItem.name=Cherry Yogurt
-item.strawberryyogurtItem.name=Strawberry Yogurt
-item.grapeyogurtItem.name=Grape Yogurt
-item.chocolateyogurtItem.name=Chocolate Yogurt
+item.blueberryyogurtItem.name=Blaubeer Joghurt
+item.lemonyogurtItem.name=Zitronen Joghurt
+item.cherryyogurtItem.name=Kirsch Joghurt
+item.strawberryyogurtItem.name=Erdbeer Joghurt
+item.grapeyogurtItem.name=Trauben Joghurt
+item.chocolateyogurtItem.name=Schokoladen Joghurt
 
-item.blackberryjuiceItem.name=Blackberry Juice
-item.blackberrycobblerItem.name=Blackberry Cobbler
-item.blackberrysmoothieItem.name=Blackberry Smoothie
-item.blackberryyogurtItem.name=Blackberry Yogurt
-item.chocolatemilkItem.name=Chocolate Milk
-item.pumpkinyogurtItem.name=Pumpkin Yogurt
+item.blackberryjuiceItem.name=Brombeer Saft
+item.blackberrycobblerItem.name=Brombeer Flickschuster
+item.blackberrysmoothieItem.name=Brombeer Smoothie
+item.blackberryyogurtItem.name=Brombeer Joghurt
+item.chocolatemilkItem.name=Schokoladen Milch
+item.pumpkinyogurtItem.name=Kürbis Joghurt
 
 item.raspberryjuiceItem.name=Raspberry Juice
 item.raspberrypieItem.name=Raspberry Pie
