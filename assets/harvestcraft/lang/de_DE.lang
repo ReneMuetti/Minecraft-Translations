@@ -1,6 +1,6 @@
 itemGroup.tabHarvestCraft=HarvestCraft Allgemein
 itemGroup.tabHarvestCraft2=HarvestCraft Pflanzen
-itemGroup.tabHarvestCraft3=HarvestCraft Mahrung
+itemGroup.tabHarvestCraft3=HarvestCraft Nahrung
 
 # Tooltips
 tooltip.harvestcraft.item.queenbeeItem=Bienenhaus: Bienenwabe, Wachswabe, Maden\nCrafting Grid: Gelee Royal bei 0 Haltbarkeit
