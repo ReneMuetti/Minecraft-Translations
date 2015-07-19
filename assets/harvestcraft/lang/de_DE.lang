@@ -472,76 +472,76 @@ item.stockItem.name=Lager
 item.fruitsaladItem.name=Fruchtsalat
 
 item.spagettiItem.name=Spagetti
-item.spagettiandmeatballsItem.name=Spagetti and Meatballs
-item.tomatosoupItem.name=Tomato Soup
+item.spagettiandmeatballsItem.name=Spagetti mit Fleischbällchen
+item.tomatosoupItem.name=Tomatensuppe
 item.ketchupItem.name=Ketchup
-item.chickenparmasanItem.name=Chicken Parmasan
+item.chickenparmasanItem.name=Hühnerbrust in Parmesankruste
 item.pizzaItem.name=Pizza
 
-item.springsaladItem.name=Spring Salad
-item.porklettucewrapItem.name=Pork Lettuce Wrap
-item.fishlettucewrapItem.name=Fish Lettuce Wrap
-item.bltItem.name=BLT
+item.springsaladItem.name=Frühlingssalat
+item.porklettucewrapItem.name=Schweinefleisch Krautwickel
+item.fishlettucewrapItem.name=Fisch Krautwickel
+item.bltItem.name=Speck, Salat und Tomaten-Sandwich
 item.leafychickensandwichItem.name=Leafy Chicken Sandwich
 item.leafyfishsandwichItem.name=Leafy Fish Sandwich
 item.deluxecheeseburgerItem.name=Deluxe Cheeseburger
-item.delightedmealItem.name=Delighted Meal
+item.delightedmealItem.name=begeisterte Mahlzeit
 
-item.onionsoupItem.name=Onion Soup
-item.potatocakesItem.name=Potato Cakes
-item.hashItem.name=Hash
-item.braisedonionsItem.name=Braised Onions
-item.heartybreakfastItem.name=Hearty Breakfast
+item.onionsoupItem.name=Zwiebelsuppe
+item.potatocakesItem.name=Kartoffel-Kuchen
+item.hashItem.name=Hasch
+item.braisedonionsItem.name=Geschmorte Zwiebeln
+item.heartybreakfastItem.name=Herzhaftes Frühstück
 
-item.cornonthecobItem.name=Corn on the Cob
-item.cornmealItem.name=Cornmeal
-item.cornbreadItem.name=Cornbread
+item.cornonthecobItem.name=Maiskolben
+item.cornmealItem.name=Maismehl
+item.cornbreadItem.name=Maisbrot
 item.tortillaItem.name=Tortilla
 item.nachoesItem.name=Nachoes
 item.tacoItem.name=Taco
-item.fishtacoItem.name=Fish Taco
-item.creamedcornItem.name=Creamed Corn
+item.fishtacoItem.name=Fisch Taco
+item.creamedcornItem.name=Maisbrei
 
-item.strawberrysmoothieItem.name=Strawberry Smoothie
-item.strawberrypieItem.name=Strawberry Pie
-item.strawberrysaladItem.name=Strawberry Salad
-item.strawberryjuiceItem.name=Strawberry Juice
-item.chocolatestrawberryItem.name=Chocolate Strawberry
+item.strawberrysmoothieItem.name=Erdbeeren Smoothie
+item.strawberrypieItem.name=Erdbeertorte
+item.strawberrysaladItem.name=Erdbeersalat
+item.strawberryjuiceItem.name=Erdbeersaft
+item.chocolatestrawberryItem.name=Schokoladen-Erdbeere
 
-item.peanutbutterItem.name=Peanut Butter
-item.trailmixItem.name=Trail Mix
-item.pbandjItem.name=PB&J
-item.peanutbuttercookiesItem.name=Peanut Butter Cookies
+item.peanutbutterItem.name=Erdnussbutter
+item.trailmixItem.name=Studentenfutter
+item.pbandjItem.name=Erdnussbutter und Gelee-Sandwich
+item.peanutbuttercookiesItem.name=Erdnussbutter-Plätzchen
 
-item.grapejuiceItem.name=Grape Juice
-item.vinegarItem.name=Vinegar
-item.grapejellyItem.name=Grape Jelly
-item.grapesaladItem.name=Grape Salad
-item.raisincookiesItem.name=Raisin Cookies
+item.grapejuiceItem.name=Traubensaft
+item.vinegarItem.name=Essig
+item.grapejellyItem.name=Traubengelée
+item.grapesaladItem.name=Traubensalat
+item.raisincookiesItem.name=Rosine-Plätzchen
 
-item.picklesItem.name=Pickles
-item.cucumbersaladItem.name=Cucumber Salad
-item.cucumbersoupItem.name=Cucumber Soup
-item.vegetarianlettucewrapItem.name=Vegetarian Lettuce Wrap
-item.marinatedcucumbersItem.name=Marinated Cucumbers
+item.picklesItem.name=Eingelegtes Gemüse
+item.cucumbersaladItem.name=Gurkensalat
+item.cucumbersoupItem.name=Gurkensuppe
+item.vegetarianlettucewrapItem.name=Vegetarische Krautwickel
+item.marinatedcucumbersItem.name=Essiggurken
 
-item.ricesoupItem.name=Rice Soup
-item.friedriceItem.name=Fried Rice
-item.mushroomrisottoItem.name=Mushroom Risotto
-item.curryItem.name=Curry Rice
-item.rainbowcurryItem.name=Rainbow Curry
+item.ricesoupItem.name=Reissuppe
+item.friedriceItem.name=Gebratener Reis
+item.mushroomrisottoItem.name=Pilz-Risotto
+item.curryItem.name=Curry-Reis
+item.rainbowcurryItem.name=Regenbogen-Curry
 
-item.refriedbeansItem.name=Refried Beans
-item.bakedbeansItem.name=Baked Beans
-item.beansandriceItem.name=Beans and Rice
+item.refriedbeansItem.name=Bohnenpüree
+item.bakedbeansItem.name=Gebackenen Bohnen
+item.beansandriceItem.name=Bohnen und Reis
 item.chiliItem.name=Chili
-item.beanburritoItem.name=Bean Burrito
+item.beanburritoItem.name=Bohnen Burrito
 
-item.stuffedpepperItem.name=Stuffed Pepper
-item.veggiestirfryItem.name=Veggie Stirfry
-item.grilledskewersItem.name=Grilled Skewer
+item.stuffedpepperItem.name=Gefüllte Paprika
+item.veggiestirfryItem.name=Vegetarischer Stir-Fry
+item.grilledskewersItem.name=Gegrillter Bratspieß
 item.supremepizzaItem.name=Supreme Pizza
-item.omeletItem.name=Omelet
+item.omeletItem.name=Omelett
 
 item.hotwingsItem.name=Hot Wings
 item.chilipoppersItem.name=Chili Poppers
