@@ -191,39 +191,39 @@ tile.pamcandleDeco14.name=Grüne Kerze
 tile.pamcandleDeco15.name=Rote Kerze
 tile.pamcandleDeco16.name=Schwarze Kerze
 
-tile.pamcarrotCake.name=Carrot Cake
-tile.pamcheeseCake.name=Cheese Cake
-tile.pamcherrycheeseCake.name=Cherry Cheese Cake
-tile.pampineappleupsidedownCake.name=Pineapple Upside Down Cake
-tile.pamchocolatesprinkleCake.name=Chocolate Sprinkle Cake
-tile.pamredvelvetCake.name=Red Velvet Cake
-tile.pamlamingtonCake.name=Lamington
-tile.pampavlovaCake.name=Pavlova
-tile.pamholidayCake.name=Holiday Cake
-tile.pampumpkincheeseCake.name=Pumpkin Cheese Cake
+tile.pamcarrotCake.name=Karottenkuchen
+tile.pamcheeseCake.name=Käsekuchen
+tile.pamcherrycheeseCake.name=Kirschkäsekuchen
+tile.pampineappleupsidedownCake.name=Umgestürzte Ananastarte
+tile.pamchocolatesprinkleCake.name=Schokostreuselkuchen
+tile.pamredvelvetCake.name=Roter Samtkuchen
+tile.pamlamingtonCake.name=Kokoswürfel
+tile.pampavlovaCake.name=Pawlova
+tile.pamholidayCake.name=Hochzeitskuchen
+tile.pampumpkincheeseCake.name=Kürbis-Käsekuchen
 
 # Items
-item.cottonItem.name=Cotton
-item.wovencottonItem.name=Woven Cotton
-item.cottonseedItem.name=Cotton Seed
+item.cottonItem.name=Baumwolle
+item.wovencottonItem.name=Gewebte Baumwolle
+item.cottonseedItem.name=Baumwollsamen
 
-item.candleberryItem.name=Candleberry
-item.candleberryseedItem.name=Candleberry Seed
-item.waxItem.name=Candleberry Wax
+item.candleberryItem.name=Lichtnussbeere
+item.candleberryseedItem.name=Lichtnussbeerensamen
+item.waxItem.name=Lichtnussbeerenwachs
 
-item.hardenedleatherhelmItem.name=Hardened Leather Helm
-item.hardenedleatherchestItem.name=Hardened Leather Chest
-item.hardenedleatherleggingsItem.name=Hardened Leather Leggings
-item.hardenedleatherbootsItem.name=Hardened Leather Boots
-item.hardenedleatherItem.name=Hardened Leather
+item.hardenedleatherhelmItem.name=Gehärteter Lederhelm
+item.hardenedleatherchestItem.name=Gehärtete Lederrüstung
+item.hardenedleatherleggingsItem.name=Gehärtete Lederhose
+item.hardenedleatherbootsItem.name=Gehärtete Lederschuhe
+item.hardenedleatherItem.name=Gehärtetes Leder
 
-item.queenbeeItem.name=Queen Bee
-item.waxcombItem.name=Waxcomb
-item.honeycombItem.name=Honeycomb
-item.honeyItem.name=Honey
-item.beeswaxItem.name=Beeswax
-item.royaljellyItem.name=Royal Jelly
-item.grubItem.name=Bee Grub
+item.queenbeeItem.name=Bienenkönigin
+item.waxcombItem.name=Wachswabe
+item.honeycombItem.name=Honigwabe
+item.honeyItem.name=Hohnig
+item.beeswaxItem.name=Bienenwachs
+item.royaljellyItem.name=Gelée royale
+item.grubItem.name=Bienen Made
 
 item.grainbaitItem.name=Grain Bait
 item.veggiebaitItem.name=Veggie Bait
