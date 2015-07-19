@@ -3,7 +3,7 @@ itemGroup.tabHarvestCraft2=HarvestCraft Pflanzen
 itemGroup.tabHarvestCraft3=HarvestCraft Nahrung
 
 # Tooltips
-tooltip.harvestcraft.item.queenbeeItem=Bienenhaus: Bienenwabe, Wachswabe, Maden\nCrafting Grid: Gelee Royal bei 0 Haltbarkeit
+tooltip.harvestcraft.item.queenbeeItem=Bienenhaus: Bienenwabe, Wachswabe, Maden\nCrafting Grid: Gelee Royal hat keine Haltbarkeit
 
 # Blocks
 tile.cuttingboard.name=Schneidebrett
