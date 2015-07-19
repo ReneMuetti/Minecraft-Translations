@@ -24,13 +24,13 @@ tile.ObsidianFurnaceT3Idle.name=Klasse 3 Obsidianofen
 
 tile.BrickFurnaceActive.name=Ziegelofen
 tile.SteelFurnaceActive.name=Stahlofen
-tile.GoldFurnaceActive.name=Gold Furnace
-tile.NetherrackFurnaceActive.name=Netherrack Furnace
+tile.GoldFurnaceActive.name=Goldofen
+tile.NetherrackFurnaceActive.name=Netherrackofen
 tile.QuartzFurnaceActive.name=Quartzofen
 tile.DiamondFurnaceActive.name=Diamantofen
 tile.ObsidianFurnaceActive.name=Obsidianofen
 tile.BoneFurnaceActive.name=Bone Furnace
-tile.RedstoneFurnaceActive.name=Redstone Furnace
+tile.RedstoneFurnaceActive.name=Redstoneofen
 tile.AnvilFurnaceActive.name=Anvil Furnace
 tile.CactusFurnaceActive.name=Cactus Furnace
 tile.PumpkinFurnaceActive.name=Pumpkin Furnace
