@@ -1,0 +1,41 @@
+tile.flabs.bf.0.name=Iron Furnace
+tile.flabs.bf.1.name=Gold Furnace
+tile.flabs.bf.2.name=Diamond Furnace
+tile.flabs.bf.3.name=Hell Furnace
+tile.flabs.bf.4.name=Extreme Furnace
+
+item.flabs.upender.name=Fuel Efficiency Upgrade
+item.flabs.upore.name=Ore Processing Upgrade
+item.flabs.upstorage.name=Storage Upgrade
+item.flabs.upliquid.name=Liquid Fuel Upgrade
+item.flabs.upadvender.name=Advanced Fuel Efficiency Upgrade
+item.flabs.upadvore.name=Advanced Ore Processing Upgrade
+item.flabs.upcolor.name=Color Upgrade
+item.flabs.upoutput.name=Auto-Output Upgrade
+item.flabs.upinput.name=Auto-Input Upgrade
+item.flabs.upfactory.name=Factory Upgrade
+item.flabs.upfactory.desc=Does not affect piping connections
+item.flabs.uporedict.name=Ore Dictionary Upgrade
+item.flabs.uppackage.name=Upgrade Package
+item.flabs.uppiping.name=Piping Upgrade
+item.flabs.uppiping.desc1=Changes the sides on which the
+item.flabs.uppiping.desc2=Furnace connect to Hoppers or Pipes
+
+gui.flabs.outdir=Output Direction:
+gui.flabs.indir=Input Direction:
+gui.flabs.findir=Fuel Input Direction:
+gui.flabs.top=Top
+gui.flabs.bot=Bottom
+gui.flabs.lef=Left
+gui.flabs.rig=Right
+gui.flabs.bac=Back
+gui.flabs.red=Red
+gui.flabs.gre=Green
+gui.flabs.blu=Blue
+
+achievement.buildBetterFurnace = Iron Smeltery
+achievement.buildBetterFurnace.desc = Build an Iron Furnace
+achievement.buildExtremeFurnace = Maxed Out
+achievement.buildExtremeFurnace.desc = Build an Extreme Furnace
+
+itemGroup.flabs.bfct=Better Furnaces

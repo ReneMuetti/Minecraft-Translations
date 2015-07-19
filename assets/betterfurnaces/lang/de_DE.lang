@@ -1,0 +1,41 @@
+tile.flabs.bf.0.name=Eisen Ofen
+tile.flabs.bf.1.name=Gold Ofen
+tile.flabs.bf.2.name=Diamant Ofen
+tile.flabs.bf.3.name=Höllen Ofen
+tile.flabs.bf.4.name=Extrem Ofen
+
+item.flabs.upender.name=Kraftstoffeffizienz-Upgrade
+item.flabs.upore.name=Erzverarbeitungs-Upgrade
+item.flabs.upstorage.name=Speicherraum-Upgrade
+item.flabs.upliquid.name=Flüssigkraftstoff-Upgrade
+item.flabs.upadvender.name=Fortgeschrittenes-Kraftstoffeffizienz-Upgrade
+item.flabs.upadvore.name=Fortgeschrittenes-Erzverarbeitungs-Upgrade
+item.flabs.upcolor.name=Farb-Wahl Upgrade
+item.flabs.upoutput.name=Automatisches-Ausgabe Upgrade
+item.flabs.upinput.name=Automatisches-Aufnahme Upgrade
+item.flabs.upfactory.name=Fabrik Upgrade
+item.flabs.upfactory.desc=Beeinflusst nicht die Rohrverbindungen
+item.flabs.uporedict.name=Erzbibliothek Upgrade
+item.flabs.uppackage.name=Upgrade Paket
+item.flabs.uppiping.name=Verbindungs Upgrade
+item.flabs.uppiping.desc1=Ändert die Seiten an denen sich
+item.flabs.uppiping.desc2=Trichter und Rohre zu den Slots verbinden
+
+gui.flabs.outdir=Ausgaberichtung:
+gui.flabs.indir=Aufnahmerichtung:
+gui.flabs.findir=Kraftstoffaufnahmerichtung:
+gui.flabs.top=Oben
+gui.flabs.bot=Unten
+gui.flabs.lef=Links
+gui.flabs.rig=Rechts
+gui.flabs.bac=Hinten
+gui.flabs.red=Rot
+gui.flabs.gre=Grün
+gui.flabs.blu=Blau
+
+achievement.buildBetterFurnace = Eiserner Schmelzofen
+achievement.buildBetterFurnace.desc = Bau einen eisernen Ofen
+achievement.buildExtremeFurnace = Maximale Feuerkraft
+achievement.buildExtremeFurnace.desc = Bau einen Extremofen
+
+itemGroup.flabs.bfct=Better Furnaces

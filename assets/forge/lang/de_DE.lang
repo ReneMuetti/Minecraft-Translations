@@ -1,0 +1,5 @@
+commands.forge.usage=Benutze /forge <subcommand>. Subcommands dins tps, track
+commands.forge.usage.tracking=Benutze /forge track <type> <duration>. Gültige Typen sind die (Tile Entities). Haltbarkeit muß < 60.
+commands.forge.tps.summary=%s : Mean tick time: %d ms. Mean TPS: %d
+
+commands.forge.tracking.te.enabled=Tile Entity-Tracking aktiviert für %d Sekunden.
