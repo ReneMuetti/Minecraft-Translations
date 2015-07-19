@@ -587,72 +587,72 @@ item.bakedbeetsItem.name=Gebackene Rüben
 
 item.broccolimacItem.name=Broccoli Mac
 item.broccolindipItem.name=Broccoli n Dip
-item.creamedbroccolisoupItem.name=Creamed Broccoli Soup
+item.creamedbroccolisoupItem.name=Broccoli-Rahm-Suppe
 
-item.sweetpotatopieItem.name=Sweet Potato Pie
-item.candiedsweetpotatoesItem.name=Candied Sweet Potatoes
-item.mashedsweetpotatoesItem.name=Mashed Sweet Potatoes
+item.sweetpotatopieItem.name=Süßkartoffelkuchen
+item.candiedsweetpotatoesItem.name=Kandierte Süßkartoffeln
+item.mashedsweetpotatoesItem.name=Süßkartoffelpüree
 
-item.steamedpeasItem.name=Steamed Peas
-item.splitpeasoupItem.name=Split Pea Soup
+item.steamedpeasItem.name=Gedämpfte Erbsen
+item.splitpeasoupItem.name=Erbspüree
 
-item.pineappleupsidedowncakeItem.name=Pineapple Upsidedown Cake
-item.pineapplehamItem.name=Pineapple Ham
-item.pineappleyogurtItem.name=Pineapple Yogurt
+item.pineappleupsidedowncakeItem.name=Umgestürzte Ananastarte
+item.pineapplehamItem.name=Ananas Schinken
+item.pineappleyogurtItem.name=Ananas Joghurt
 
-item.turnipsoupItem.name=Turnip Soup
-item.roastedrootveggiemedleyItem.name=Roasted Root Veggie Medley
-item.bakedturnipsItem.name=Baked Turnips
+item.turnipsoupItem.name=Rübensuppe
+item.roastedrootveggiemedleyItem.name=Gebratenes Vegetarisches Wurzel Medley
+item.bakedturnipsItem.name=Gebackene Rüben
 
-item.gingerbreadItem.name=Ginger Bread
-item.gingersnapsItem.name=Ginger Snaps
-item.candiedgingerItem.name=Candied Ginger
+item.gingerbreadItem.name=Ingwerbrot
+item.gingersnapsItem.name=Ingweerschnaps
+item.candiedgingerItem.name=Kandierter Ingwer
 
-item.mustardItem.name=Mustard
-item.softpretzelandmustardItem.name=Soft Pretzel and Mustard
-item.spicymustardporkItem.name=Spicy Mustard Pork
-item.spicygreensItem.name=Spicy Greens
+item.mustardItem.name=Senf
+item.softpretzelandmustardItem.name=Laugenbretzel und Senf
+item.spicymustardporkItem.name=Schweinefleisch mit würzigem Senf
+item.spicygreensItem.name=Grüner Salat
 
-item.garlicbreadItem.name=Garlic Bread
-item.garlicmashedpotatoesItem.name=Garlic Mashed Potatoes
-item.garlicchickenItem.name=Garlic Chicken
+item.garlicbreadItem.name=Knoblauchbrot
+item.garlicmashedpotatoesItem.name=Kartoffelbrei mit Knoblauch
+item.garlicchickenItem.name=Knoblauch-Hähnchen
 
-item.summerradishsaladItem.name=Summer Radish Salad
-item.summersquashwithradishItem.name=Summer Squash with Radish
+item.summerradishsaladItem.name=Sommer-Radieschen-Salat
+item.summersquashwithradishItem.name=Sommer-Kürbis mit Rettich
 
-item.celeryandpeanutbutterItem.name=Celery and Peanut Butter
-item.chickencelerycasseroleItem.name=Chicken Celery Casserole
-item.peasandceleryItem.name=Peas and Celery
-item.celerysoupItem.name=Celery Soup
+item.celeryandpeanutbutterItem.name=Sellerie mit Erdnussbutter
+item.chickencelerycasseroleItem.name=Hähnchen Sellerie Auflauf
+item.peasandceleryItem.name=Erbsen und Sellerie
+item.celerysoupItem.name=Sellerie Suppe
 
-item.zucchinibreadItem.name=Zucchini Bread
-item.zucchinifriesItem.name=Zucchini Fries
-item.zestyzucchiniItem.name=Zesty Zucchini
-item.zucchinibakeItem.name=Zucchini Bake
+item.zucchinibreadItem.name=Zucchini-Brot
+item.zucchinifriesItem.name=Zucchini-Fritten
+item.zestyzucchiniItem.name=Pikante Zucchini
+item.zucchinibakeItem.name=Gebackene Zucchini
 
-item.asparagusquicheItem.name=Asparagus Quiche
-item.asparagussoupItem.name=Asparagus Soup
+item.asparagusquicheItem.name=Spargelpastete
+item.asparagussoupItem.name=Spargelsuppe
 
-item.walnutraisinbreadItem.name=Walnut Raisin Bread
-item.candiedwalnutsItem.name=Candied Walnuts
-item.brownieItem.name=Brownie
+item.walnutraisinbreadItem.name=Walnuss Rosinen Brot
+item.candiedwalnutsItem.name=kandierte Walnüsse
+item.brownieItem.name=Schokoladenkuchen
 
-item.papayajuiceItem.name=Papaya Juice
+item.papayajuiceItem.name=Papaya Saft
 item.papayasmoothieItem.name=Papaya Smoothie
-item.papayayogurtItem.name=Papaya Yogurt
+item.papayayogurtItem.name=Papaya Joghurt
 
-item.starfruitjuiceItem.name=Starfruit Juice
-item.starfruitsmoothieItem.name=Starfruit Smoothie
-item.starfruityogurtItem.name=Starfruit Yogurt
+item.starfruitjuiceItem.name=Sternenfrucht Saft
+item.starfruitsmoothieItem.name=Sternenfrucht Smoothie
+item.starfruityogurtItem.name=Sternenfrucht Joghurt
 
 item.guacamoleItem.name=Guacamole
-item.creamofavocadosoupItem.name=Cream of Avocado Soup
+item.creamofavocadosoupItem.name=Avocadocreme Suppe
 item.avocadoburritoItem.name=Avocado Burrito
 
-item.poachedpearItem.name=Poached Pear
-item.fruitcrumbleItem.name=Fruit Crumble
-item.pearyogurtItem.name=Pear Yogurt
-item.plumyogurtItem.name=Plum Yogurt
+item.poachedpearItem.name=pochierte Birne
+item.fruitcrumbleItem.name=Früchte-Allerlei
+item.pearyogurtItem.name=Birnen Joghurt
+item.plumyogurtItem.name=Pflaumen Joghurt
 
 item.bananasplitItem.name=Banana Split
 item.banananutbreadItem.name=Banana Nut Bread
