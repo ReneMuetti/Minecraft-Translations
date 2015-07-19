@@ -32,12 +32,12 @@ tile.animaltrap.name=Tierfalle
 tile.dehydrator.name=Dehydrator
 
 tile.berrygarden.name=Beerengarten
-tile.desertgarden.name=Wüstengarten
-tile.gourdgarden.name=Kürbis-Garten
+tile.desertgarden.name=WÃ¼stengarten
+tile.gourdgarden.name=KÃ¼rbis-Garten
 tile.grassgarden.name=Rasengarten
 tile.groundgarden.name=Bodengarten
-tile.herbgarden.name=Kräutergarten
-tile.leafygarden.name=Grüner Garten
+tile.herbgarden.name=KrÃ¤utergarten
+tile.leafygarden.name=GrÃ¼ner Garten
 tile.mushroomgarden.name=Pilzgarten
 tile.stalkgarden.name=Stalk Garden
 tile.textilegarden.name=Stoffgarten
