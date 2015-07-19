@@ -1,0 +1,95 @@
+﻿tile.BrickFurnaceIdle.name=Ziegelofen
+tile.SteelFurnaceIdle.name=Stahlofen
+tile.GoldFurnaceIdle.name=Goldofen
+tile.QuartzFurnaceIdle.name=Quartzofen
+tile.DiamondFurnaceIdle.name=Diamantofen
+tile.ObsidianFurnaceIdle.name=Obsidianofen
+tile.BoneFurnaceIdle.name=Knochenofen
+tile.RedstoneFurnaceIdle.name=Redstoneofen
+tile.AnvilFurnaceIdle.name=Ambossofen
+tile.CactusFurnaceIdle.name=Kaktusofen
+tile.PumpkinFurnaceIdle.name=Kürbisofen
+
+tile.BrickFurnaceT2Idle.name=Klasse 2 Ziegelofen
+tile.SteelFurnaceT2Idle.name=Klasse 2 Stahlofen
+tile.QuartzFurnaceT2Idle.name=Klasse 2 Quartzofen
+tile.DiamondFurnaceT2Idle.name=Klasse 2 Diamantofen
+tile.ObsidianFurnaceT2Idle.name=Klasse 2 Obsidianofen
+
+tile.BrickFurnaceT3Idle.name=Klasse 3 Ziegelofen
+tile.SteelFurnaceT3Idle.name=Klasse 3 Stahlofen
+tile.QuartzFurnaceT3Idle.name=Klasse 3 Quartzofen
+tile.DiamondFurnaceT3Idle.name=Klasse 3 Diamantofen
+tile.ObsidianFurnaceT3Idle.name=Klasse 3 Obsidianofen
+
+tile.BrickFurnaceActive.name=Ziegelofen
+tile.SteelFurnaceActive.name=Stahlofen
+tile.GoldFurnaceActive.name=Gold Furnace
+tile.NetherrackFurnaceActive.name=Netherrack Furnace
+tile.QuartzFurnaceActive.name=Quartzofen
+tile.DiamondFurnaceActive.name=Diamantofen
+tile.ObsidianFurnaceActive.name=Obsidianofen
+tile.BoneFurnaceActive.name=Bone Furnace
+tile.RedstoneFurnaceActive.name=Redstone Furnace
+tile.AnvilFurnaceActive.name=Anvil Furnace
+tile.CactusFurnaceActive.name=Cactus Furnace
+tile.PumpkinFurnaceActive.name=Pumpkin Furnace
+
+tile.BrickFurnaceT2Active.name=Klasse 2 Ziegelofen
+tile.SteelFurnaceT2Active.name=Klasse 2 Stahlofen
+tile.QuartzFurnaceT2Active.name=Klasse 2 Quartzofen
+tile.DiamondFurnaceT2Active.name=Klasse 2 Diamantofen
+tile.ObsidianFurnaceT2Active.name=Klasse 2 Obsidianofen
+
+tile.BrickFurnaceT3Active.name=Klasse 3 Ziegelofen
+tile.SteelFurnaceT3Active.name=Klasse 3 Stahlofen
+tile.QuartzFurnaceT2Active.name=Klasse 2 Quartzofen
+tile.DiamondFurnaceT3Active.name=Klasse 3 Diamantofen
+tile.ObsidianFurnaceT3Active.name=Klasse 3 Obsidianofen
+
+tile.oreSteel.name=Stahlerz
+
+itemGroup.mfm=Mo' Furnaces Mod
+itemGroup.tieredmfm=Verbesserte Öfen
+
+entity.Cobalt Katana.name=Cobalt Katana
+
+container.Inventory=Inventar
+
+container.brickFurnace=Ziegelofen
+container.steelFurnace=Stahlofen
+container.goldFurnace=Goldofen
+container.netherrackFurnace=Netherrackofen
+container.quartzFurnace=Quartzofen
+container.diamondFurnace=Diamantofen
+container.obsidianFurnace=Obsidianofen
+container.boneFurnace=Knochenofen
+container.redstoneFurnace=Redstoneofen
+container.anvilFurnace=Ambossofen
+container.cactusFurnace=Kaktusofen
+container.pumpkinFurnace=Kürbisofen
+
+container.brickFurnaceT2=Klasse 2 Ziegelofen
+container.steelFurnaceT2=Klasse 2 Stahlofen
+container.quartzFurnaceT2=Klasse 2 Quartzofen
+container.diamondFurnaceT2=Klasse 2 Diamantofen
+container.obsidianFurnaceT2=Klasse 2 Obsidianofen
+
+container.brickFurnaceT3=Klasse 3 Ziegelofen
+container.steelFurnaceT3=Klasse 3 Stahlofen
+container.quartzFurnaceT3=Klasse 3 Quartzofen
+container.diamondFurnaceT3=Klasse 3 Diamantofen
+container.obsidianFurnaceT3=Klasse 3 Obsidianofen
+
+item.Tier2Device.name=Klasse 2 Zusatz
+item.Tier3Device.name=Klasse 3 Zusatz
+item.TierCore.name=Erweiterungskern
+item.UpgradeBrightness.name=Helligkeits Upgrade
+item.SteelIngot.name=Stahlbarren
+item.BoneFragment.name=Knochenfragment
+item.UpgradeNotification.name=Meldungs Upgrade
+item.UpgradeDoubleOutput.name=Doppelte Ausgabe Upgrade
+item.FurnaceBook.name=Mo' Furnaces Handbuch
+item.UpgradeFuelSaver.name=Brennstoff-Retter Upgrade
+item.UpgradeInputTimer.name=Input Timer Upgrade
+item.UpgradeFuelTimer.name=Brennstoff Timer Upgrade

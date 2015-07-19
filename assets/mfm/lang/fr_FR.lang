@@ -1,0 +1,107 @@
+﻿tile.BrickFurnaceIdle.name=Four en brique
+tile.SteelFurnaceIdle.name=Four en acier
+tile.GoldFurnaceIdle.name=Four en or
+tile.QuartzFurnaceIdle.name=Four en quartz
+tile.DiamondFurnaceIdle.name=Four en diamant
+tile.ObsidianFurnaceIdle.name=Four en obsidienne
+tile.BoneFurnaceIdle.name=Four en os
+tile.RedstoneFurnaceIdle.name=Four en redstone
+tile.AnvilFurnaceIdle.name=Four enclume
+tile.CactusFurnaceIdle.name=Four en cactus
+tile.PumpkinFurnaceIdle.name=Four en citrouille
+
+tile.BrickFurnaceT2Idle.name=Four en brique niveau 2
+tile.SteelFurnaceT2Idle.name=Four en acier niveau 2
+tile.QuartzFurnaceT2Idle.name=Four en quartz niveau 2
+tile.DiamondFurnaceT2Idle.name=Four en diamant niveau 2
+tile.ObsidianFurnaceT2Idle.name=Four en obsidienne niveau 2
+
+tile.BrickFurnaceT3Idle.name=Four en brique niveau 3
+tile.SteelFurnaceT3Idle.name=Four en acier niveau 3
+tile.QuartzFurnaceT3Idle.name=Four en quartz niveau 3
+tile.DiamondFurnaceT3Idle.name=Four en diamant niveau 3
+tile.ObsidianFurnaceT3Idle.name=Four en obsidienne niveau 3
+
+
+
+tile.BrickFurnaceActive.name=Four en brique
+tile.SteelFurnaceActive.name=Four en acier
+tile.GoldFurnaceActive.name=Four en or
+tile.NetherrackFurnaceActive.name=Netherrack Furnace
+tile.QuartzFurnaceActive.name=Four en quartz
+tile.DiamondFurnaceActive.name=Four en diamant
+tile.ObsidianFurnaceActive.name=Four en obsidienne
+tile.BoneFurnaceActive.name=Four en os
+tile.RedstoneFurnaceActive.name=Four en redstone
+tile.AnvilFurnaceActive.name=Four enclume
+tile.CactusFurnaceActive.name=Four en cactus
+tile.PumpkinFurnaceActive.name=Four en citrouille
+
+tile.BrickFurnaceT2Active.name=Four en brique niveau 2
+tile.SteelFurnaceT2Active.name=Four en acier niveau 2
+tile.QuartzFurnaceT2Active.name=Four en quartz niveau 2
+tile.DiamondFurnaceT2Active.name=Four en diamant niveau 2
+tile.ObsidianFurnaceT2Active.name=Four en obsidienne niveau 2
+
+tile.BrickFurnaceT3Active.name=Four en brique niveau 3
+tile.SteelFurnaceT3Active.name=Four en acier niveau 3
+tile.QuartzFurnaceT2Active.name=Four en quartz niveau 3
+tile.DiamondFurnaceT3Active.name=Four en diamant niveau 3
+tile.ObsidianFurnaceT3Active.name=Four en obsidienne niveau 3
+
+
+
+tile.oreSteel.name=Minerai d'acier(oups)
+
+
+
+itemGroup.mfm=Mod Mo' Furnaces
+itemGroup.tieredmfm=Fours à niveaux
+
+
+
+entity.Cobalt Katana.name=Katana en cobalt
+
+
+
+container.Inventory=Inventaire
+
+container.brickFurnace=Four en brique
+container.steelFurnace=Four en acier
+container.goldFurnace=Four en or
+container.netherrackFurnace=Netherrack Furnace
+container.quartzFurnace=Four en quartz
+container.diamondFurnace=Four en diamant
+container.obsidianFurnace=Four en obsidienne
+container.boneFurnace=Four en os
+container.redstoneFurnace=Four en redstone
+container.anvilFurnace=Four enclume
+container.cactusFurnace=Four en cactus
+container.pumpkinFurnace=Four en citrouille
+
+container.brickFurnaceT2=Four en brique niveau 2
+container.steelFurnaceT2=Four en acier niveau 2
+container.quartzFurnaceT2=Four en quartz niveau 2
+container.diamondFurnaceT2=Four en diamant niveau 2
+container.obsidianFurnaceT2=Four en obsidienne niveau 2
+
+container.brickFurnaceT3=Four en brique niveau 3
+container.steelFurnaceT3=Four en acier niveau 3
+container.quartzFurnaceT3=Four en quartz niveau 3
+container.diamondFurnaceT3=Four en diamant niveau 3
+container.obsidianFurnaceT3=Four en obsidienne niveau 3
+
+
+
+item.Tier2Device.name=Dispositif niveau 2
+item.Tier3Device.name=Dispositif niveau 2
+item.TierCore.name=Coeur de niveau
+item.UpgradeBrightness.name=Amélioration lumineuse
+item.SteelIngot.name=Lingot d'acier
+item.BoneFragment.name=Fragment d'os
+item.UpgradeNotification.name=Amélioration de notification
+item.UpgradeDoubleOutput.name=Amélioration de double sortie
+item.FurnaceBook.name=Livre guide de Mo' Furnaces
+item.UpgradeFuelSaver.name=Amélioration économie de carburant
+item.UpgradeInputTimer.name=Amélioration vitesse d'entrée
+item.UpgradeFuelTimer.name=Amélioration vitesse de carburant
