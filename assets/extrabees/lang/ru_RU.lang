@@ -1,0 +1,541 @@
+##################################################
+## Items
+
+extrabees.item.comb.barren=бесплодные соты
+extrabees.item.comb.rotten=гнилые соты
+extrabees.item.comb.bone=костяные соты
+extrabees.item.comb.oil=масляные соты
+extrabees.item.comb.coal=окаменевшие соты
+extrabees.item.comb.fuel=нефтяные соты
+extrabees.item.comb.water=влажные соты
+extrabees.item.comb.milk=молочные соты
+extrabees.item.comb.fruit=фруктовые соты
+extrabees.item.comb.seed=семянные соты
+extrabees.item.comb.alcohol=спиртовые соты
+extrabees.item.comb.stone=каменистые соты
+extrabees.item.comb.redstone=энергетические соты
+extrabees.item.comb.resin=янтарные соты
+extrabees.item.comb.ic2energy=статические соты
+extrabees.item.comb.iron=железные соты
+extrabees.item.comb.gold=золотые соты
+extrabees.item.comb.copper=медные соты
+extrabees.item.comb.tin=оловянные соты
+extrabees.item.comb.silver=серебряные соты
+extrabees.item.comb.uranium=урановые соты
+extrabees.item.comb.clay=глиняные соты
+extrabees.item.comb.old=древние соты
+extrabees.item.comb.fungal=грибные соты
+extrabees.item.comb.creosote=смолистые соты
+extrabees.item.comb.latex=каучуковые соты
+extrabees.item.comb.acidic=серные соты
+extrabees.item.comb.venomous=ядовитые соты
+extrabees.item.comb.slime=слизистые соты
+extrabees.item.comb.blaze=горящие соты
+extrabees.item.comb.coffee=кофейные соты
+extrabees.item.comb.glacial=ледяные соты
+extrabees.item.comb.mint=мятные соты
+extrabees.item.comb.citrus=цитрусовые соты
+extrabees.item.comb.peat=торфяные соты
+extrabees.item.comb.shadow=теневые соты
+extrabees.item.comb.lead=свинцовые соты
+extrabees.item.comb.zinc=цинковые соты
+extrabees.item.comb.titanium=титановые соты
+extrabees.item.comb.tungsten=вольфрамовые соты
+extrabees.item.comb.platinum=платиновые соты
+extrabees.item.comb.lapis=лазуритовые соты
+extrabees.item.comb.emerald=изумрудные соты
+extrabees.item.comb.ruby=рубиновые соты
+extrabees.item.comb.sapphire=сапфировые соты
+extrabees.item.comb.diamond=алмазные соты
+extrabees.item.comb.red=окрашенные соты
+extrabees.item.comb.yellow=окрашенные соты
+extrabees.item.comb.blue=окрашенные соты
+extrabees.item.comb.green=окрашенные соты
+extrabees.item.comb.black=окрашенные соты
+extrabees.item.comb.white=окрашенные соты
+extrabees.item.comb.brown=окрашенные соты
+extrabees.item.comb.orange=окрашенные соты
+extrabees.item.comb.cyan=окрашенные соты
+extrabees.item.comb.purple=окрашенные соты
+extrabees.item.comb.gray=окрашенные соты
+extrabees.item.comb.lightblue=окрашенные соты
+extrabees.item.comb.pink=окрашенные соты
+extrabees.item.comb.limegreen=окрашенные соты
+extrabees.item.comb.magenta=окрашенные соты
+extrabees.item.comb.lightgray=окрашенные соты
+extrabees.item.comb.nickel=никелевые соты
+extrabees.item.comb.glowstone=пылающие соты
+extrabees.item.comb.saltpeter=нестабильные соты
+extrabees.item.comb.compost=разлагающие соты
+extrabees.item.comb.sawdust=пыльные соты
+extrabees.item.comb.certus=уверенные соты
+extrabees.item.comb.enderpearl=мерцающие соты
+extrabees.item.comb.yellorium=Yellorium соты
+extrabees.item.comb.cyanite=кианитовые соты
+extrabees.item.comb.blutonium=Blutonium соты
+
+extrabees.item.honeydrop.energy=энергетическое молочко
+extrabees.item.honeydrop.acid=кислотное молочко
+extrabees.item.honeydrop.poison=ядовитое молочко
+extrabees.item.honeydrop.apple=соковое молочко
+extrabees.item.honeydrop.citrus=едкое молочко
+extrabees.item.honeydrop.ice=Kelvin молочко
+extrabees.item.honeydrop.milk=молочная роса
+extrabees.item.honeydrop.seed=ореховая роса
+extrabees.item.honeydrop.alcohol=хмельное молочко
+extrabees.item.honeydrop.fruit=фруктовая роса
+extrabees.item.honeydrop.vegetable=листвяное молочко
+extrabees.item.honeydrop.pumpkin=плотское молочко
+extrabees.item.honeydrop.melon=сверкающее молочко
+extrabees.item.honeydrop.red=окрашенный мёд
+extrabees.item.honeydrop.yellow=окрашенный мёд
+extrabees.item.honeydrop.blue=окрашенный мёд
+extrabees.item.honeydrop.green=окрашенный мёд
+extrabees.item.honeydrop.black=окрашенный мёд
+extrabees.item.honeydrop.white=окрашенный мёд
+extrabees.item.honeydrop.brown=окрашенный мёд
+extrabees.item.honeydrop.orange=окрашенный мёд
+extrabees.item.honeydrop.cyan=окрашенный мёд
+extrabees.item.honeydrop.purple=окрашенный мёд
+extrabees.item.honeydrop.gray=окрашенный мёд
+extrabees.item.honeydrop.lightblue=окрашенный мёд
+extrabees.item.honeydrop.pink=окрашенный мёд
+extrabees.item.honeydrop.limegreen=окрашенный мёд
+extrabees.item.honeydrop.magenta=окрашенный мёд
+extrabees.item.honeydrop.lightgray=окрашенный мёд
+
+extrabees.item.propolis.water=водяной прополис
+extrabees.item.propolis.oil=масляный прополис
+extrabees.item.propolis.fuel=нефтяной прополис
+extrabees.item.propolis.creosote=смолистый прополис
+extrabees.item.propolis.peat=торфяной прополис
+
+extrabees.item.honeycrystal=кристалл мёда
+extrabees.item.honeycrystal.empty=истощённый кристалл мёда
+
+extrabees.item.frame.cocoa=шоколадная рамка
+extrabees.item.frame.cage=сдерживающая рамка
+extrabees.item.frame.soul=душевная рамка
+extrabees.item.frame.clay=исцеляющая рамка
+extrabees.item.frame.debug=новая рамка
+
+extrabees.item.serum.tooltip.nocharge=пусто
+extrabees.item.serum.tooltip.charge1=1 заряд
+extrabees.item.serum.tooltip.manycharge=%d зарядов
+extrabees.item.serum.corrupted=повреждённая сыворотка
+extrabees.item.serum.name=%s сыворотка
+extrabees.item.serum.empty=пустая сыворотка
+
+extrabees.item.template.corrupted=повреждённый шаблон
+extrabees.item.template.name=%s шаблон
+extrabees.item.template.empty=пустой шаблон
+
+extrabees.block.apiaristMachine.name=Базовый механизм пчеловода (extrabees)
+extrabees.block.geneticMachine.name=Генетическая машина (extrabees)
+extrabees.block.advGeneticMachine.name=Улучшенная генетическая машина (extrabees)
+
+extrabees.block.ectoplasm.name=эктоплазма
+
+extrabees.block.hive.0=водный улей
+extrabees.block.hive.1=скалистый улей
+extrabees.block.hive.2=пустотный улей
+extrabees.block.hive.3=мраморный улей
+
+##################################################
+## Liquids
+extrabees.liquid.acid=кислота
+extrabees.liquid.poison=яд
+extrabees.liquid.glacial=жидкий азот
+extrabees.liquid.dna=жидкая ДНК
+
+##################################################
+## Machines
+extrabees.machine.alveay.frame=Хранитель рамок
+extrabees.machine.alveay.frame.desc=хранитель рамок вмещает одну рамку улья для изменения черты пчелы.
+extrabees.machine.alveay.lighting=Блок подсветки
+extrabees.machine.alveay.lighting.desc=Блок подсветки освещает улей ночью для продуктивности пчёл.
+extrabees.machine.alveay.mutator=Блок мутации
+extrabees.machine.alveay.mutator.desc=Мутатор использует определенные блоки (предметы) для ускорения мутации пчелы.
+extrabees.machine.alveay.rainShield=Блок-зонтик
+extrabees.machine.alveay.rainShield.desc=защищает пчёл от дождя.
+extrabees.machine.alveay.stimulator=Электростимулятор
+extrabees.machine.alveay.stimulator.desc=Использует схемы и энергию Buildcraft, чтобы стимулировать пчел в рамках.
+extrabees.machine.alveay.hatchery=Инкубатор
+extrabees.machine.alveay.hatchery.desc=накапливает личинки принцесс внутри улья.
+extrabees.machine.alveay.mutator.info=Мутатор использует определенные блоки (предметы) для ускорения мутации пчелы.
+extrabees.machine.alveay.stimulator.info=Стимулятор использует схемы и энергию Buildcraft, чтобы стимулировать пчел в рамках
+extrabees.machine.alveay.hatchery.info=инкубатор накапливает личинки принцесс внутри улья.
+extrabees.machine.alveay.frame.info=хранитель рамок вмещает одну рамку улья для изменения черты пчелы
+
+extrabees.machine.apiaristmachine=Базовый механизм пчеловода
+extrabees.machine.acclimatiser=Акклиматизатор
+extrabees.machine.acclimatiser.desc=Акклиматизатор использует определённые блоки (предметы) для изменения влажности или температуры до допустимой для данного вида пчёл.
+extrabees.machine.databank=Банк данных пчеловода
+extrabees.machine.indexer=Хранилище пчёл
+
+extrabees.machine.geneticmachine=Генетическая машина
+extrabees.machine.genepool=Экстрактор ДНК
+extrabees.machine.sequencer=Записыватель шаблонов ДНК
+extrabees.machine.splicer=Репликатор шаблонов ДНК
+
+extrabees.machine.advancedgeneticmachine=Улучшенная генетическая машина
+extrabees.machine.isolator=Записыватель флаконов ДНК
+extrabees.machine.replicator=Репликатор флаконов ДНК
+extrabees.machine.purifier=Очиститель флаконов ДНК
+extrabees.machine.inoculator=Прививатель генов
+extrabees.machine.synthesizer=Синтезатор
+
+##################################################
+## Misc
+extrabees.circuitlayout.stimulator=Стимулятор
+extrabees.tab.genetics=Генетика
+
+extrabees.genetics.quality.awful=ужасно
+extrabees.genetics.quality.poor=плохо
+extrabees.genetics.quality.average=средне
+extrabees.genetics.quality.good=хорошо
+extrabees.genetics.quality.excellent=отлично
+
+extrabees.genetics.quality.tooltip=%s Качество
+
+extrabees.genetics.allele.shortest=наикратчайше
+extrabees.genetics.allele.shorter=сверх коротко
+extrabees.genetics.allele.short=очень коротко
+extrabees.genetics.allele.shortened=коротко
+extrabees.genetics.allele.normal=нормально
+extrabees.genetics.allele.elongated=чуть дольше
+extrabees.genetics.allele.long=дольше
+extrabees.genetics.allele.longer=очень дольше
+extrabees.genetics.allele.longest=дольше всего
+
+extrabees.genetics.allele.slowest=наимедлительнейше
+extrabees.genetics.allele.slower=очень медленно
+extrabees.genetics.allele.slow=медленно
+extrabees.genetics.allele.norm=нормально
+extrabees.genetics.allele.fast=быстро
+extrabees.genetics.allele.faster=очень быстро
+extrabees.genetics.allele.fastest=наибыстрейше
+
+extrabees.genetics.allele.low=низко
+extrabees.genetics.allele.high=высоко
+extrabees.genetics.allele.maximum=максимум
+
+extrabees.genetics.allele.average=нормальное
+
+extrabees.genetics.allele.default=по-умолчанию
+extrabees.genetics.allele.large=большой
+extrabees.genetics.allele.larger=очень большой
+extrabees.genetics.allele.largest=огромный
+
+extrabees.genetics.allele.none=отсутствует
+extrabees.genetics.allele.both1=Both 1
+extrabees.genetics.allele.both2=Both 2
+extrabees.genetics.allele.both3=Both 3
+extrabees.genetics.allele.both4=Both 4
+extrabees.genetics.allele.both5=Both 5
+extrabees.genetics.allele.up1=Up 1
+extrabees.genetics.allele.up2=Up 2
+extrabees.genetics.allele.up3=Up 3
+extrabees.genetics.allele.up4=Up 4
+extrabees.genetics.allele.up5=Up 5
+extrabees.genetics.allele.down1=Down 1
+extrabees.genetics.allele.down2=Down 2
+extrabees.genetics.allele.down3=Down 3
+extrabees.genetics.allele.down4=Down 4
+extrabees.genetics.allele.down5=Down 5
+
+extrabees.genetics.allele.noeffect=отмена эффекта
+extrabees.genetics.allele.noflower=неопыляемые
+
+extrabees.genetics.allele.lifespan=%s срока жизни
+extrabees.genetics.allele.production=%s продукции
+extrabees.genetics.allele.fertility=%s плодовитости
+extrabees.genetics.allele.flowering=%s цветения
+extrabees.genetics.allele.territory=%s местности
+extrabees.genetics.allele.tolerance=%s %s допуска
+extrabees.genetics.allele.species=%s подвидов
+extrabees.genetics.allele.effect=%s эффекта
+extrabees.genetics.allele.flower=%s опыления
+extrabees.genetics.allele.humidity=влажности
+extrabees.genetics.allele.temperature=температуры
+extrabees.genetics.allele.nocturnal=темноты
+extrabees.genetics.allele.caveDwelling=пещерности
+extrabees.genetics.allele.tolerantFlyer=дождливости
+
+extrabees.genetics.corrupted=повреждено
+
+
+# КЛАССЫ ПЧЁЛ
+extrabees.branch.barren.name=Бесплодная
+extrabees.branch.barren.desc=Производят бесплодные соты, в которых продукта меньше, чем в обычных сотах. Начальная ветвь для многих других ветвей.
+extrabees.branch.hostile.name=Враждебная
+extrabees.branch.hostile.desc=Каждая пчела враждебной ветви "имеет связи" с поределенным видом мобов. Способна спавнить этих мобов возле улья. Отличный способ фармить лут от мобов. Остерегайтесь криперов, они взрывают и сами ульи.
+extrabees.branch.rocky.name=Горная
+extrabees.branch.rocky.desc=Начальная ветвь для огромного числа ценных пчел. Очень убогое потомство, но высокая стойкость к условиям. Добываются карьером.
+extrabees.branch.metallic.name=Ржавая
+extrabees.branch.metallic2.name=Металлическая
+extrabees.branch.alloy.name=Сплавовая
+extrabees.branch.farming.name=Селекционная
+extrabees.branch.precious.name=Драгоценная
+extrabees.branch.mineral.name=Минеральная
+extrabees.branch.gemstone.name=Самоцветовая
+extrabees.branch.nuclear.name=Ядерная
+extrabees.branch.historic.name=Историческая
+extrabees.branch.fossilized.name=Ископаемая
+extrabees.branch.refined.name=Перерабатывающая
+extrabees.branch.aquatic.name=Водная
+extrabees.branch.saccharine.name=Сахарная
+extrabees.branch.volcanic.name=Вулканическая
+extrabees.branch.viscous.name=Вязкая
+extrabees.branch.virulent.name=Опасная
+extrabees.branch.caustic.name=Едкая
+extrabees.branch.energetic.name=Энергетическая
+extrabees.branch.shadow.name=Темная
+extrabees.branch.primary.name=Первичная
+extrabees.branch.secondary.name=Вторичная
+extrabees.branch.tertiary.name=Третичная
+extrabees.branch.ftb.name=Мерзкая
+extrabees.branch.quantum.name=Квантовая
+
+# РАСТЕНИЯ-ОПЫЛИТЕЛИ
+extrabees.flowers.water.name=кувшинка
+extrabees.flowers.sugar.name=тростник
+extrabees.flowers.rock.name=камни
+extrabees.flowers.book.name=книги
+extrabees.flowers.dead.name=мёртвый куст
+extrabees.flowers.redstone.name=красный камень
+extrabees.flowers.wood.name=дерево
+extrabees.flowers.leaves.name=листья
+extrabees.flowers.sapling.name=саженцы
+extrabees.flowers.fruit.name=фрукты
+
+# ПОДВИДЫ ПЧЁЛ
+
+#Несчастная ветвь
+extrabees.species.arid.name=Засушливые пчёлы
+extrabees.species.arid.desc=на сухих ландшафтах, много воска и мало мёда.|Руководство пчеловода
+extrabees.species.barren.name=Бесплодные пчёлы
+extrabees.species.barren.desc=в пустынях, могут жить без цветов.|Руководство пчеловода
+extrabees.species.desolate.name=Заброшенные пчёлы
+extrabees.species.desolate.desc=на разрушенных пустошах, где другая жизнь просто умирает.|Руководство пчеловода
+extrabees.species.gnawing.name=Мучительные пчёлы
+
+# Враждебная ветвь
+extrabees.species.rotten.name=Гнилые пчёлы
+extrabees.species.rotten.desc=Эти пчёлы имеют влечение к мёртвым, гниющему мясу и будут хранить его в своих сотах. Запах также привлекает другие сомнительные типы.|Руководство пчеловода
+extrabees.species.bone.name=Скелетные пчёлы
+extrabees.species.bone.desc=не в состоянии защитить свои ульи в дикой природе, они привлекают других существ, чтобы охранять свои дома.|Руководство пчеловода
+extrabees.species.creeper.name=Криперные пчёлы
+extrabees.species.creeper.desc=будьте уверены, Вы получите звук взрыва из этих пчел.|Binnie, Apiarist
+extrabees.species.decomposing.name=Разлагающиеся пчёлы
+extrabees.species.decomposing.desc=Decomposing
+
+# Скалистая ветвь
+extrabees.species.rock.name=Каменные пчёлы
+extrabees.species.rock.desc=If only I could find them Rolling Bees, then I might get some good music.|Mysterious Apiarist
+extrabees.species.stone.name=Толерантные пчёлы
+extrabees.species.stone.desc=Part of their hive is made out of stone and use less wax than before.|Руководство пчеловода
+extrabees.species.granite.name=Выносливые пчёлы
+extrabees.species.granite.desc=Capable of burrowing through solid rock, they have an extraordinary affinity for minerals hidden in rocks.|Руководство пчеловода
+extrabees.species.mineral.name=Устойчивые пчёлы
+extrabees.species.mineral.desc=Generations of breeding Rocky bees and their offspring has resulted in offspring that have begun to consume minerals as part of their diet.|Руководство пчеловода
+
+# Ржавая ветвь
+extrabees.species.copper.name=Коррозийные пчёлы
+extrabees.species.copper.desc=These are infamous for causing power issues by gnawing on the copper wires in walls.|Руководство пчеловода
+extrabees.species.tin.name=Потускневшие пчёлы
+extrabees.species.tin.desc=Their bodies have a metallic coating, which they shed and incorporate into their combs.|Руководство пчеловода
+extrabees.species.iron.name=Ржавые пчёлы
+extrabees.species.iron.desc=Oh, rusty bees. Do I need a tetanus shot?|Jadedcat, Apiarist
+extrabees.species.lead.name=Свинцовые пчёлы
+extrabees.species.lead.desc="It should be easy to turn these into gold!"|Pahimar, Alchemist
+
+# Продвинутая металлическая ветвь
+extrabees.species.zinc.name=Оцинкованные пчёлы
+extrabees.species.titanium.name=Неприступные пчёлы
+extrabees.species.bronze.name=Решительные пчёлы
+extrabees.species.brass.name=Медные пчёлы
+extrabees.species.steel.name=Укреплённые пчелы
+extrabees.species.tungstate.name=Непобедимые пчёлы
+
+# Драгоценная ветвь
+extrabees.species.gold.name=Сверкающие пчёлы
+extrabees.species.silver.name=Сияющие пчёлы
+extrabees.species.electrum.name=Драгоценные пчёлы
+extrabees.species.platinum.name=Ценные пчёлы
+extrabees.species.platinum.desc=Ohhhhh, look how shiny this bee is.|Jadedcat, Apiarist
+
+# Минеральная ветвь
+extrabees.species.lapis.name=Лазуритовые пчёлы
+extrabees.species.sodalite.name=Содалитовые пчёлы
+extrabees.species.pyrite.name=Пиритовые пчёлы
+extrabees.species.bauxite.name=Бокситовые пчёлы
+extrabees.species.cinnabar.name=Киноварные пчёлы
+extrabees.species.sphalerite.name=Сфалеритовые пчёлы
+
+# Драгоценнейшая ветвь
+extrabees.species.emerald.name=Изумрудные пчёлы
+extrabees.species.emerald.desc=Look at this bee, it's even shinier!|Jadedcat, Apiarist
+extrabees.species.ruby.name=Рубиновые пчёлы
+extrabees.species.sapphire.name=Сапфировые пчёлы
+extrabees.species.olivine.name=Оливиновые пчёлы
+extrabees.species.diamond.name=Алмазные пчёлы
+extrabees.species.diamond.desc=Oh my god, this is definitely the shiniest bee!|Jadedcat, Apiarist
+
+# Атомная ветвь
+extrabees.species.unstable.name=Нестабильные пчёлы
+extrabees.species.nuclear.name=Ядерные пчёлы
+extrabees.species.radioactive.name=Радиоактивные пчёлы
+
+# Древняя ветвь
+extrabees.species.ancient.name=Древние пчёлы
+extrabees.species.primeval.name=Первобытные пчёлы
+extrabees.species.prehistoric.name=Доисторические пчёлы
+extrabees.species.relic.name=Пчёлы-реликвии
+
+# Окаменелая ветвь
+extrabees.species.coal.name=Окаменелые пчёлы
+extrabees.species.resin.name=Смолистые пчёлы
+extrabees.species.oil.name=Нефтяные пчёлы
+extrabees.species.peat.name=Консервированные пчёлы
+
+# Изысканная ветвь
+extrabees.species.distilled.name=Дистиллированные пчёлы
+extrabees.species.fuel.name=Изысканные пчёлы
+extrabees.species.creosote.name=Медлительные пчёлы
+extrabees.species.latex.name=Эластичные пчёлы
+
+# Водная ветвь
+extrabees.species.water.name=Водные пчёлы
+extrabees.species.river.name=Речные пчёлы
+extrabees.species.ocean.name=Океанические пчёлы
+extrabees.species.ink.name=Испачканные пчёлы
+
+# Сахарная ветвь
+extrabees.species.growing.name=Прорастающие пчёлы
+extrabees.species.thriving.name=Процветающие пчёлы
+extrabees.species.blooming.name=Цветущие пчёлы
+extrabees.species.sweet.name=Сладкие пчёлы
+extrabees.species.sugar.name=Сахарные пчёлы
+extrabees.species.ripening.name=Созревающие пчёлы
+extrabees.species.fruit.name=Фруктовые пчёлы
+
+# Сельскохозяйственная ветвь
+extrabees.species.alcohol.name=Ферментные пчёлы
+extrabees.species.alcohol.desc=Go home bee, you're drunk.|Jadedcat, Apiarist
+extrabees.species.farm.name=Farmed
+extrabees.species.milk.name=Животные пчёлы
+extrabees.species.milk.desc="Moo. I mean, Bzzz."|Confused Bee
+extrabees.species.coffee.name=Кофейные пчёлы
+extrabees.species.coffee.desc=The only drawback is that they don't actually brew the coffee for you.|Руководство пчеловода
+extrabees.species.citrus.name=Цитрусовые пчёлы
+extrabees.species.mint.name=Мятные пчёлы
+
+# Грибная ветвь
+extrabees.species.swamp.name=Влажные пчёлы
+extrabees.species.boggy.name=Болотистые пчёлы
+extrabees.species.fungal.name=Грибные пчёлы
+
+# Классическая ветвь
+extrabees.species.marble.name=Мраморные пчёлы
+extrabees.species.marble.desc="Whoa, these bees are chiseled!"|Mysterious Apiarist
+extrabees.species.roman.name=Готические пчёлы
+extrabees.species.roman.desc=I came, I saw, I conquered Punett squares.|Sengir Ceasar
+extrabees.species.greek.name=Пчёлы Ренессанса
+extrabees.species.greek.desc=To bee or not to bee.|Beekeeper's conundrum
+extrabees.species.classical.name=Классические пчёлы
+
+# Адская ветвь
+extrabees.species.basalt.name=Озлобленные пчёлы
+extrabees.species.basalt.desc=It is unknown how they first arrived in the Nether, but its influence has made them aggresive.|Руководство пчеловода
+extrabees.species.tempered.name=Яростные пчёлы
+extrabees.species.tempered.desc=An unusual mutation has activated recessive genes that cause high levels of anger in this bee.|Руководство пчеловода
+extrabees.species.angry.name=Яростные голодные пчёлы
+extrabees.species.angry.desc=Increasing levels of fury have caused them to find another outlet for their aggression.|Руководство пчеловода
+extrabees.species.volcanic.name=Огнедышащие пчёлы
+extrabees.species.volcanic.desc=At some point during their evolution, they seem to have acquired traits from Blazes.|Руководство пчеловода
+extrabees.species.malicious.name=Вредоносные пчёлы
+extrabees.species.infectious.name=Заразные пчёлы
+extrabees.species.virulent.name=Ядовитые пчёлы
+
+# Клейкая ветвь
+extrabees.species.viscous.name=Вязкие пчёлы
+extrabees.species.glutinous.name=Клейкие пчёлы
+extrabees.species.sticky.name=Липкие пчёлы
+
+# НЕСОРТИРОВАННЫЕ ВИДЫ
+extrabees.species.corrosive.name=Едкие пчёлы
+extrabees.species.caustic.name=Едко-щелочные пчёлы
+extrabees.species.acidic.name=Едко-кислотные пчёлы
+extrabees.species.excited.name=Возбуждённые пчёлы
+extrabees.species.excited.desc=Redstone acts as a source of extra energy for these bees.|Руководство пчеловода
+extrabees.species.energetic.name=Энергетические пчёлы
+extrabees.species.energetic.desc=Oh my god. Something happened. House on fire, house on fire.|Generikb, Panicked Apiarist
+extrabees.species.ecstatic.name=Исступлённые пчёлы
+extrabees.species.ecstatic.desc=After accumulating excessive static electricity from Redstone, they produce powerful lightning arcs. Use caution, and maybe a lightning rod.|Руководство пчеловода
+extrabees.species.artic.name=Бесстрастные пчёлы
+extrabees.species.freezing.name=Самовластные пчёлы
+extrabees.species.shadow.name=Омрачённые пчёлы
+extrabees.species.darkened.name=Потемневшие пчёлы
+extrabees.species.abyss.name=Глубоководные пчёлы
+extrabees.species.red.name=Тёмно-бордовые пчёлы
+extrabees.species.red.desc=Don't let them sting you,  or you may be seeing red.|Руководство пчеловода
+extrabees.species.yellow.name=Шафрановые пчёлы
+extrabees.species.yellow.desc=They're dyeing to brighten your day with their honey.|Руководство пчеловода
+extrabees.species.blue.name=Прусские пчёлы
+extrabees.species.blue.desc="Cheer up, bee. You're looking a little blue."|Mysterious Apiarist
+extrabees.species.green.name=Обычные пчёлы
+extrabees.species.green.desc=Perhaps it is an attempt at camoflauge, but these bees have begun producing dyes that match the colour of leaves and grass.|Руководство пчеловода
+extrabees.species.black.name=Черномазые пчёлы
+extrabees.species.white.name=Отбеленные пчёлы
+extrabees.species.brown.name=Пчёлы цвета 'сепия'
+extrabees.species.orange.name=Янтарные пчёлы
+extrabees.species.cyan.name=Бирюзовые пчёлы
+extrabees.species.purple.name=Пчёлы цвета 'индиго'
+extrabees.species.gray.name=Пчёлы цвета 'шифер'
+extrabees.species.lightblue.name=Лазуревые пчёлы
+extrabees.species.pink.name=Лавандовые пчёлы
+extrabees.species.limegreen.name=Лимонные пчёлы
+extrabees.species.magenta.name=Пчёлы цвета 'фуксия'
+extrabees.species.lightgray.name=Пепельные пчёлы
+extrabees.species.celebratory.name=Праздничные пчёлы
+extrabees.species.jaded.name=Пресыщенные пчёлы
+extrabees.species.jaded.desc=I bred all the bees and all I got is some bloody purple dye!|Jaded, Sengir's Chosen
+extrabees.species.glowstone.name=Сердитые пчёлы
+extrabees.species.hazardous.name=Опасные пчёлы
+extrabees.species.nickel.name=Взволнованные пчёлы
+extrabees.species.invar.name=Блестящие пчёлы
+extrabees.species.quantum.name=Квантовые пчёлы
+extrabees.species.spatial.name=Пространственные пчёлы
+extrabees.species.unusual.name=Аномальные пчёлы
+extrabees.species.yellorium.name=Yellorite пчёлы
+extrabees.species.cyanite.name=Кионитовые пчёлы
+extrabees.species.blutonium.name=Blutonium пчёлы
+
+# Наименование эффектов
+extrabees.effect.ectoplasm.name=Эктоплазма
+extrabees.effect.acid.name=Кислота
+extrabees.effect.spawn_zombie.name=Зомби
+extrabees.effect.spawn_skeleton.name=Скелеты
+extrabees.effect.spawn_creeper.name=Криперы
+extrabees.effect.lightning.name=Молния
+extrabees.effect.radioactive.name=Нестабильность
+extrabees.effect.meteor.name=Метеор
+extrabees.effect.hunger.name=Голод
+extrabees.effect.food.name=Пища
+extrabees.effect.blindness.name=Тьма
+extrabees.effect.confusion.name=Смятение
+extrabees.effect.fireworks.name=Фейерверк
+extrabees.effect.festival.name=Празднество
+extrabees.effect.birthday.name=День рождения
+extrabees.effect.teleport.name=Телепорт
+extrabees.effect.gravity.name=Утяжеление
+extrabees.effect.thief.name=Облегчение
+extrabees.effect.wither.name=Иссушение
+extrabees.effect.water.name=Вода
+extrabees.effect.slow.name=Медлительность
+extrabees.effect.bonemealsapling.name=Разрастание
+extrabees.effect.bonemealfruit.name=Созревание
+extrabees.effect.bonemealmushroom.name=Грибы
+extrabees.effect.power.name=Сила
+ 

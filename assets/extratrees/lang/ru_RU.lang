@@ -1,0 +1,348 @@
+##################################################
+## Machines
+
+extratrees.machine.kitchen.bar=Бар
+extratrees.machine.kitchen.bottleRack=Стойка для бутылок
+
+extratrees.machine.machine.brewery=Пивоварня
+extratrees.machine.machine.brewery.info=Пивоварня использует дрожжи, соки и зерна, для производства разнообразных видов вина и пива.
+extratrees.machine.machine.distillery=Дистиллятор
+extratrees.machine.machine.distillery.info=Ликеро-водочный завод (Дистиллятор) посредством двойной, тройной перегонки спирта производит коньяки, ликеры и другие спиртные напитки.
+extratrees.machine.machine.press=Соковыжималка
+extratrees.machine.machine.press.info=Фруктовый пресс выжимает из фруктов различные фруктовые соки. Он может питаться или запускатся вручную, по правой кнопке мыши.
+extratrees.machine.machine.lumbermill=Лесопилка
+extratrees.machine.machine.lumbermill.desc=Лесопилка разрезает бревна на доски с повышенной скоростью, а также производит побочные продукты, такие как опилки и кора.
+extratrees.machine.machine.nursery=Рассадник
+extratrees.machine.machine.woodworker=Столярный станок
+extratrees.machine.machine.woodworker.desc=Столяр создает резные деревянные плитки из двух различных пород дерева.
+extratrees.machine.machine.panelworker=Панельщик
+extratrees.machine.machine.panelworker.desc=Панельщик создает резные деревянные панели из двух различных пород дерева.
+extratrees.machine.machine.glassworker=Стекольщик
+extratrees.machine.machine.glassworker.desc=Стекольщик создает узорчатое витражное стекло.
+
+
+
+#ДОСКИ мода EXTRATREES
+extratrees.block.planks.fir=Пихта
+extratrees.block.planks.cedar=Кедр
+extratrees.block.planks.hemlock=Тсуга (сосновое)
+extratrees.block.planks.cypress=Кипарис
+extratrees.block.planks.fig=Инжир (Фига)
+extratrees.block.planks.beech=Бук
+extratrees.block.planks.alder=Ольха
+extratrees.block.planks.hazel=Лещина
+extratrees.block.planks.hornbeam=Граб
+extratrees.block.planks.box=Самшит вечнозелёный
+extratrees.block.planks.butternut=Орех серый
+extratrees.block.planks.hickory=Гикори (ореховые)
+extratrees.block.planks.whitebeam=Рябина круглолистная
+extratrees.block.planks.elm=Вяз
+extratrees.block.planks.apple=Яблоня
+extratrees.block.planks.yew=Тис
+extratrees.block.planks.pear=Груша
+extratrees.block.planks.hawthorn=Боярышник
+extratrees.block.planks.rowan=Рябина
+extratrees.block.planks.elder=Бузина
+extratrees.block.planks.maclura=Маклюра яблоконосная
+extratrees.block.planks.syzgium=Сизигиум (миртовые)
+extratrees.block.planks.brazilwood=Цезальпиния ежовая (бобовые)
+extratrees.block.planks.logwood=Кампешевое дерево (бобовые)
+extratrees.block.planks.iroko=Ироко
+extratrees.block.planks.locust=Робиния ложноакациевая
+extratrees.block.planks.eucalyptus=Эвкалипт
+extratrees.block.planks.purpleheart=Амарант
+extratrees.block.planks.ash=Ясень
+extratrees.block.planks.holly=Остролист
+extratrees.block.planks.olive=Олива
+extratrees.block.planks.sweetgum=Ликвидамбар смолоносный
+extratrees.block.planks.rosewood=Розовое дерево
+extratrees.block.planks.gingko=Гинкго двулопастный
+extratrees.block.planks.pinkivory=Умнини (розовая кость)
+
+#ДОСКИ "ВАНИЛЬНОГО" minecraft
+extratrees.block.planks.vanilla.oak=Дуб
+extratrees.block.planks.vanilla.spruce=Ель
+extratrees.block.planks.vanilla.birch=Берёза
+extratrees.block.planks.vanilla.jungle=Тропическое дерево
+extratrees.block.planks.vanilla.darkoak=Тёмный дуб
+extratrees.block.planks.vanilla.acacia=Акация
+
+#ДОСКИ мода FORESTRY
+extratrees.block.planks.forestry.larch=Лиственница
+extratrees.block.planks.forestry.teak=Тиковое дерево
+extratrees.block.planks.forestry.acacia=Пустынная акация
+extratrees.block.planks.forestry.lime=Липа
+extratrees.block.planks.forestry.chestnut=Каштан
+extratrees.block.planks.forestry.wenge=Венге
+extratrees.block.planks.forestry.baobab=Баобаб
+extratrees.block.planks.forestry.sequoia=Секвойя
+extratrees.block.planks.forestry.kapok=Хлопковое дерево
+extratrees.block.planks.forestry.ebony=Эбеновое дерево
+extratrees.block.planks.forestry.mahogany=Красное дерево
+extratrees.block.planks.forestry.balsa=Бальса
+extratrees.block.planks.forestry.willow=Ива
+extratrees.block.planks.forestry.walnut=Орех грецкий
+extratrees.block.planks.forestry.greenheart=Зелёное сердце
+extratrees.block.planks.forestry.cherry=Вишня
+extratrees.block.planks.forestry.mahoe=Mahoe
+extratrees.block.planks.forestry.poplar=Тополь
+extratrees.block.planks.forestry.palm=Пальма
+extratrees.block.planks.forestry.papaya=Папайя
+extratrees.block.planks.forestry.pine=Сосна
+extratrees.block.planks.forestry.plum=Слива
+extratrees.block.planks.forestry.maple=Клён
+extratrees.block.planks.forestry.citrus=Цитрус
+
+# ДОСКИ мода ExtrabiomesXL
+extratrees.block.planks.ebxl.redwood=Секвойя (ExtrabiomesXL)
+extratrees.block.planks.ebxl.fir=Шотландская пихта
+extratrees.block.planks.ebxl.acacia=Превосходная акация
+
+
+
+extratrees.block.planks.fir.desc=A good sturdy conifer wood.|Lumber Jack
+extratrees.block.planks.cedar.desc=A red tinged softwood.|Lumber Jack
+extratrees.block.planks.hemlock.desc=Hemlock gives a green hued conifer wood.|Lumber Jack
+extratrees.block.planks.cypress.desc=A conifer wood with a sligh yellow colouring.|Lumber Jack
+extratrees.block.planks.fig.desc=Generally not considered a viable construction wood, nonetheless a useful wood.|Lumber Jack
+extratrees.block.planks.beech.desc=A slightly lighter wood, pretty average.|Lumber Jack
+extratrees.block.planks.alder.desc=A darker hardwood, doesn't have many discerning properties.|Lumber Jack
+extratrees.block.planks.hazel.desc=A lovely pale wood, similar in colour to Birch.|Lumber Jack
+extratrees.block.planks.hornbeam.desc=Another average wood, without many interesting properties.|Lumber Jack
+extratrees.block.planks.box.desc=One of the palest woods avaiable, but only found on the short box shrub.|Lumber Jack
+extratrees.block.planks.butternut.desc=A creamy hued wood, though the tree is more known for its nuts.|Lumber Jack
+extratrees.block.planks.hickory.desc=A not particularly remarkable hardwood.|Lumber Jack
+extratrees.block.planks.whitebeam.desc=Despite it's name whitebeam has a rather subdued colour.|Lumber Jack
+extratrees.block.planks.elm.desc=A rather brigh peachy wood.|Lumber Jack
+extratrees.block.planks.apple.desc=A very dark wood, making apple trees a very useful cultivar.|Lumber Jack
+extratrees.block.planks.yew.desc=A rather attractively hued conifer wood.|Lumber Jack
+extratrees.block.planks.pear.desc=Unlike Apple wood, pear wood is not particularly unique.|Lumber Jack
+extratrees.block.planks.hawthorn.desc=An average softwood.|Lumber Jack
+extratrees.block.planks.rowan.desc=A more subdued wood with nice contrast between the planks.|Lumber Jack
+extratrees.block.planks.elder.desc=A average plank without much fanfare.|Lumber Jack
+extratrees.block.planks.maclura.desc=A very rich orange hue makes Maclura wood very desirable.|Lumber Jack
+extratrees.block.planks.syzgium.desc=With a tinge of pink Syzgium is a very unique wood.|Lumber Jack
+extratrees.block.planks.brazilwood.desc=Brazilwood is known for its deep purple shade.|Lumber Jack
+extratrees.block.planks.logwood.desc=Logwood is one of the closest you can get to a red wood.|Lumber Jack
+extratrees.block.planks.iroko.desc=This attractive dark wood would make a lovely lintel.|Lumber Jack
+extratrees.block.planks.locust.desc=Totally unrelated to the devouring insect plague.|Lumber Jack
+extratrees.block.planks.eucalyptus.desc=A pinkish wood, more commonly converted to wood pulp.|Lumber Jack
+extratrees.block.planks.purpleheart.desc=A deep shade of purple makes this tree aptly named.|Lumber Jack
+extratrees.block.planks.ash.desc=Gotta catch 'em all!|Ash Ketchum
+extratrees.block.planks.holly.desc=The whitest wood available, just avoid the pointy leaves to get to it.|Lumber Jack
+extratrees.block.planks.olive.desc=Coloured in the same way as its fruits, an attractive subdued green.|Lumber Jack
+extratrees.block.planks.sweetgum.desc=Yet another average wood, but has a certain character.|Lumber Jack
+extratrees.block.planks.rosewood.desc=Used to make chess pieces, this is another strongly hued wood.|Lumber Jack
+extratrees.block.planks.gingko.desc=Similar to Boxwood, Gingko wood is very pale.|Lumber Jack
+extratrees.block.planks.pinkivory.desc=What can I say. It's very pink.|Lumber Jack
+
+extratrees.block.planks.vanilla.oak.desc=
+extratrees.block.planks.vanilla.spruce.desc=
+extratrees.block.planks.vanilla.birch.desc=
+extratrees.block.planks.vanilla.jungle.desc=
+extratrees.block.planks.vanilla.darkoak.desc=
+extratrees.block.planks.vanilla.acacia.desc=
+
+extratrees.block.planks.forestry.larch.desc=
+extratrees.block.planks.forestry.teak.desc=
+extratrees.block.planks.forestry.acacia.desc=
+extratrees.block.planks.forestry.lime.desc=
+extratrees.block.planks.forestry.chestnut.desc=
+extratrees.block.planks.forestry.wenge.desc=
+extratrees.block.planks.forestry.baobab.desc=
+extratrees.block.planks.forestry.sequoia.desc=
+extratrees.block.planks.forestry.kapok.desc=
+extratrees.block.planks.forestry.ebony.desc=
+extratrees.block.planks.forestry.mahogany.desc=
+extratrees.block.planks.forestry.balsa.desc=
+extratrees.block.planks.forestry.willow.desc=
+extratrees.block.planks.forestry.walnut.desc=
+extratrees.block.planks.forestry.greenheart.desc=
+extratrees.block.planks.forestry.cherry.desc=
+extratrees.block.planks.forestry.mahoe.desc=
+extratrees.block.planks.forestry.poplar.desc=
+extratrees.block.planks.forestry.palm.desc=
+extratrees.block.planks.forestry.papaya.desc=
+extratrees.block.planks.forestry.pine.desc=
+extratrees.block.planks.forestry.plum.desc=
+extratrees.block.planks.forestry.maple.desc=
+extratrees.block.planks.forestry.citrus.desc=
+
+
+
+
+# ВИДЫ ДЕРЕВЬЕВ
+extratrees.species.orchardapple.name=Яблоня садовая
+extratrees.species.sweetcrabapple.name=Яблоня венечная
+extratrees.species.floweringcrabapple.name=Яблоня замечательная
+extratrees.species.prairiecrabapple.name=Яблоня айовская
+extratrees.species.blackthorn.name=Терновник
+extratrees.species.cherryplum.name=Алыча
+extratrees.species.peach.name=Персик
+extratrees.species.nectarine.name=Нектарин
+extratrees.species.apricot.name=Абрикос
+extratrees.species.almond.name=Миндаль
+extratrees.species.wildcherry.name=Вишня дикая
+extratrees.species.sourcherry.name=Вишня кислая
+extratrees.species.blackcherry.name=Черёмуха поздняя
+extratrees.species.orange.name=Апельсин
+extratrees.species.manderin.name=Мандарин
+extratrees.species.satsuma.name=Мандарин уншиу
+extratrees.species.tangerine.name=Танжерин
+extratrees.species.lime.name=Лайм
+extratrees.species.keylime.name=Лайм дикий
+extratrees.species.fingerlime.name=Лайм пальчиковый
+extratrees.species.pomelo.name=Помело
+extratrees.species.grapefruit.name=Грейпфрут
+extratrees.species.kumquat.name=Кумкват
+extratrees.species.citron.name=Цитрон
+extratrees.species.buddhahand.name=Цитрон пальчатый
+extratrees.species.banana.name=Банан
+extratrees.species.redbanana.name=Красный банан
+extratrees.species.plantain.name=Плантан
+extratrees.species.butternut.name=Орех серый
+extratrees.species.rowan.name=Рябина обыкновенная
+extratrees.species.hemlock.name=Тсуга западная
+extratrees.species.ash.name=Ясень обыкновенный
+extratrees.species.alder.name=Ольха чёрная
+extratrees.species.alder.desc=Обычное дерево в местах с повышенной влажностью и на болотах.|Arborist Manual
+extratrees.species.beech.name=Бук европейский
+extratrees.species.beech.desc=Красивое дерево с маленькими несъедобными орехами, используется в производстве растительного масла.|Arborist Manual
+extratrees.species.copperbeech.name=Бук медный
+extratrees.species.copperbeech.desc=Красивые фиолетовые и коричневые листья делают это дерево фаворитом садоводов.|Arborist Manual
+extratrees.species.aspen.name=Осина
+extratrees.species.yew.name=Тис ягодный
+extratrees.species.cypress.name=Кипарисовик Лавсона
+extratrees.species.douglasfir.name=Пихта Дугласа
+extratrees.species.hazel.name=Лещина обыкновенная
+extratrees.species.sycamore.name=Сикомор
+extratrees.species.whitebeam.name=Рябина круглолистная
+extratrees.species.hawthorn.name=Боярышник однопестичный
+extratrees.species.pecan.name=Пекан обыкновенный
+extratrees.species.elm.name=Вяз обыкновенный
+extratrees.species.elder.name=Бузина
+extratrees.species.holly.name=Остролист обыкновенный
+extratrees.species.hornbeam.name=Граб обыкновенный
+extratrees.species.sallow.name=Ива козья
+extratrees.species.acornoak.name=Дуб черешчатый
+extratrees.species.fir.name=Пихта белая
+extratrees.species.cedar.name=Кедр
+extratrees.species.olive.name=Олива
+extratrees.species.redmaple.name=Клён красный
+extratrees.species.balsamfir.name=Пихта бальзамическая
+extratrees.species.loblollypine.name=Сосна Лоблолли
+extratrees.species.sweetgum.name=Ликвидамбар смолоносный
+extratrees.species.locust.name=Робиния ложноакациевая
+extratrees.species.pear.name=Груша садовая
+extratrees.species.osangeosange.name=Маклюра оранжевая
+extratrees.species.oldfustic.name=Маклюра красильная
+extratrees.species.brazilwood.name=Цезальпиния ежовая
+extratrees.species.logwood.name=Кампешевое дерево
+extratrees.species.rosewood.name=Розовое дерево
+extratrees.species.purpleheart.name=Амарант
+extratrees.species.iroko.name=Ироко
+extratrees.species.gingko.name=Гинкго двулопастный
+extratrees.species.brazilnut.name=Бразильский орех
+extratrees.species.rosegum.name=Эвкалипт гигантский
+extratrees.species.swampgum.name=Эвкалипт болотный
+extratrees.species.box.name=Самшит вечнозелёный
+extratrees.species.clove.name=Гвоздичное дерево
+extratrees.species.coffee.name=Кофейное дерево
+extratrees.species.monkeypuzzle.name=Араукария чилийская
+extratrees.species.rainbowgum.name=Эвкалипт радужный
+extratrees.species.pinkivory.name=Умнини (розовая кость)
+extratrees.species.blackcurrant.name=Смородина чёрная
+extratrees.species.redcurrant.name=Смородина красная
+extratrees.species.blackberry.name=Ежевика
+extratrees.species.raspberry.name=Малина
+extratrees.species.blueberry.name=Голубика
+extratrees.species.cranberry.name=Клюква
+extratrees.species.juniper.name=Можжевельник
+extratrees.species.gooseberry.name=Крыжовник
+extratrees.species.goldenraspberry.name=Малина золотая
+extratrees.species.cinnamon.name=Коричник цейлонский
+extratrees.species.coconut.name=Кокосовая пальма
+extratrees.species.cashew.name=Кешью
+extratrees.species.avacado.name=Авокадо
+extratrees.species.nutmeg.name=Мускатный орех
+extratrees.species.allspice.name=Перец душистый
+extratrees.species.chilli.name=Перец красный
+extratrees.species.staranise.name=Анис звёздчатый
+extratrees.species.mango.name=Манго
+extratrees.species.starfruit.name=Карамбола
+extratrees.species.candlenut.name=Лумбанг (свечное дерево)
+extratrees.species.dwarfhazel.name=Лещина карликовая
+
+
+# ПРОДУКТЫ САДОВОДСТВА
+extratrees.item.food.apple=Яблоко
+extratrees.item.food.crabapple=Яблоко-дичка
+extratrees.item.food.orange=Апельсин
+extratrees.item.food.kumquat=Кумкват
+extratrees.item.food.lime=Лайм
+extratrees.item.food.wildcherry=Вишня дикая
+extratrees.item.food.sourcherry=Вишня кислая
+extratrees.item.food.blackcherry=Черёмуха поздняя
+extratrees.item.food.blackthorn=Тёрен
+extratrees.item.food.cherryplum=Алыча
+extratrees.item.food.almond=Миндаль
+extratrees.item.food.apricot=Абрикос
+extratrees.item.food.grapefruit=Грейпфрут
+extratrees.item.food.peach=Персик
+
+extratrees.item.food.satsuma=Мандарин уншиу
+extratrees.item.food.buddhahand=Цитрон пальчатый
+extratrees.item.food.citron=Цитрон
+extratrees.item.food.fingerlime=Лайм пальчиковый
+extratrees.item.food.keylime=Лайм дикий
+
+extratrees.item.food.manderin=Мандарин
+extratrees.item.food.nectarine=Нектарин
+
+extratrees.item.food.pomelo=Помело
+extratrees.item.food.tangerine=Танжерин
+extratrees.item.food.pear=Груша
+extratrees.item.food.sandpear=Груша грушелистная
+
+extratrees.item.food.hazelnut=Фундук
+extratrees.item.food.butternut=Орех серый
+extratrees.item.food.beechnut=Буковый орешек
+extratrees.item.food.pecan=Пекан обыкновенный
+
+extratrees.item.food.banana=Банан
+extratrees.item.food.redbanana=Банан красный
+extratrees.item.food.plantain=Плантан
+
+extratrees.item.food.brazilnut=Бразильский орех
+
+extratrees.item.food.fig=Инжир
+extratrees.item.food.acorn=Жёлудь
+extratrees.item.food.elderberry=Бузина
+extratrees.item.food.olive=Олива
+extratrees.item.food.gingkonut=Семена Гинкго
+extratrees.item.food.coffee=Кофейные зёрна
+extratrees.item.food.osangeorange=Плод маклюра
+extratrees.item.food.clove=Гвоздика (пряность)
+
+extratrees.item.food.papayimar=Папайя
+
+extratrees.item.food.blackcurrant=Смородина чёрная
+extratrees.item.food.redcurrant=Смородина красная
+extratrees.item.food.blackberry=Ежевика
+extratrees.item.food.raspberry=Малина
+extratrees.item.food.blueberry=Голубика
+extratrees.item.food.cranberry=Клюква
+extratrees.item.food.juniper=Семяна Можжевельника
+extratrees.item.food.gooseberry=Крыжовник
+extratrees.item.food.goldenraspberry=Малина золотая
+
+extratrees.item.food.coconut=Кокос
+extratrees.item.food.cashew=Кешью
+extratrees.item.food.avacado=Авокадо
+extratrees.item.food.nutmeg=Мускатный орех
+extratrees.item.food.allspice=Перец душистый
+extratrees.item.food.chilli=Перец красный
+extratrees.item.food.staranise=Анис звёздчатый
+extratrees.item.food.mango=Манго
+extratrees.item.food.starfruit=Карамбола
+extratrees.item.food.candlenut=Лумбанг

@@ -1,0 +1,37 @@
+##################################################
+## Machines
+
+genetics.machine.machine.isolator=Isolator
+genetics.machine.machine.isolator.info=Der Isolator nimmt eine zufällige Gensequenz von einer Biene, einem Baum oder einem anderen Individuum und kopiert sie in eine leere Sequenz-Ampulle. Dies erfordert unter Verwendung von Ethanol als Lösungsmittel und eines Enzyms zum trennen der DNA. Die nicht sequenzierten Seren können dann in einem Polymerisator verstärkt und in einem Sequenzer sequenziert werden.
+
+genetics.machine.machine.sequencer=Sequenzer
+genetics.machine.machine.sequencer.info=Der Sequenzer nimmt nicht sequenzierte Seren und bestimmt, welche Gensequenz in ihnen vorhanden sind. Dies erfordert die Verwendung von Fluoreszenzfarbstoff und benötigt eine lange Rechenzeit.
+
+genetics.machine.machine.polymeriser=Polymerisator
+genetics.machine.machine.polymeriser.info=Das Polymerisator repliziert Seren in dem er rohe DNA in Bakterien injiziert. Dies kann mit Goldnuggets beschleunigt werden.
+
+genetics.machine.machine.inoculator=Inokulator
+genetics.machine.machine.inoculator.info=Die Inokulator verwendet Seren, um züchtbare Gene einzeln hinzuzufügen. Dieses Verfahren dauert sehr lange und erfordert eine Bakterium Vektor. Es ist zu 100% erfolgreich.
+
+genetics.machine.labMachine.genepool=Genepool
+genetics.machine.labMachine.genepool.info=Der Genepool nutzt Enzyme und Ethanol um Lebewesen in DNA zu zerlegen. Alle genetische Information gehen verloren, und die Quelle der DNA wird zerstört.
+
+genetics.machine.labMachine.labMachine=Laborständer
+
+genetics.machine.labMachine.analyser=Analysator
+genetics.machine.labMachine.analyser.info=Der Analysator nimmt züchtbare Individuen und DNA-Sequenzer und analysiert sie, um die aktuellen Gene zu bestimmen. Dies erfordert DNA-Farbstoff, von Purpur und Leuchtstein.
+
+genetics.machine.labMachine.incubator=Brutschrank
+genetics.machine.labMachine.incubator.info=Der Brutschrank verbindet Flüssigkeiten und Gegenständen und erlaubt ihnen, bei einer idealen Temperatur das Bakterienwachstum zu fördern.
+
+genetics.machine.labMachine.acclimatiser=Reklimatisator
+genetics.machine.labMachine.acclimatiser.info=Der Reklimatisator wird verwendet, um die Temperatur- und Feuchtigkeitstoleranz bei Bienen bis zum Maximum von +5 einzustellen.
+
+genetics.item.sequence=DNA-Sequenz
+
+genetics.item.sequence.0=sehr schwach
+genetics.item.sequence.1=schwach
+genetics.item.sequence.2=leicht schwächer
+genetics.item.sequence.3=Durchschnitt
+genetics.item.sequence.4=stark
+genetics.item.sequence.5=sehr stark

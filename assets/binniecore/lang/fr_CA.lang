@@ -1,0 +1,153 @@
+binniecore.mod.name=Binnie Core
+
+binniecore.rootBees.descriptor=Apiculteur
+binniecore.rootTrees.descriptor=Arboriste
+binniecore.rootButterflies.descriptor=Lépidoptériste
+binniecore.rootFlowers.descriptor=Botaniste
+
+binniecore.rootBees.shortName=Abeilles
+binniecore.rootTrees.shortName=Arbres
+binniecore.rootButterflies.shortName=Papillons
+binniecore.rootFlowers.shortName=Fleurs
+
+binniecore.rootBees.epitome.0=Chasseur d'abeilles
+binniecore.rootBees.epitome.1=Apiculteur amateur
+binniecore.rootBees.epitome.2=Apiculteur en formation
+binniecore.rootBees.epitome.3=Apiculteur professionnel
+binniecore.rootBees.epitome.4=Maître apiculteur
+binniecore.rootBees.epitome.5=Dieu apiculteur
+binniecore.rootBees.epitome.6=Élu de Sengir
+
+binniecore.rootTrees.epitome.0=Aspirant arboriste
+binniecore.rootTrees.epitome.1=Bûcheron
+binniecore.rootTrees.epitome.2=Pouce vert
+binniecore.rootTrees.epitome.3=Renommé arboriste
+binniecore.rootTrees.epitome.4=Maître agricole
+binniecore.rootTrees.epitome.5=Seigneur des arbres
+binniecore.rootTrees.epitome.6=Mère nature
+
+binniecore.rootButterflies.epitome.0=Attrapeur d'insecte
+binniecore.rootButterflies.epitome.1=Chasseur de papillon
+binniecore.rootButterflies.epitome.2=Génie du filet
+binniecore.rootButterflies.epitome.3=Seigneur des chenilles
+binniecore.rootButterflies.epitome.4=Assassin ailé
+binniecore.rootButterflies.epitome.5=Roi des papillons
+binniecore.rootButterflies.epitome.6=Monarque des papillons
+
+binniecore.rootFlowers.epitome.0=Pensée
+binniecore.rootFlowers.epitome.1=Mangeur de racine
+binniecore.rootFlowers.epitome.2="Flower Power"
+binniecore.rootFlowers.epitome.3=Toucher de Midas
+binniecore.rootFlowers.epitome.4=Pouce vert
+binniecore.rootFlowers.epitome.5=Maître jardinier
+binniecore.rootFlowers.epitome.6=Botaniste hors pair
+
+binniecore.rootBees.chromosome.species=Espèces
+binniecore.rootBees.chromosome.speed=Production
+binniecore.rootBees.chromosome.lifespan=Durée de vie
+binniecore.rootBees.chromosome.fertility=Fertilité
+binniecore.rootBees.chromosome.temperature_tolerance=Tolérance à la température
+binniecore.rootBees.chromosome.nocturnal=Nocturne
+binniecore.rootBees.chromosome.humidity=Humidité
+binniecore.rootBees.chromosome.humidity_tolerance=Tolérance à l'humidité
+binniecore.rootBees.chromosome.tolerant_flyer=Tolérance de pluie
+binniecore.rootBees.chromosome.cave_dwelling=Troglodyte
+binniecore.rootBees.chromosome.flower_provider=Fleurs
+binniecore.rootBees.chromosome.flowering=Pollinisation
+binniecore.rootBees.chromosome.territory=Territoire
+binniecore.rootBees.chromosome.effect=Effet
+
+binniecore.rootTrees.chromosome.species=Espèces
+binniecore.rootTrees.chromosome.growth=Croissance
+binniecore.rootTrees.chromosome.height=Hauteur
+binniecore.rootTrees.chromosome.fertility=Fertilité
+binniecore.rootTrees.chromosome.fruits=Fruit
+binniecore.rootTrees.chromosome.yield=Rendement
+binniecore.rootTrees.chromosome.plant=Type de plante
+binniecore.rootTrees.chromosome.sappiness=Taux de sève
+binniecore.rootTrees.chromosome.territory=Territoire
+binniecore.rootTrees.chromosome.effect=Effet
+binniecore.rootTrees.chromosome.maturation=Maturation
+binniecore.rootTrees.chromosome.girth=Circonférence
+binniecore.rootTrees.chromosome.fireproof=Résistance au feu
+
+binniecore.rootButterflies.chromosome.species=Espèces
+binniecore.rootButterflies.chromosome.size=Taille
+binniecore.rootButterflies.chromosome.speed=Vitesse
+binniecore.rootButterflies.chromosome.lifespan=Durée de vie
+binniecore.rootButterflies.chromosome.metabolism=Métabolisme
+binniecore.rootButterflies.chromosome.fertility=Fertilité
+binniecore.rootButterflies.chromosome.temperature_tolerance=Tolérance à la température
+binniecore.rootButterflies.chromosome.humidity_tolerance=Tolérance à l'humidité
+binniecore.rootButterflies.chromosome.nocturnal=Nocturne
+binniecore.rootButterflies.chromosome.tolerant_flyer=Tolérance de pluie
+binniecore.rootButterflies.chromosome.fire_resist=Résistance au feu
+binniecore.rootButterflies.chromosome.flower_provider=Fleurs
+binniecore.rootButterflies.chromosome.effect=Effet
+binniecore.rootButterflies.chromosome.territory=Territoire
+
+binniecore.rootFlowers.chromosome.species=Espèces
+binniecore.rootFlowers.chromosome.primary=Couleur primaire
+binniecore.rootFlowers.chromosome.secondary=Couleur secondaire
+binniecore.rootFlowers.chromosome.fertility=Fertilité
+binniecore.rootFlowers.chromosome.territory=Territoire
+binniecore.rootFlowers.chromosome.effect=Effet
+binniecore.rootFlowers.chromosome.lifespan=Durée de vie
+binniecore.rootFlowers.chromosome.temperature_tolerance=Tolérance à la température
+binniecore.rootFlowers.chromosome.humidity_tolerance=Tolérance à l'humidité
+binniecore.rootFlowers.chromosome.ph_tolerance=Tolérance au pH
+binniecore.rootFlowers.chromosome.sappiness=Nectar
+binniecore.rootFlowers.chromosome.stem=Couleur de la tige
+
+binniecore.allele.fertility.low=Basse
+binniecore.allele.fertility.normal=Normale
+binniecore.allele.fertility.high=Haute
+binniecore.allele.fertility.maximum=Maximum
+
+binniecore.allele.true=Oui
+binniecore.allele.false=Non
+
+binniecore.allele.metabolism.highest=Au plus rapide
+binniecore.allele.metabolism.higher=Plus rapide
+binniecore.allele.metabolism.high=Rapide
+binniecore.allele.metabolism.average=Moyen
+binniecore.allele.metabolism.slow=Lent
+binniecore.allele.metabolism.slower=Plus lent
+binniecore.allele.metabolism.slowest=Au plus lent
+
+binniecore.allele.none=Aucun
+
+binniecore.allele.growth.tropical=Tropical
+binniecore.allele.growth.lightlevel=Niveau de lumière
+
+binniecore.beemodifier.territory=Territoire
+binniecore.beemodifier.mutation=Mutation
+binniecore.beemodifier.lifespan=Durée de vie
+binniecore.beemodifier.production=Production
+binniecore.beemodifier.flowering=Fleuraison
+binniecore.beemodifier.geneticdecay=Décomposition génétique
+
+binniecore.gui.breedingmessage.species=Espèces découvertes
+binniecore.gui.breedingmessage.branch=Branche découverte
+binniecore.gui.breedingmessage.epithet=Épithète obtenue
+
+binniecore.item.container.capsule=Capsule
+binniecore.item.container.refractory=Capsule
+binniecore.item.container.can=Cannette
+binniecore.item.container.bucket=Chaudière
+binniecore.item.container.glass=Bouteille
+binniecore.item.container.cylinder=Cylindre
+
+binniecore.machine.storage.compartment=Compartiment
+binniecore.machine.storage.compartmentIron=Compartiment en fer
+binniecore.machine.storage.compartmentDiamond=Compartiment en diamant
+binniecore.machine.storage.compartmentCopper=Compartiment en cuivre
+binniecore.machine.storage.compartmentBronze=Compartiment en bronze
+binniecore.machine.storage.compartmentGold=Compartiment en or
+
+binniecore.rootBees.fieldkit.species.0=#name# #type# !
+binniecore.rootBees.fieldkit.species.1=Probablement une abeille #name#
+binniecore.rootBees.fieldkit.species.2=Ses marques l'identifie comme abeille #name#
+binniecore.rootBees.fieldkit.species.3=#latin#, aussi connue en tant qu'abeille #name#
+
+binniecore.rootBees.fieldKit.speed.0=Semble avoir une durée de vie #name#

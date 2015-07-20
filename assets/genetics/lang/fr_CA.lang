@@ -1,0 +1,37 @@
+##################################################
+## Machines
+
+genetics.machine.machine.isolator=Isolateur
+genetics.machine.machine.isolator.info=L'isolateur prend un allèle aléatoire d'une abeille, d'un arbre ou d'un autre individu et le copie dans une fiole de séquence vide. Cela requiert l'utilisation d'éthanol comme solvant et d'une enzyme pour couper l'ADN. Les sérums non-séquencés peuvent alors être amplifiés dans un polymérisateur et séquencés dans un séquenceur.
+
+genetics.machine.machine.sequencer=Séquenceur
+genetics.machine.machine.sequencer.info=Le séquenceur prend les sérums non-séquencés et détermine quel allèle est présent à l'intérieur. Cela requiert l'utilisation de teinture fluorescente et d'un long moment de calcul.
+
+genetics.machine.machine.polymeriser=Polymérisateur
+genetics.machine.machine.polymeriser.info=Le polymérisateur prend les sérums et les remplis avec de l'ADN brut et des bactéries de réplication. Cela peut être accéléré en utilisant des pépites d'or.
+
+genetics.machine.machine.inoculator=Inoculateur
+genetics.machine.machine.inoculator.info=L'inoculateur utilise les sérums pour ajouter des gènes aux individus capables de se reproduire. Ce processus prend un très long moment et requiert un vecteur bactérien, mais son taux de réussite est à 100%.
+
+genetics.machine.labMachine.genepool=Pool génétique
+genetics.machine.labMachine.genepool.info=Le pool génétique utilise des enzymes et de l'éthanol pour décomposer les choses vivantes dans l'ADN. Toute l'information génétique est perdue et la source de l'ADN est détruite.
+
+
+genetics.machine.labMachine.labMachine=Stand de laboratoire
+
+genetics.machine.labMachine.analyser=Analyseur
+genetics.machine.labMachine.analyser.info=L'analyseur prend des individus capables de se reproduire et des séquenceurs d'ADN et les analyse pour déterminer les gènes présents. Cela requiert de la teinture d'ADN, créée de teinture mauve et de pierre lumineuse.
+
+genetics.machine.labMachine.incubator=Incubateur
+genetics.machine.labMachine.incubator.info=L'incubateur combine les liquides et les objets et leur permet de rester à une température idéale pour encourager la croissance bactérienne.
+
+genetics.machine.labMachine.acclimatiser=Acclimatiseur
+
+genetics.item.sequence=Séquence ADN
+
+genetics.item.sequence.0=Très faible
+genetics.item.sequence.1=Assez faible
+genetics.item.sequence.2=Faible
+genetics.item.sequence.3=Moyenne
+genetics.item.sequence.4=Forte
+genetics.item.sequence.5=Très forte

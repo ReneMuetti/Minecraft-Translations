@@ -1,0 +1,123 @@
+binniecore.mod.name=Binnie Core
+
+binniecore.rootBees.descriptor=Пчеловодство
+binniecore.rootTrees.descriptor=Лесоводство
+binniecore.rootButterflies.descriptor=Бабочковедение
+binniecore.rootFlowers.descriptor=Садоводство
+
+binniecore.rootBees.shortName=Пчёлы
+binniecore.rootTrees.shortName=Деревья
+binniecore.rootButterflies.shortName=Бабочки & Мотыльки
+binniecore.rootFlowers.shortName=Цветы
+
+binniecore.rootBees.epitome.0=Пчеловод-дилетант
+binniecore.rootBees.epitome.1=Пчеловод-любитель
+binniecore.rootBees.epitome.2=Пчеловод-ученик
+binniecore.rootBees.epitome.3=Пчеловод-профессионал
+binniecore.rootBees.epitome.4=Пчеловод-мастер
+binniecore.rootBees.epitome.5=Королевский пчеловод
+binniecore.rootBees.epitome.6=Непревзойдённый пчеловод
+
+binniecore.rootTrees.epitome.0=Лесовод-дилетант
+binniecore.rootTrees.epitome.1=Лесовод-любитель
+binniecore.rootTrees.epitome.2=Лесовод-ученик
+binniecore.rootTrees.epitome.3=Лесовод-профессионал
+binniecore.rootTrees.epitome.4=Лесовод-мастер
+binniecore.rootTrees.epitome.5=Королевский лесовод
+binniecore.rootTrees.epitome.6=Непревзойдённый лесовод
+
+binniecore.rootButterflies.epitome.0=Бабочковед-дилетант
+binniecore.rootButterflies.epitome.1=Бабочковед-любитель
+binniecore.rootButterflies.epitome.2=Бабочковед-ученик
+binniecore.rootButterflies.epitome.3=Бабочковед-профессионал
+binniecore.rootButterflies.epitome.4=Бабочковед-мастер
+binniecore.rootButterflies.epitome.5=Королевский бабочковед
+binniecore.rootButterflies.epitome.6=Непревзойдённый бабочковед
+
+binniecore.rootFlowers.epitome.0=Садовод-дилетант
+binniecore.rootFlowers.epitome.1=Садовод-любитель
+binniecore.rootFlowers.epitome.2=Садовод-ученик
+binniecore.rootFlowers.epitome.3=Садовод-профессионал
+binniecore.rootFlowers.epitome.4=Садовод-мастер
+binniecore.rootFlowers.epitome.5=Королевский садовод
+binniecore.rootFlowers.epitome.6=Непревзойдённый садовод
+
+binniecore.rootBees.chromosome.species=подвид
+binniecore.rootBees.chromosome.speed=продуктивность
+binniecore.rootBees.chromosome.lifespan=время жизни
+binniecore.rootBees.chromosome.fertility=плодовитость
+binniecore.rootBees.chromosome.temperature_tolerance=допустимая температура
+binniecore.rootBees.chromosome.nocturnal=ночной
+binniecore.rootBees.chromosome.humidity=влажность
+binniecore.rootBees.chromosome.humidity_tolerance=допустимая влажность
+binniecore.rootBees.chromosome.tolerant_flyer=допустимая дождливость
+binniecore.rootBees.chromosome.cave_dwelling=жизнь в пещерах
+binniecore.rootBees.chromosome.flower_provider=опыляемые цветки
+binniecore.rootBees.chromosome.flowering=опыление
+binniecore.rootBees.chromosome.territory=местность (биом)
+binniecore.rootBees.chromosome.effect=действие (эффект)
+
+binniecore.rootTrees.chromosome.species=подвид
+binniecore.rootTrees.chromosome.growth=рост (скорость)
+binniecore.rootTrees.chromosome.height=высота
+binniecore.rootTrees.chromosome.fertility=плодовитость
+binniecore.rootTrees.chromosome.fruits=плоды
+binniecore.rootTrees.chromosome.yield=урожайность
+binniecore.rootTrees.chromosome.plant=вид саженца
+binniecore.rootTrees.chromosome.sappiness=жизнеспособность (сочность?)
+binniecore.rootTrees.chromosome.territory=местность (биом)
+binniecore.rootTrees.chromosome.effect=действие (эффект)
+binniecore.rootTrees.chromosome.maturation=созревание
+binniecore.rootTrees.chromosome.girth=обхват дерева
+
+binniecore.rootButterflies.chromosome.species=подвид
+binniecore.rootButterflies.chromosome.size=размер
+binniecore.rootButterflies.chromosome.speed=скорость
+binniecore.rootButterflies.chromosome.lifespan=время жизни
+binniecore.rootButterflies.chromosome.metabolism=метаболизм
+binniecore.rootButterflies.chromosome.fertility=плодовитость
+binniecore.rootButterflies.chromosome.temperature_tolerance=допустимая температура
+binniecore.rootButterflies.chromosome.humidity_tolerance=допустимая влажность
+binniecore.rootButterflies.chromosome.nocturnal=ночной
+binniecore.rootButterflies.chromosome.tolerant_flyer=допустимая дождливость
+binniecore.rootButterflies.chromosome.fire_resist=огнестойкость
+binniecore.rootButterflies.chromosome.flower_provider=опыляемые цветки
+binniecore.rootButterflies.chromosome.effect=действие (эффект)
+binniecore.rootButterflies.chromosome.territory=местность (биом)
+
+binniecore.rootFlowers.chromosome.species=подвид
+binniecore.rootFlowers.chromosome.primary=основная расцветка
+binniecore.rootFlowers.chromosome.secondary=дополнительная расцветка
+binniecore.rootFlowers.chromosome.fertility=плодовитость
+binniecore.rootFlowers.chromosome.territory=местность (биом)
+binniecore.rootFlowers.chromosome.effect=действие (эффект)
+binniecore.rootFlowers.chromosome.lifespan=время жизни
+binniecore.rootFlowers.chromosome.temperature_tolerance=допустимая температура
+binniecore.rootFlowers.chromosome.humidity_tolerance=допустимая влажность
+binniecore.rootFlowers.chromosome.ph_tolerance=допустимая кислотность (pH)
+binniecore.rootFlowers.chromosome.sappiness=нектар
+binniecore.rootFlowers.chromosome.stem=расцветка ствола
+
+
+
+
+binniecore.gui.breedingmessage.species=изучено видов
+binniecore.gui.breedingmessage.branch=изучено отраслей
+binniecore.gui.breedingmessage.epithet=повышено мастерство
+
+
+
+binniecore.item.container.capsule=капсула
+binniecore.item.container.refractory=капсула
+binniecore.item.container.can=банка
+binniecore.item.container.bucket=ведро
+binniecore.item.container.glass=бутылка
+binniecore.item.container.cylinder=бочка
+
+
+binniecore.machine.storage.compartment=отсек
+binniecore.machine.storage.compartmentIron=железный отсек
+binniecore.machine.storage.compartmentDiamond=алмазный отсек
+binniecore.machine.storage.compartmentCopper=медный отсек
+binniecore.machine.storage.compartmentBronze=бронзовый отсек
+binniecore.machine.storage.compartmentGold=золотой отсек
