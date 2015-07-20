@@ -1,0 +1,68 @@
+#Archimedes' Ships language file de_DE
+
+entity.ArchimedesShips.shipmod.name=Archimedes' Ships
+
+tile.archimedes.marker.name=Schiffshelm
+tile.archimedes.floater.name=Schwimmer
+tile.archimedes.balloon.name=Luftballon
+tile.archimedes.balloon.black.name=Schwarzer Luftballon
+tile.archimedes.balloon.red.name=Roter Luftballon
+tile.archimedes.balloon.green.name=Grüner Luftballon
+tile.archimedes.balloon.brown.name=Brauner Luftballon
+tile.archimedes.balloon.blue.name=Blauer Luftballon
+tile.archimedes.balloon.purple.name=Lilaner Luftballon
+tile.archimedes.balloon.cyan.name=Blaugrüner Luftballon
+tile.archimedes.balloon.silver.name=Silberner Luftballon
+tile.archimedes.balloon.gray.name=Grauer Luftballon
+tile.archimedes.balloon.pink.name=Rosaner Air Balloon
+tile.archimedes.balloon.lime.name=Hellgrüner Air Balloon
+tile.archimedes.balloon.yellow.name=Gelber Luftballon
+tile.archimedes.balloon.light_blue.name=Hellblauer Luftballon
+tile.archimedes.balloon.magenta.name=Violetter Air Balloon
+tile.archimedes.balloon.orange.name=Orangener Luftballon
+tile.archimedes.balloon.white.name=Weißer Luftballon
+tile.archimedes.gauge.name=Mess-Anzeigen
+tile.archimedes.seat.name=Passagiersitz
+tile.archimedes.buffer.name=Land Puffer
+tile.archimedes.engine.name=Dampfmotor
+tile.archimedes.crate_wood.name=Holzrahmen
+
+key.archimedes.up=Aufsteigen
+key.archimedes.down=Absteigen
+key.archimedes.brake=Bremse
+key.archimedes.align=Richtung
+key.archimedes.decompile=Demontieren
+key.archimedes.shipinv=Schiffsinventar
+
+gui.shipstatus.title=Schiffsstatus
+gui.shipstatus.rename=Umbenennen
+gui.shipstatus.done=Umbenennen fertig
+gui.shipstatus.compile=Schiff montieren
+gui.shipstatus.undo=Zurück
+gui.shipstatus.mount=Mount Ship
+gui.shipstatus.name=Name
+gui.shipstatus.shiptype=Typ
+gui.shipstatus.type.unknown=Unbekannter Type
+gui.shipstatus.type.airship=Luftschiff
+gui.shipstatus.type.boat=Schiff
+gui.shipstatus.compilerresult=Status
+gui.shipstatus.count.block=Blöcke
+gui.shipstatus.count.balloon=Luftballons
+gui.shipstatus.count.tileentity=Tile Entities
+gui.shipstatus.mass=Masse
+gui.shipstatus.massunit=kg
+
+gui.shipstatus.result.none=Nicvht montiert
+gui.shipstatus.result.ok=OK
+gui.shipstatus.result.okwarn=Vewränderungen erkannt
+gui.shipstatus.result.missingmarker=Der Helm fehlt
+gui.shipstatus.result.overflow=Überlauf
+gui.shipstatus.result.error=Error
+gui.shipstatus.result.busy=Montiere...
+gui.shipstatus.result.inconsistent=Inkonsistent
+
+gui.shipinv.title=Schiffsinventar
+gui.shipinv.decompile=Demontieren
+gui.shipinv.align=Richtung
+
+gui.engine.title=Dampfmotor Füllstand
