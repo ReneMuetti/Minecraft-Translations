@@ -15,7 +15,7 @@ This repository does not include the code of the Mods. It this only localization
 Translaters Archimedes' Ships:
 - ReneMuetti - German
 
-Tranlaters Better Furnance:
+Translaters Better Furnance:
 - ReneMuetti - German
 
 Translaters Binnie-Mods 2.0:
@@ -24,14 +24,14 @@ Translaters Binnie-Mods 2.0:
 - Muravlov - Russian
 - DragonsLover -French  Canadian
 
-Tranlaters Extra Utilities:
+Translaters Extra Utilities:
 - ReneMuetti - German
 - Vexatos - German
 
 Translaters Mo' Furnaces:
 - ReneMuetti - German
 
-Tranlaters Pam's Harvestcraft:
+Translaters Pam's Harvestcraft:
 - ReneMuetti - German
 
 Translaters Twilight Forest:
