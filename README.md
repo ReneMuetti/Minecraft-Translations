@@ -16,16 +16,22 @@ This repository does not include the code of the Mods. It this only localization
 ******************
 
 Translaters Archimedes' Ships:
-- ReneMuetti - German
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
 
 Translaters Better Furnance:
-- ReneMuetti - German
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
 
 Translaters Binnie-Mods 2.0:
-- ReneMuetti - German
-- Schorsch38 - German
-- Muravlov - Russian
-- DragonsLover -French Canadian
+| Translations by | Language        |
+| --------------- | --------------- |
+| ReneMuetti      | German          |
+| Schorsch38      | German          |
+| Muravlov        | Russian         |
+| DragonsLover    | French Canadian |
 
 Translaters Chisel 2:
 - ReneMuetti - German
