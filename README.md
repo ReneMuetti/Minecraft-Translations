@@ -8,6 +8,7 @@ Please errors to the mods Report directly from the author!
 - [Better Furnance](www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279439)
 - [Binnie-Mods 2.0](http://minecraft.curseforge.com/mc-mods/223525)
 - [Chisel 2](http://minecraft.curseforge.com/mc-mods/225236)
+- [CraftGuide](http://minecraft.curseforge.com/mc-mods/75557)
 - [Extra Utilities](http://minecraft.curseforge.com/mc-mods/225561)
 - [IngameInfo XML](http://minecraft.curseforge.com/mc-mods/225604)
 - [JABBA](http://minecraft.curseforge.com/mc-mods/73510)
@@ -44,6 +45,12 @@ Binnie-Mods 2.0
 | DragonsLover    | French Canadian |
 
 Chisel 2
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
+CraftGuide
 
 | Translations by | Language |
 | --------------- | -------- |
