@@ -11,9 +11,13 @@ Please errors to the mods Report directly from the author!
 - [Extra Utilities](http://minecraft.curseforge.com/mc-mods/225561)
 - [IngameInfo XML](http://minecraft.curseforge.com/mc-mods/225604)
 - [JABBA](http://minecraft.curseforge.com/mc-mods/73510)
+- [LunatriusCore](http://minecraft.curseforge.com/mc-mods/225605)
 - [Mo' Furnaces](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189931)
+- [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349)
 - [Mystcraft](http://minecraft.curseforge.com/mc-mods/224599)
 - [Pam's Harvestcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413)
+- [Reliquary](http://minecraft.curseforge.com/mc-mods/59713)
+- [Soul Shards: The Old Ways](http://minecraft.curseforge.com/mc-mods/226958)
 - [Twilight Forest](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258)
 
 ******************
@@ -64,8 +68,19 @@ JABBA
 | --------------- | -------- |
 | ReneMuetti      | German   |
 
+LunatriusCore
 
-Translaters Mo' Furnaces
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
+Mo' Furnaces
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
+MrCrayfish's Furniture Mod
 
 | Translations by | Language |
 | --------------- | -------- |
@@ -80,6 +95,18 @@ Mystcraft
 | TheJulianJES    | German   |
 
 Pam's Harvestcraft
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
+Reliquary
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
+Soul Shards: The Old Ways
 
 | Translations by | Language |
 | --------------- | -------- |
