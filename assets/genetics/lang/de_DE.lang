@@ -27,6 +27,9 @@ genetics.machine.labMachine.incubator.info=Der Brutschrank verbindet Flüssigkei
 genetics.machine.labMachine.acclimatiser=Reklimatisator
 genetics.machine.labMachine.acclimatiser.info=Der Reklimatisator wird verwendet, um die Temperatur- und Feuchtigkeitstoleranz bei Bienen bis zum Maximum von +5 einzustellen.
 
+genetics.machine.advMachine.splicer=Spleißer
+genetics.machine.advMachine.splicer.info=Der Spleißer ist ein unglaublich leistungsfähiges Gerät, das verwendet wird, um Gene einzelnen einzufügen. Dieser Prozess ist schnell, aber er benötige monumentale Energiemengen.
+
 genetics.item.sequence=DNA-Sequenz
 
 genetics.item.sequence.0=sehr schwach

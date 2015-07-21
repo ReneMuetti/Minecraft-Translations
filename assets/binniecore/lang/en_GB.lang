@@ -15,7 +15,7 @@ binniecore.rootBees.epitome.1=Amateur Beekeeper
 binniecore.rootBees.epitome.2=Apiarist-In-Training
 binniecore.rootBees.epitome.3=Professional Beekeeper
 binniecore.rootBees.epitome.4=Master Apiarist
-binniecore.rootBees.epitome.5=God amoungst Apiarists
+binniecore.rootBees.epitome.5=God amongst Apiarists
 binniecore.rootBees.epitome.6=Sengir's Chosen
 
 binniecore.rootTrees.epitome.0=Wannabe Tree Farmer
@@ -29,7 +29,7 @@ binniecore.rootTrees.epitome.6=Mother Nature
 binniecore.rootButterflies.epitome.0=Bug Catcher
 binniecore.rootButterflies.epitome.1=Moth Chaser
 binniecore.rootButterflies.epitome.2=Scoop Wizard
-binniecore.rootButterflies.epitome.3=Caterpiller Lord
+binniecore.rootButterflies.epitome.3=Caterpillar Lord
 binniecore.rootButterflies.epitome.4=Winged Assassin
 binniecore.rootButterflies.epitome.5=Moth King
 binniecore.rootButterflies.epitome.6=Monarch of the Butterflies
@@ -39,7 +39,7 @@ binniecore.rootFlowers.epitome.1=Daisy Pusher
 binniecore.rootFlowers.epitome.2=Flower Power
 binniecore.rootFlowers.epitome.3=Midas Touch
 binniecore.rootFlowers.epitome.4=Green Thumb
-binniecore.rootFlowers.epitome.5=Master Garderner
+binniecore.rootFlowers.epitome.5=Master Gardener
 binniecore.rootFlowers.epitome.6=Peerless Botanist
 
 binniecore.rootBees.chromosome.species=Species
@@ -223,7 +223,7 @@ binniecore.gui.design=Design
 
 
 
-< Descriptions used for effects in the registry >
+< Descriptions used for effects in the database >
 binniecore.allele.extrabees.effect.acid.desc=Dissolves stone and dirt
 binniecore.allele.forestry.effectAggressive.desc=Attacks players
 binniecore.allele.forestry.effectBeatific.desc=Slowly restores health to players
@@ -232,21 +232,21 @@ binniecore.allele.extrabees.effect.spawn_creeper.desc=Randomly spawns creepers
 binniecore.allele.extrabees.effect.blindness.desc=Blinds players
 binniecore.allele.forestry.effectDrunkard.desc=Causes players to become tipsy
 binniecore.allele.extrabees.effect.ectoplasm.desc=Creates ectoplasmic webbing
-binniecore.allele.forestry.effectMisanthrope.desc=Aggresively defends its hive
-binniecore.allele.forestry.effectExploration.desc=Slowly rewards nearby players with experiance
+binniecore.allele.forestry.effectMisanthrope.desc=Aggressively defends its hive
+binniecore.allele.forestry.effectExploration.desc=Slowly rewards nearby players with experience
 binniecore.allele.forestry.effectFertile.desc=Stimulates nearby blocks
 binniecore.allele.extrabees.effect.fireworks.desc=Spontaneously fires fireworks into the sky
 binniecore.allele.forestry.effectIgnition.desc=Randomly starts fires
 binniecore.allele.forestry.effectGlacial.desc=Slowly freezes over water
-binniecore.allele.extrabees.effect.gravity.desc=Pulls entities towards their hive
+binniecore.allele.extrabees.effect.gravity.desc=Pulls entities towards the hive
 binniecore.allele.extrabees.effect.bonemealsapling.desc=Bonemeals saplings
 binniecore.allele.forestry.effectHeroic.desc=Defends their hive against mobs
-binniecore.allele.extrabees.effect.hunger.desc=Causes players to become hungry
+binniecore.allele.extrabees.effect.hunger.desc=Causes players to be hungry
 binniecore.allele.extrabees.effect.lightning.desc=Stimulates lightning strikes
 binniecore.allele.extrabees.effect.meteor.desc=Causes meteors to fall from the sky
 binniecore.allele.extrabees.effect.bonemealmushroom.desc=Bonemeals mushrooms
-binniecore.allele.forestry.effectMycophilic.desc=Spreads mushrooms and mycellium
-binniecore.allele.forestry.effectNone.desc=No discernable effects
+binniecore.allele.forestry.effectMycophilic.desc=Spreads mushrooms and mycelium
+binniecore.allele.forestry.effectNone.desc=No discernible effects
 binniecore.allele.forestry.effectMiasmic.desc=Poisons players
 binniecore.allele.extrabees.effect.power.desc=Provides some power to machines
 binniecore.allele.forestry.effectRadioactive.desc=Destroys nearby blocks
@@ -263,37 +263,3 @@ binniecore.allele.extrabees.effect.water.desc=Fills machines with water
 binniecore.allele.extrabees.effect.wither.desc=Withers anyone who approaches
 binniecore.allele.extrabees.effect.spawn_zombie.desc=Randomly spawns zombies
 binniecore.allele.forestry.effectFestiveEaster.desc=Does nothing
-
-
-
-< Names for slots when using help tooltip >
-binniecore.gui.slot.slot=Slot
-binniecore.gui.slot.input=Input Slot
-binniecore.gui.slot.process=Process Slot
-binniecore.gui.slot.output=Output Slot
-binniecore.gui.slot.frame=Frame Slot
-binniecore.gui.slot.mutator=Mutator Slot
-binniecore.gui.slot.circuit=Circuit Slot
-binniecore.gui.slot.grain=Grain Slot
-binniecore.gui.slot.inventory=Inventory Slot
-binniecore.gui.slot.caterpillar=Caterpillar Slot
-binniecore.gui.slot.polish=Polish Slot
-binniecore.gui.slot.wood=Wood Slot
-binniecore.gui.slot.acclimatiser=Acclimatiser Item Slot
-binniecore.gui.slot.analyse=Analyse Slot
-binniecore.gui.slot.dye=Dye Slot
-binniecore.gui.slot.incubator=Incubator Slot
-binniecore.gui.slot.compartment=Compartment Slot
-binniecore.gui.slot.ingredient=Ingredient Slot
-binniecore.gui.slot.byproduct=Byproduct Slot
-binniecore.gui.slot.enzyme=Enzyme Slot
-binniecore.gui.slot.sequencervial=Sequencer Vial Slot
-binniecore.gui.slot.catalyst=Catalyst Slot
-binniecore.gui.slot.serum.input=Serum Input Slot
-binniecore.gui.slot.serum.output=Serum Output Slot
-binniecore.gui.slot.serum.active=Active Serum Slot
-binniecore.gui.slot.yeast=Yeast Slot
-
-binniecore.gui.tank.input=Input Tank
-binniecore.gui.tank.process=Process Tank
-binniecore.gui.tank.output=Output Tank

@@ -147,3 +147,15 @@ for.binnie.circuit.Garten.Feucht=Garten (Feucht)
 for.binnie.circuit.Garten.Feucht.acid=Garten (Feucht, Sauer)
 for.binnie.circuit.Garten.Feucht.neutral=Garten (Feucht, Neutral)
 for.binnie.circuit.Garten.Feucht.Alkalisch=Garten (Feucht, Alkalisch)
+
+botany.gui.database.tab.species.overview=Übersicht
+botany.gui.database.tab.species.genome=Genom
+botany.gui.database.tab.species.classification=Klassifizierung
+botany.gui.database.tab.species.resultant=Resultierende Mutationen
+botany.gui.database.tab.species.further=Weitere Mutationen
+botany.gui.database.tab.branches.overview=Übersicht
+botany.gui.database.tab.branches.species=SpeSpeziesies
+botany.gui.database.tab.breeder=Züchter
+
+botany.gui.database.tab.colour.resultant=Resultierende Mischung
+botany.gui.database.tab.colour.further=Weitere Mischung

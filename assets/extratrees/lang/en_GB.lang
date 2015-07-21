@@ -7,11 +7,11 @@ extratrees.machine.kitchen.bottleRack=Bottle Rack
 extratrees.machine.machine.brewery=Brewery
 extratrees.machine.machine.brewery.info=The Brewery uses yeasts, juices and grains to make many kinds of Wines and Beers.
 extratrees.machine.machine.distillery=Distillery
-extratrees.machine.machine.distillery.info=The Distillery can single, double or triple distill certain alcohols to give brandies, liquors and other spirits.
+extratrees.machine.machine.distillery.info=The Distillery can single, double or triple distil certain alcohols to give brandies, liquors and other spirits.
 extratrees.machine.machine.press=Fruit Press
-extratrees.machine.machine.press.info=The Fruit Press squeezes fruit to give various fruit juices. It can be run using power or manually by right clicking.
+extratrees.machine.machine.press.info=The Press squeezes fruit to give various fruit juices. It can be powered or run manually by right clicking.
 extratrees.machine.machine.lumbermill=Lumbermill
-extratrees.machine.machine.lumbermill.info=The Lumbermill converts logs into planks at an increased rate, and produces byproducts such as sawdust and bark.
+extratrees.machine.machine.lumbermill.info=The Lumbermill converts logs into planks at an increased rate, as well as giving by-products such as sawdust and bark.
 extratrees.machine.machine.nursery=Nursery
 extratrees.machine.machine.woodworker=Woodworker
 extratrees.machine.machine.woodworker.info=The Woodworker creates patterned wooden tiles from two different woods.
@@ -22,8 +22,8 @@ extratrees.machine.machine.glassworker.info=The Glassworker creates patterned st
 extratrees.machine.machine.tileworker=Tileworker
 extratrees.machine.machine.tileworker.info=The Tileworker creates patterned ceramic tiles.
 
-        
-        
+
+
 extratrees.block.planks.fir=Fir
 extratrees.block.planks.cedar=Cedar
 extratrees.block.planks.hemlock=Hemlock
@@ -106,17 +106,17 @@ extratrees.block.planks.ebxl.acacia=Excel Acacia
 extratrees.block.planks.fir.desc=A good sturdy conifer wood.|Lumber Jack
 extratrees.block.planks.cedar.desc=A red tinged softwood.|Lumber Jack
 extratrees.block.planks.hemlock.desc=Hemlock gives a green hued conifer wood.|Lumber Jack
-extratrees.block.planks.cypress.desc=A conifer wood with a sligh yellow colouring.|Lumber Jack
+extratrees.block.planks.cypress.desc=A conifer wood with a slight yellow colouring.|Lumber Jack
 extratrees.block.planks.fig.desc=Generally not considered a viable construction wood, nonetheless a useful wood.|Lumber Jack
 extratrees.block.planks.beech.desc=A slightly lighter wood, pretty average.|Lumber Jack
 extratrees.block.planks.alder.desc=A darker hardwood, doesn't have many discerning properties.|Lumber Jack
 extratrees.block.planks.hazel.desc=A lovely pale wood, similar in colour to Birch.|Lumber Jack
 extratrees.block.planks.hornbeam.desc=Another average wood, without many interesting properties.|Lumber Jack
-extratrees.block.planks.box.desc=One of the palest woods avaiable, but only found on the short box shrub.|Lumber Jack
+extratrees.block.planks.box.desc=One of the palest woods available, but only found on the short box shrub.|Lumber Jack
 extratrees.block.planks.butternut.desc=A creamy hued wood, though the tree is more known for its nuts.|Lumber Jack
 extratrees.block.planks.hickory.desc=A not particularly remarkable hardwood.|Lumber Jack
 extratrees.block.planks.whitebeam.desc=Despite it's name whitebeam has a rather subdued colour.|Lumber Jack
-extratrees.block.planks.elm.desc=A rather brigh peachy wood.|Lumber Jack
+extratrees.block.planks.elm.desc=A rather bright peachy wood.|Lumber Jack
 extratrees.block.planks.apple.desc=A very dark wood, making apple trees a very useful cultivar.|Lumber Jack
 extratrees.block.planks.yew.desc=A rather attractively hued conifer wood.|Lumber Jack
 extratrees.block.planks.pear.desc=Unlike Apple wood, pear wood is not particularly unique.|Lumber Jack
@@ -183,26 +183,14 @@ extratrees.block.door.type.full=Full
 
 < %1$s is name of the wood>
 extratrees.block.plank.name=%1$s Wood Planks
+
+< %1$s is name of wood >
 extratrees.block.log.name=%1$s Wood
-extratrees.block.woodslab.name=%1$s Wood Slab
-extratrees.block.woodstairs.name=%1$s Stairs
-extratrees.block.woodfence.name=%1$s Fence
-extratrees.block.woodgate.name=%1$s Gate
-
-< %1$s is the adjective for the fence type, %2$s is the name of the wood >
-extratrees.block.multifence.name=%2$s %1$s Gate
-< %3$s is the name of the second wood >
-extratrees.block.multifence.name2=%2$s %1$s & $2$s Gate
-
-< %1$s is name of the design >
-extratrees.block.woodentile.name=%1$s Wooden Tile
-extratrees.block.woodenpanel.name=%1$s Wooden Panel
-extratrees.block.stainedglass.name=%1$s Stained Glass
 
 extratrees.species.orchardapple.name=Orchard Apple
-extratrees.species.sweetcrabapple.name=Sweet Crabapple
-extratrees.species.floweringcrabapple.name=Flowering Crabapple
-extratrees.species.prairiecrabapple.name=Prairie Crabapple
+extratrees.species.sweetcrabapple.name=Sweet Crab Apple
+extratrees.species.floweringcrabapple.name=Flowering Crab Apple
+extratrees.species.prairiecrabapple.name=Prairie Crab Apple
 extratrees.species.blackthorn.name=Blackthorn
 extratrees.species.cherryplum.name=Cherry Plum
 extratrees.species.peach.name=Peach
@@ -213,7 +201,7 @@ extratrees.species.wildcherry.name=Wild Cherry
 extratrees.species.sourcherry.name=Sour Cherry
 extratrees.species.blackcherry.name=Black Cherry
 extratrees.species.orange.name=Orange
-extratrees.species.manderin.name=Manderine
+extratrees.species.manderin.name=Mandarin
 extratrees.species.satsuma.name=Satsuma
 extratrees.species.tangerine.name=Tangerine
 extratrees.species.lime.name=Lime
@@ -261,7 +249,7 @@ extratrees.species.loblollypine.name=Loblolly Pine
 extratrees.species.sweetgum.name=Sweetgum
 extratrees.species.locust.name=Black Locust
 extratrees.species.pear.name=Cultivated Pear
-extratrees.species.osangeosange.name=Osange-Orange
+extratrees.species.osangeosange.name=Osage-Orange
 extratrees.species.oldfustic.name=Old Fustic
 extratrees.species.brazilwood.name=Brazilwood
 extratrees.species.logwood.name=Logwood
@@ -290,7 +278,7 @@ extratrees.species.goldenraspberry.name=Golden Raspberry
 extratrees.species.cinnamon.name=Cinnamon
 extratrees.species.coconut.name=Coconut
 extratrees.species.cashew.name=Cashew
-extratrees.species.avacado.name=Avacado
+extratrees.species.avacado.name=Avocado
 extratrees.species.nutmeg.name=Nutmeg
 extratrees.species.allspice.name=Allspice
 extratrees.species.chilli.name=Chilli Pepper
@@ -303,7 +291,7 @@ extratrees.species.dwarfhazel.name=Dwarf Hazel
 
 
 extratrees.item.food.apple=Apple
-extratrees.item.food.crabapple=Crabapple
+extratrees.item.food.crabapple=Crab Apple
 extratrees.item.food.orange=Orange
 extratrees.item.food.kumquat=Kumquat
 extratrees.item.food.lime=Lime
@@ -317,11 +305,11 @@ extratrees.item.food.apricot=Apricot
 extratrees.item.food.grapefruit=Grapefruit
 extratrees.item.food.peach=Peach
 extratrees.item.food.satsuma=Satsuma
-extratrees.item.food.buddhahand=Buddhas Hand
+extratrees.item.food.buddhahand=Buddha’s Hand
 extratrees.item.food.citron=Citron
 extratrees.item.food.fingerlime=Finger Lime
 extratrees.item.food.keylime=Key Lime
-extratrees.item.food.manderin=Manderin
+extratrees.item.food.manderin=Mandarin
 extratrees.item.food.nectarine=Nectarine
 extratrees.item.food.pomelo=Pomelo
 extratrees.item.food.tangerine=Tangerine
@@ -341,7 +329,7 @@ extratrees.item.food.elderberry=Elderberry
 extratrees.item.food.olive=Olive
 extratrees.item.food.gingkonut=Gingko Nut
 extratrees.item.food.coffee=Coffee
-extratrees.item.food.osangeorange=Osange Orange
+extratrees.item.food.osangeorange=Osage Orange
 extratrees.item.food.clove=Clove
 extratrees.item.food.papayimar=Papayimar
 extratrees.item.food.blackcurrant=Blackcurrant
@@ -355,7 +343,7 @@ extratrees.item.food.gooseberry=Gooseberry
 extratrees.item.food.goldenraspberry=Golden Raspberry
 extratrees.item.food.coconut=Coconut
 extratrees.item.food.cashew=Cashew
-extratrees.item.food.avacado=Avacado
+extratrees.item.food.avacado=Avocado
 extratrees.item.food.nutmeg=Nutmeg
 extratrees.item.food.allspice=Allspice
 extratrees.item.food.chilli=Chilli

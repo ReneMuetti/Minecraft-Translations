@@ -41,11 +41,11 @@ botany.colour.darkturquoise=Turquoise
 botany.colour.darkviolet=Purple
 botany.colour.deeppink=Deep Pink
 botany.colour.deepskyblue=Light Blue
-botany.colour.dimgray=Dark Gray
+botany.colour.dimgray=Dark Grey
 botany.colour.dodgerblue=Blue
 botany.colour.gold=Gold
 botany.colour.goldenrod=Bronze
-botany.colour.gray=Dim Gray
+botany.colour.gray=Dim Grey
 botany.colour.green=Green
 botany.colour.hotpink=Pink
 botany.colour.indianred=Brick Red
@@ -53,7 +53,7 @@ botany.colour.indigo=Indigo
 botany.colour.khaki=Beige
 botany.colour.lavender=Alice Blue
 botany.colour.lemonchiffon=Pale Yellow
-botany.colour.lightgray=Light Gray
+botany.colour.lightgray=Light Grey
 botany.colour.lightseagreen=Dark Turquoise
 botany.colour.lightsteelblue=Pale Blue
 botany.colour.lime=Lime
@@ -160,4 +160,3 @@ botany.gui.database.tab.breeder=Breeder
 
 botany.gui.database.tab.colour.resultant=Resultant Mixes
 botany.gui.database.tab.colour.further=Further Mixes
-

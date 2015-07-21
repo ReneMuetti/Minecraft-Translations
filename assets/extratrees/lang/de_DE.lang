@@ -11,16 +11,16 @@ extratrees.machine.machine.distillery.info=Die Brennerei kann Einzel-, Doppel- o
 extratrees.machine.machine.press=Fruchtpresse
 extratrees.machine.machine.press.info=Die Presse presst Früchte, um verschiedene Fruchtsäfte herzustellen. Sie kann elektrisch oder manuell über einen Rechtsklick betrieben werden.
 extratrees.machine.machine.lumbermill=Sägewerk
-extratrees.machine.machine.lumbermill.desc=Das Sägewerk zerteilt Holz zu Brettern mit einer erhöhten Geschwindigkeit. Sie erzeugt Nebenprodukte wie Sägemehl und Rinde.
+extratrees.machine.machine.lumbermill.info=Das Sägewerk zerteilt Holz zu Brettern mit einer erhöhten Geschwindigkeit. Sie erzeugt Nebenprodukte wie Sägemehl und Rinde.
 extratrees.machine.machine.nursery=Baumschule
 extratrees.machine.machine.woodworker=Drechsler
-extratrees.machine.machine.woodworker.desc=Der Drechsler erstellt gemusterte Holz-Fliesen aus zwei verschiedenen Holzarten.
+extratrees.machine.machine.woodworker.info=Der Drechsler erstellt gemusterte Holz-Fliesen aus zwei verschiedenen Holzarten.
 extratrees.machine.machine.panelworker=Panelworker
-extratrees.machine.machine.panelworker.desc=Die Panelworker erstellt gemusterten Holzplatten aus zwei verschiedenen Holzarten.
+extratrees.machine.machine.panelworker.info=Die Panelworker erstellt gemusterten Holzplatten aus zwei verschiedenen Holzarten.
 extratrees.machine.machine.glassworker=Glassworker
-extratrees.machine.machine.glassworker.desc=Der Glassworker erstellt gemustertes farbiges Glass.
+extratrees.machine.machine.glassworker.info=Der Glassworker erstellt gemustertes farbiges Glass.
 extratrees.machine.machine.tileworker=Fliesenpresse
-extratrees.machine.machine.tileworker.desc=Die Fliesenpresse erzeugt gemusterten Keramikplatten.
+extratrees.machine.machine.tileworker.info=Die Fliesenpresse erzeugt gemusterten Keramikplatten.
 
 extratrees.block.planks.fir=Tanne
 extratrees.block.planks.cedar=Zeder
@@ -166,6 +166,34 @@ extratrees.block.planks.forestry.pine.desc=
 extratrees.block.planks.forestry.plum.desc=
 extratrees.block.planks.forestry.maple.desc=
 extratrees.block.planks.forestry.citrus.desc=
+
+< %1$s is name of wood used for door >
+extratrees.block.door.name=%1$s Hölztür
+
+< %1$s is name of wood used for door, %2$s is type of door >
+extratrees.block.door.name.adv=%2$s %1$s Hölztür
+extratrees.block.door.type.standard=
+extratrees.block.door.type.solid=Solide
+extratrees.block.door.type.double=Geteilt
+extratrees.block.door.type.full=Voll
+
+< %1$s is name of the wood>
+extratrees.block.plank.name=%1$s Holzbretter
+extratrees.block.log.name=%1$s Holz
+extratrees.block.woodslab.name=%1$s Holzstufe
+extratrees.block.woodstairs.name=%1$s Treppe
+extratrees.block.woodfence.name=%1$s Zaun
+extratrees.block.woodgate.name=%1$s Zauntor
+
+< %1$s is the adjective for the fence type, %2$s is the name of the wood >
+extratrees.block.multifence.name=%2$s %1$s Zauntor
+< %3$s is the name of the second wood >
+extratrees.block.multifence.name2=%2$s %1$s & $2$s Zauntor
+
+< %1$s is name of the design >
+extratrees.block.woodentile.name=%1$s Hölzerne Fliese
+extratrees.block.woodenpanel.name=%1$s hölzernen Tafel
+extratrees.block.stainedglass.name=%1$s farbiges Glas
 
 extratrees.species.orchardapple.name=Obstgarten Apfel
 extratrees.species.sweetcrabapple.name=süßer Holzapfel
@@ -338,4 +366,104 @@ extratrees.item.food.chilli=Chilli
 extratrees.item.food.staranise=Sternanis
 extratrees.item.food.mango=Mango
 extratrees.item.food.starfruit=Sternfrucht
-extratrees.item.food.candlenut=Candlenut
+extratrees.item.food.candlenut=Lichtnuss
+
+extratrees.item.glassware.beermug=Bierkrug
+extratrees.item.glassware.pint=Bierglas
+extratrees.item.glassware.snifter=Wein-Schwenker
+extratrees.item.glassware.cocktail=Cocktail Glas
+extratrees.item.glassware.cordial=Cordial Glas
+extratrees.item.glassware.collins=Mix-Glas
+extratrees.item.glassware.highball=Longdrinkglas
+extratrees.item.glassware.hurricane=Cocktailglas
+extratrees.item.glassware.margarita=Margarita Glas
+extratrees.item.glassware.oldfashioned=Whiskeyglas
+extratrees.item.glassware.wine=Weinglas
+extratrees.item.glassware.shot=Schnapsglas
+extratrees.item.glassware.sherry=Sherry Glas
+extratrees.item.glassware.coupe=Weinschale
+
+< %1$s is name of fluid >
+extratrees.item.glassware.beermug.usage=Krug für %1$s
+extratrees.item.glassware.pint.usage=Glas für %1$s
+extratrees.item.glassware.snifter.usage=Glas für %1$s
+extratrees.item.glassware.cocktail.usage=Glas für %1$s
+extratrees.item.glassware.cordial.usage=Glas für %1$s
+extratrees.item.glassware.collins.usage=Glas für %1$s
+extratrees.item.glassware.highball.usage=Glas für %1$s
+extratrees.item.glassware.hurricane.usage=Glas für %1$s
+extratrees.item.glassware.margarita.usage=Glas für %1$s
+extratrees.item.glassware.oldfashioned.usage=Glas für %1$s
+extratrees.item.glassware.wine.usage=Glas für %1$s
+extratrees.item.glassware.shot.usage=%1$s Glas
+extratrees.item.glassware.sherry.usage=Glas für %1$s
+extratrees.item.glassware.coupe.usage=Glas für%1$s
+
+extratrees.fluid.alcohol.apple=Apfelwein
+extratrees.fluid.alcohol.apricot=Aprikosenwein
+extratrees.fluid.alcohol.banana=Bananenwein
+extratrees.fluid.alcohol.cherry=Kirschwein
+extratrees.fluid.alcohol.elderberry=Holunderbeerwein
+extratrees.fluid.alcohol.peach=Pfirsichwein
+extratrees.fluid.alcohol.pear=Birnenwein
+extratrees.fluid.alcohol.plum=Plaumenwein
+extratrees.fluid.alcohol.carrot=Möhrenwein
+extratrees.fluid.alcohol.whitewine=Weißwein
+extratrees.fluid.alcohol.redwine=Rotwein
+extratrees.fluid.alcohol.sparklingwine=Schaumwein
+extratrees.fluid.alcohol.agave=Agavenwein
+extratrees.fluid.alcohol.potato=Fermentierte Kartoffeln
+extratrees.fluid.alcohol.citrus=Zitruswein
+extratrees.fluid.alcohol.cranberry=Preiselbeerwein
+extratrees.fluid.alcohol.pineapple=Ananaswein
+extratrees.fluid.alcohol.tomato=Tomatenwine
+extratrees.fluid.alcohol.fruit=Fruchtpunsch
+extratrees.fluid.alcohol.ale=Ale
+extratrees.fluid.alcohol.lager=Lagerbier
+extratrees.fluid.alcohol.wheatbeer=Weizenbier
+extratrees.fluid.alcohol.ryebeer=Roggenbier
+extratrees.fluid.alcohol.cornbeer=Maisbier
+extratrees.fluid.alcohol.stout=Schwarzbier
+extratrees.fluid.alcohol.barley=Fermentierter Getreidebrei
+extratrees.fluid.alcohol.wheat=Fermentierter Weizenbrei
+extratrees.fluid.alcohol.rye=Fermentierter Roggenbrei
+extratrees.fluid.alcohol.corn=Fermentierter Maisbrei
+
+extratrees.gui.database.planks.use=Kann herstellen:
+
+extratrees.gui.database.mode.fruit=Frucht
+extratrees.gui.database.mode.wood=Holz
+extratrees.gui.database.mode.planks=Bretter
+
+extratrees.gui.database.tab.species.overview=Übersicht
+extratrees.gui.database.tab.species.genome=Genom
+extratrees.gui.database.tab.species.classification=Klassifizierung
+extratrees.gui.database.tab.species.resultant=Resultierende Mutationen
+extratrees.gui.database.tab.species.further=Weitere Mutationen
+extratrees.gui.database.tab.branches.overview=Übersicht
+extratrees.gui.database.tab.branches.species=Spezies
+extratrees.gui.database.tab.breeder.breeder=Züchter
+
+extratrees.gui.database.tab.fruit.natural=Natürliche Bäume
+extratrees.gui.database.tab.fruit.natura.help=Liste der Bäume, die natürlich diese Frucht tragen
+extratrees.gui.database.tab.fruit.potential=Potenzielle Bäume
+extratrees.gui.database.tab.fruit.potential.help=Liste der Bäume, die diese Frucht produzieren können, wenn sie das Gene besitzen
+extratrees.gui.database.tab.wood.natural=Natürliche Bäume
+extratrees.gui.database.tab.wood.natural.help=Liste der Bäume, welche dieses Holz herstellen
+extratrees.gui.database.tab.planks.overview=Übersicht
+extratrees.gui.database.tab.planks.overview.help=Beschreibung und Einsatzmöglichkeiten
+extratrees.gui.database.tab.planks.natural=Natürliche Bäume
+extratrees.gui.database.tab.planks.natural.help=Liste der Bäume, welche das Holz produzieren, das in diese Bretter gecraftet werden kann
+
+
+extratrees.gui.database.tab.butterfly.species.overview=Übersicht
+extratrees.gui.database.tab.butterfly.species.classification=Klassifizierung
+extratrees.gui.database.tab.butterfly.species.specimen=Exemplar
+extratrees.gui.database.tab.butterfly.species.resultant=Resultierende Mutationen
+extratrees.gui.database.tab.butterfly.species.further=Weitere Mutationen
+extratrees.gui.database.tab.butterfly.branches.overview=Übersicht
+extratrees.gui.database.tab.butterfly.branches.species=Spezies
+extratrees.gui.database.tab.butterfly.breeder=Züchter
+
+extratrees.gui.database.log=Stamm
+extratrees.gui.database.leaves=Blätter
