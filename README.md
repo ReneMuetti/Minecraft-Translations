@@ -8,6 +8,7 @@ This repository does not include the code of the Mods. It this only localization
 - [Chisel 2](http://minecraft.curseforge.com/mc-mods/225236)
 - [Extra Utilities](http://minecraft.curseforge.com/mc-mods/225561)
 - [IngameInfo XML](http://minecraft.curseforge.com/mc-mods/225604)
+- [JABBA](http://minecraft.curseforge.com/mc-mods/73510)
 - [Mo' Furnaces](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189931)
 - [Mystcraft](http://minecraft.curseforge.com/mc-mods/224599)
 - [Pam's Harvestcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413)
@@ -15,19 +16,19 @@ This repository does not include the code of the Mods. It this only localization
 
 ******************
 
-Translaters Archimedes' Ships
+Archimedes' Ships
 
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
 
-Translaters Better Furnance
+Better Furnance
 
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
 
-Translaters Binnie-Mods 2.0
+Binnie-Mods 2.0
 
 | Translations by | Language        |
 | --------------- | --------------- |
@@ -36,24 +37,31 @@ Translaters Binnie-Mods 2.0
 | Muravlov        | Russian         |
 | DragonsLover    | French Canadian |
 
-Translaters Chisel 2
+Chisel 2
 
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
 
-Translaters Extra Utilities
+Extra Utilities
 
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
 | Vexatos         | German   |
 
-Translaters IngameInfo XML
+IngameInfo XML
 
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
+
+JABBA
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
 
 Translaters Mo' Furnaces
 
@@ -61,7 +69,7 @@ Translaters Mo' Furnaces
 | --------------- | -------- |
 | ReneMuetti      | German   |
 
-Translaters Mystcraft
+Mystcraft
 
 | Translations by | Language |
 | --------------- | -------- |
@@ -69,13 +77,13 @@ Translaters Mystcraft
 | Vexatos         | German   |
 | TheJulianJES    | German   |
 
-Translaters Pam's Harvestcraft
+Pam's Harvestcraft
 
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
 
-Translaters Twilight Forest
+Twilight Forest
 
 | Translations by | Language |
 | --------------- | -------- |
