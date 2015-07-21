@@ -1,0 +1,33 @@
+item.craftguide_item.name=Crafting Guide
+
+craftguide.gui.filter_type.input=Eingang
+craftguide.gui.filter_type.output=Ausgang
+craftguide.gui.filter_type.machine=Machine
+
+craftguide.gui.tab_tooltip.recipe_list=Rezeptliste
+craftguide.gui.tab_tooltip.type_visibility_list=Zeige/Verberge Rezepte nach Craftig-Typ
+craftguide.gui.tab_tooltip.options=Optionen
+
+craftguide.gui.filter=Filter
+craftguide.gui.search=Suche
+
+craftguide.gui.config.pause=Pause beim öffnen (nur Einzelspieler)
+craftguide.gui.config.show_ids=Zeigen ImetID und Schadenswerte
+craftguide.gui.config.enable_keybind=aktiviere keybind
+craftguide.gui.config.enable_item_recipe=Aktiviere CraftGuide Item Rezept (Neustart)
+craftguide.gui.config.hide_mundane_potions=Versteckt einfache Tränke aus unmöglichen Brau-Kombinationen (Rezepte müssen neu geladen werden)
+craftguide.gui.config.theme_debugging=Ausgabe übermäßiger Themen Debugging-Informationen in CraftGuide.log
+craftguide.gui.config.textinput_clear_on_right_click=Leert das Suchenfeld mit einem Rechtsklick
+craftguide.gui.config.ae2_workaround=Workaround für das langsame Laden mit AE2
+
+craftguide.gui.config.reload_recipes.button=Neuladen
+craftguide.gui.config.reload_recipes=Rezepte neuladen
+
+craftguide.gui.config.export_displayed_recipes.button=Exportieren
+craftguide.gui.config.export_displayed_recipes=Exportiert die im CraftGuide angezeigten Rezepte
+
+craftguide.gui.config.export_crafting_recipes.button=Exportieren
+craftguide.gui.config.export_crafting_recipes=Exportiert alle Crafting-Rezepte
+
+craftguide.gui.config.current_theme.button=nächstes Theme
+craftguide.gui.config.current_theme.format_string=Aktuelles Theme: %s
