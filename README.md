@@ -15,17 +15,17 @@ This repository does not include the code of the Mods. It this only localization
 
 ******************
 
-Translaters Archimedes' Ships:
+Translaters Archimedes' Ships
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
 
-Translaters Better Furnance:
+Translaters Better Furnance
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
 
-Translaters Binnie-Mods 2.0:
+Translaters Binnie-Mods 2.0
 | Translations by | Language        |
 | --------------- | --------------- |
 | ReneMuetti      | German          |
