@@ -36,26 +36,47 @@ Translaters Binnie-Mods 2.0
 | Muravlov        | Russian         |
 | DragonsLover    | French Canadian |
 
-Translaters Chisel 2:
-- ReneMuetti - German
+Translaters Chisel 2
 
-Translaters Extra Utilities:
-- ReneMuetti - German
-- Vexatos - German
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
 
-Translaters IngameInfo XML:
-- ReneMuetti - German
+Translaters Extra Utilities
 
-Translaters Mo' Furnaces:
-- ReneMuetti - German
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+| Vexatos         | German   |
 
-Translaters Mystcraft:
-- ReneMuetti - German
-- Vexatos - German
-- TheJulianJES - German
+Translaters IngameInfo XML
 
-Translaters Pam's Harvestcraft:
-- ReneMuetti - German
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
 
-Translaters Twilight Forest:
-- ReneMuetti - German
+Translaters Mo' Furnaces
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
+Translaters Mystcraft
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+| Vexatos         | German   |
+| TheJulianJES    | German   |
+
+Translaters Pam's Harvestcraft
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
+Translaters Twilight Forest
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
