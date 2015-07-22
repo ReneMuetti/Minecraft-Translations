@@ -1,0 +1,13 @@
+
+item.lootbag.common.name=Common Loot Bag
+item.lootbag.uncommon.name=Uncommon Loot Bag
+item.lootbag.rare.name=Rare Loot Bag
+item.lootbag.epic.name=Epic Loot Bag
+item.lootbag.legendary.name=Legendary Loot Bag
+item.lootbag.bacon.name=Bacon Bag
+item.lootbag.wornout.name=Worn Out Bag
+item.lootbag.soaryn.name=Soaryn Bag
+item.lootbag.wyld.name=Wyld Bag
+item.lootbag.waffle.name=Waffle Bag
+
+tile.recyclerblock.name=Loot Recycler
