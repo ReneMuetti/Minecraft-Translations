@@ -91,6 +91,11 @@ Lootbags
 | --------------- | -------- |
 | ReneMuetti      | German   |
 
+Magical Crops
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
 
 Mo' Furnaces
 
