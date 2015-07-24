@@ -25,6 +25,7 @@ Please errors to the mods Report directly from the author!
 - [Mystcraft](http://minecraft.curseforge.com/mc-mods/224599)
 - [Pam's Harvestcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413)
 - [Reliquary](http://minecraft.curseforge.com/mc-mods/59713)
+- [RFTools](http://minecraft.curseforge.com/mc-mods/224641)
 - [Soul Shards: The Old Ways](http://minecraft.curseforge.com/mc-mods/226958)
 - [Twilight Forest](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258)
 
