@@ -1,0 +1,5 @@
+tile.compactchest.name=Kompakte Truhe
+tile.sortingcompactchest.name=Sortierte Kompakte Truhe
+tile.chestbuilder.name=Konstrukteur
+item.backpack.name=Rucksack
+itemGroup.compactStorage=CompactStorage
