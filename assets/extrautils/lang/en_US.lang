@@ -1,4 +1,4 @@
-﻿gui.transferNode.searching=Searching for inventories at
+gui.transferNode.searching=Searching for inventories at
 gui.transferNode=Transfer Node
 
 death.attack.darkness.player=%1$s was consumed by shadows while fighting %2$s
@@ -26,6 +26,8 @@ item.extrautils:erosionShovel.name=Erosion Shovel
 item.extrautils:ethericsword.name=Etheric Sword
 item.extrautils:golden_bag.name=Golden Bag of Holding
 item.extrautils:golden_lasso.name=Golden Lasso
+item.extrautils:glove.name=Glove
+item.extrautils:glove.english.name=English Glove
 item.extrautils:heatingElement.name=Heating Coil
 item.extrautils:microblocks.0.name=Pipe Jacket
 item.extrautils:microblocks.1.name=Fence
@@ -42,6 +44,41 @@ item.extrautils:nodeUpgrade.6.name=Ender Receiver
 item.extrautils:nodeUpgrade.7.name=Depth-First Search Upgrade
 item.extrautils:nodeUpgrade.8.name=Breadth-First Search Upgrade
 item.extrautils:nodeUpgrade.9.name=Pseudo Round Robin Upgrade
+item.extrautils:nodeUpgrade.10.name=Advanced Item Filter
+
+item.extrautils:nodeUpgrade.10.program.default=Default.exe
+item.extrautils:nodeUpgrade.10.program.block=Block.exe
+item.extrautils:nodeUpgrade.10.program.item=Item.exe
+item.extrautils:nodeUpgrade.10.program.hassubtypes=HasSubTypes.exe
+item.extrautils:nodeUpgrade.10.program.stacksize1=StackSize1.exe
+item.extrautils:nodeUpgrade.10.program.stacksize64=StackSize64.exe
+item.extrautils:nodeUpgrade.10.program.oredicore=OreDicOre.exe
+item.extrautils:nodeUpgrade.10.program.oredicingot=OreDicIngot.exe
+item.extrautils:nodeUpgrade.10.program.oredicnugget=OreDicNugget.exe
+item.extrautils:nodeUpgrade.10.program.oredicblock=OreDicBlock.exe
+item.extrautils:nodeUpgrade.10.program.oredicgem=OreDicGem.exe
+item.extrautils:nodeUpgrade.10.program.oredicdust=OreDicDust.exe
+item.extrautils:nodeUpgrade.10.program.energyitem=EnergyItem.exe
+item.extrautils:nodeUpgrade.10.program.energyitemempty=EnergyItemEmpty.exe
+item.extrautils:nodeUpgrade.10.program.energyitem50=EnergyItem<50.exe
+item.extrautils:nodeUpgrade.10.program.energyitemfull=EnergyItemFull.exe
+item.extrautils:nodeUpgrade.10.program.food=Food.exe
+item.extrautils:nodeUpgrade.10.program.smeltable=Smeltable.exe
+item.extrautils:nodeUpgrade.10.program.pulverizer=Pulverizer.exe
+item.extrautils:nodeUpgrade.10.program.enchanted=Enchanted.exe
+item.extrautils:nodeUpgrade.10.program.enchantable=Enchantable.exe
+item.extrautils:nodeUpgrade.10.program.hascontaineritem=HasContainerItem.exe
+item.extrautils:nodeUpgrade.10.program.durabilitybarshown=DurabilityBarShown.exe
+item.extrautils:nodeUpgrade.10.program.durabilitybarfull=DurabilityBarFull.exe
+item.extrautils:nodeUpgrade.10.program.durabilitybar90=DurabilityBar<90.exe
+item.extrautils:nodeUpgrade.10.program.durabilitybar50=DurabilityBar<50.exe
+item.extrautils:nodeUpgrade.10.program.durabilitybar10=DurabilityBar<10.exe
+item.extrautils:nodeUpgrade.10.program.durabilitybarempty=DurabilityBarEmpty.exe
+item.extrautils:nodeUpgrade.10.program.hasdisplayname=HasDisplayName.exe
+item.extrautils:nodeUpgrade.10.program.repairable=Repairable.exe
+item.extrautils:nodeUpgrade.10.program.hasdispenserbehaviour=HasDispenserBehaviour.exe
+item.extrautils:nodeUpgrade.10.program.plantable=Plantable.exe
+
 item.extrautils:paintbrush.name=Paintbrush
 item.extrautils:scanner.name=Portable Scanner
 item.extrautils:shears.name=Precision Shears
@@ -49,6 +86,7 @@ item.extrautils:sonar_goggles.name=Sonar Goggles
 item.extrautils:temporalHoe.name=Reversing Hoe
 item.extrautils:unstableingot.0.name=Unstable Ingot
 item.extrautils:unstableingot.1.name=Semi-stable Nugget
+item.extrautils:unstableingot.2.name=Mobius "Unstable/Stable" Ingot
 item.extrautils:watering_can.busted.name=Watering Can (Broken)
 item.extrautils:watering_can.empty.name=Watering Can (Empty)
 item.extrautils:watering_can.reinforced.name=Watering Can (Reinforced)
@@ -59,12 +97,18 @@ item.extrautils:lawSword.tooltip=Cursed Blade of Misfortune
 
 attribute.name.extrautils.armorPiercingAttackDamage=Armor Piercing Damage
 attribute.name.extrautils.godSlayingAttackDamage=Divine Damage
-
+attribute.name.extrautils.freezeProtection=Freeze Protection
 
 
 itemGroup.extraUtil=Extra Utilities
 itemGroup.extraUtil_FMP=Extra Utilities Microblocks
 
+material.extrautils.bedrockium=Bedrockium
+material.extrautils.bedrockium.ability=Heavy
+material.extrautils.magicwood=Magical Wooden
+material.extrautils.magicwood.ability=Modifiable
+material.extrautils.unstableIngot=Unstable Induced
+material.extrautils.unstableIngot.ability=Mathematical!
 
 tile.extrautils:angelBlock.name=Angel Block
 tile.extrautils:budoff.0.name=Block Update Detector
@@ -139,6 +183,7 @@ tile.extrautils:decorativeBlock2.8.name=Heart Glass
 tile.extrautils:decorativeBlock2.9.name=Square Glass
 tile.extrautils:drum.0.name=Drum
 tile.extrautils:drum.1.name=Bedrockium Drum
+tile.extrautils:enderCollector.name=Ender Collector
 tile.extrautils:enderQuarry.name=Ender Quarry
 tile.extrautils:enderQuarryUpgrade.0.name=Ender Quarry Upgrade Base
 tile.extrautils:enderQuarryUpgrade.1.name=Ender Quarry World Hole Upgrade
@@ -219,6 +264,8 @@ tile.extrautils:spike_base_wood.name=Wooden Spike
 tile.extrautils:timer.name=Redstone Clock
 tile.extrautils:trading_post.name=Trading Post
 tile.extrautils:trashcan.name=Trash Can
+tile.extrautils:trashcan.1.name=Trash Can (Fluids)
+tile.extrautils:trashcan.2.name=Trash Can (Energy)
 tile.extrautils:block_bedrockium.name=Block of Bedrockium
 
 
@@ -255,8 +302,10 @@ item.extrautils:divisionSigil.documentation.4=Spoilers: If you wish to get detai
 item.extrautils:divisionSigil.documentation.5=Place the enchanting table on a patch of dirt or grass. There must a clear direct line to the sky and there must also be a 'large amount' of dirt/grass nearby. Place 8 redstone dust in a square around the table (these too must on dirt/grass).
 item.extrautils:divisionSigil.documentation.6=Once that's done find an animal or mob (or player) to be sacrificed. The golden lasso can help make this easier. You must then wait until midnight (the sigil will glow when the time is right). You must then remove or deactivate any light sources from the area.
 item.extrautils:divisionSigil.documentation.7=Finally when the 'altar' is in darkness, kill the animal or mob while it is either on top of or next to the enchanting table. If the time is right the sigil will become activated but you will have to deal with consequences.
+item.extrautils:divisionSigil.stable.documentation=This upgraded form of the division sigil has been stabilized using the stabiliszation ritual. This ritual is exceptionally tricky to work out and perform. If you feel up to it, sneak-right-click on a vanilla beacon with an activated division sigil to begin. Good luck.
 item.extrautils:erosionShovel.documentation=Quickly mines through soft dirt substances and will eliminate sand/gravel that is above it. Like the destruction pickaxe, it will not drop any blocks. It has infinite durability.
 item.extrautils:ethericsword.documentation=Does slightly more damage than a diamond sword and has infinite durability.
+item.extrautils:glove.documentation=This warm fuzzy glove will allow you to left/right click blocks with 'an empty hand' without having to clear an inventory slot. If you hold the 'sprint' button while clicking, it will cancel that behaviour and you will click with the glove item itself. The color of the wools in the crafting recipe, will give different colors of glove.
 item.extrautils:golden_bag.documentation=This small bag will allow you to carry a double-chest worth of supplies and inventory space wherever you go. Right-click with the bag selected to open up the interface.
 item.extrautils:golden_lasso.documentation=Are you frustrated by trying to lead cows and sheeps around using wheat? Right-click on any passive mob with the golden lasso and it will be magically stored inside it. Then right-click on the ground to release it. This simple tool makes moving animals a lot easier.
 item.extrautils:microblocks.0.documentation=Pipe jackets are decorative wrapping created from microblocks that can be applied to any FMP compatible pipes (from a very technical perspective, the pipe part must occupy the 'center' slot).
@@ -287,6 +336,7 @@ item.extrautils:unstableingot.0.documentation.0=Have you ever tried to divided b
 item.extrautils:unstableingot.0.documentation.1=However, should you experience a brief moment of instanity, you can craft unstable ingots. These ingots are existentially unstable and have 10 seconds before they explode in your inventory. They also explode if you leave the crafting gui or if they are thrown on the floor. Do not craft unless ready.
 item.extrautils:unstableingot.0.documentation.2=Now you're probably wondering why you should bother crafting these dangerous ingots well, here's what you can create with them. Unlike the ingots these tools are stable and won't explode. Just remember you have to craft them in under 10 seconds, or else boom.
 item.extrautils:unstableingot.1.documentation=This tiny nugget is small enough to contain the powerful energies produced by dividing by diamond. You can use these to craft a 'stable' unstable ingot that will not explode.
+item.extrautils:unstableingot.2.documentation=An upgraded form of the unstable ingot that will never explode, and can be used to make more powerful versions of the regular tools.
 item.extrautils:watering_can.documentation.0=Plants and crops require lots of love and attention but did you know that the mere act of standing there sprinkling them with water is enough to inspire them to grow at a much faster rate? Craft the watering can, fill it with water and you have an early-game alternative to bone-meal that will get you plenty of food in no time some time.
 item.extrautils:watering_can.documentation.1=You can use the can to put out fires, including yourself if you happen to be on fire. Every time you do so however, it has a random chance of 'emptying' and will need to be refilled with water.  In addition using a watering can on lava will cause lava to flow faster.
 tile.extrautils:angelBlock.documentation=This block is your best friend when working in the sky in creative mode or in water far from land, since it doesn't need a solid surface to be placed. Just right-click the air and the block will appear in front of you. Then when you left-click the block to break it, it will break instantly and will automatically enter your inventory (survival mode only).

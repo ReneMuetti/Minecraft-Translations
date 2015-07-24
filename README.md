@@ -12,6 +12,7 @@ Please errors to the mods Report directly from the author!
 - [CraftGuide](http://minecraft.curseforge.com/mc-mods/75557)
 - [Ex Nihilo](http://minecraft.curseforge.com/mc-mods/221696)
 - [Extra Utilities](http://minecraft.curseforge.com/mc-mods/225561)
+- [Gendustry](http://minecraft.curseforge.com/mc-mods/70492)
 - [IngameInfo XML](http://minecraft.curseforge.com/mc-mods/225604)
 - [JABBA](http://minecraft.curseforge.com/mc-mods/73510)
 - [LunatriusCore](http://minecraft.curseforge.com/mc-mods/225605)
@@ -80,6 +81,12 @@ Extra Utilities
 | --------------- | -------- |
 | ReneMuetti      | German   |
 | Vexatos         | German   |
+
+Gendustry
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
 
 IngameInfo XML
 
