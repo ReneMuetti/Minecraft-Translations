@@ -10,6 +10,7 @@ Please errors to the mods Report directly from the author!
 - [Chisel 2](http://minecraft.curseforge.com/mc-mods/225236)
 - [CompactStorage](http://minecraft.curseforge.com/mc-mods/223703)
 - [CraftGuide](http://minecraft.curseforge.com/mc-mods/75557)
+- [Ex Nihilo](http://minecraft.curseforge.com/mc-mods/221696)
 - [Extra Utilities](http://minecraft.curseforge.com/mc-mods/225561)
 - [IngameInfo XML](http://minecraft.curseforge.com/mc-mods/225604)
 - [JABBA](http://minecraft.curseforge.com/mc-mods/73510)
@@ -62,6 +63,12 @@ CompactStorage
 | ReneMuetti      | German   |
 
 CraftGuide
+
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
+Ex Nihilo
 
 | Translations by | Language |
 | --------------- | -------- |
