@@ -1,8 +1,11 @@
 tile.MinicioOre.name=Minicio Erz
-tile.MinicioOreNether.name=Nether Minicio Erz
-tile.MinicioOreEnd.name=End Minicio Erz
+tile.MinicioOreNether.name=Minicio Nether-Erz
+tile.MinicioOreEnd.name=Minicio End-Erz
 
 tile.CropBooster.name=Wachstumsbeschleuniger
+tile.CropBooster2.name=Doppelter Wachstumsbeschleuniger
+tile.CropBooster3.name=Dreifacher Wachstumsbeschleuniger
+
 tile.EssenceStone.name=Essenzstein
 tile.WitherProof.name=Witherresistenter Block
 tile.WitherProofGlass.name=Witherresistentes Glas
@@ -12,7 +15,7 @@ tile.EssenceStorage.accio.name=Accio Block
 tile.EssenceStorage.crucio.name=Crucio Block
 tile.EssenceStorage.imperio.name=Imperio Block
 tile.EssenceStorage.zivicio.name=Zivicio Block
-tile.EssenceStorage.ultimate.name=Mass Zivicio Block
+tile.EssenceStorage.ultimate.name=Massiver Zivicio Block
 
 tile.AirCrop.name=Luftpflanze
 tile.CoalCrop.name=Kohlepflanze
@@ -78,6 +81,7 @@ tile.SaltpeterCrop.name=Saltpeterpflanze
 tile.SignalumCrop.name=Signalumpflanze
 tile.SteelCrop.name=Stahlpflanze
 tile.TerrasteelCrop.name=Erdstahlpflanze
+
 tile.AirshardCrop.name=Luftschwerbenpflanze
 tile.WatershardCrop.name=Wasserscherbenpflanze
 tile.FireshardCrop.name=Feuerscherbenpflanze
@@ -97,16 +101,16 @@ tile.DarkSteelCrop.name=Dunkelstahlpflanze
 tile.SoulariumCrop.name=Soulariumpflanze
 tile.DraconiumCrop.name=Draconiumpflanze
 
-tile.AccioFurnace.name=Accio Ofen
-tile.AccioFurnaceActive.name=Aktiver Accio Ofen
-tile.CrucioFurnace.name=Crucio Ofen
-tile.CrucioFurnaceActive.name=Aktiver Crucio Ofen
-tile.ImperioFurnace.name=Imperio Ofen
-tile.ImperioFurnaceActive.name=Aktiver Imperio Ofen
-tile.ZivicioFurnace.name=Zivicio Ofen
-tile.ZivicioFurnaceActive.name=Aktiver Zivicio Ofen
-tile.UltimateFurnace.name=Ultimate Ofen
-tile.UltimateFurnaceActive.name=Aktiver Ultimate Ofen
+tile.AccioFurnace.name=Accio Brenner
+tile.AccioFurnaceActive.name=Aktiver Accio Brenner
+tile.CrucioFurnace.name=Crucio Brenner
+tile.CrucioFurnaceActive.name=Aktiver Crucio Brenner
+tile.ImperioFurnace.name=Imperio Brenner
+tile.ImperioFurnaceActive.name=Aktiver Imperio Brenner
+tile.ZivicioFurnace.name=Zivicio Brenner
+tile.ZivicioFurnaceActive.name=Aktiver Zivicio Brenner
+tile.UltimateFurnace.name=Ultimate Brenner
+tile.UltimateFurnaceActive.name=Aktiver Ultimate Brenner
 
 item.1MinicioEssence.name=Minicio Essenz
 item.2AccioEssence.name=Accio Essenz
@@ -138,11 +142,11 @@ item.EmeraldEssence.name=Smaragdessenz
 
 item.TaintedEssence.name=Verdorbene Essenz
 
-item.ExperienceBook.level1.name=Erfahrungsbuch
-item.ExperienceBook.level2.name=Erfahrungsbuch
-item.ExperienceBook.level3.name=Erfahrungsbuch
-item.ExperienceBook.level4.name=Erfahrungsbuch
-item.ExperienceBook.level5.name=Erfahrungsbuch
+item.ExperienceBook.level1.name=Erfahrungsbuch Lavel 1
+item.ExperienceBook.level2.name=Erfahrungsbuch Level 2
+item.ExperienceBook.level3.name=Erfahrungsbuch Level 3
+item.ExperienceBook.level4.name=Erfahrungsbuch Level 4
+item.ExperienceBook.level5.name=Erfahrungsbuch Level 5
 
 item.CowEssence.name=Kuhessenz
 item.SheepEssence.name=Schafessenz
