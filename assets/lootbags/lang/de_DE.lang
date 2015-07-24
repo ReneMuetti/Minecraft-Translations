@@ -1,0 +1,12 @@
+item.lootbag.common.name=Häufige Beute Sack
+item.lootbag.uncommon.name=Gelegentlicher Beute Sack
+item.lootbag.rare.name=Seltener Beute Sack
+item.lootbag.epic.name=Epischer Beute Sack
+item.lootbag.legendary.name=Legendärer Beute Sack
+item.lootbag.bacon.name=Speck-Sack
+item.lootbag.wornout.name=Abgenutzter Sack
+item.lootbag.soaryn.name=Soaryns Sack
+item.lootbag.wyld.name=Wylds Sack
+item.lootbag.waffle.name=Waffles Sack
+
+tile.recyclerblock.name=Loot Recycler
