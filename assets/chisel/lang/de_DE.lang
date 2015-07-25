@@ -304,8 +304,8 @@ tile.hexPlating.white.desc=Weiße Teilung
 tile.hexPlating.yellow.desc=Gelbe Teilung
 tile.hexPlating.gray.desc=Graue Teilung
 
-#Hex Large Teilung
-tile.chisel.hexLargePlating.name=Große schsfache Teilung
+#Hex Groß Teilung
+tile.chisel.hexGroßPlating.name=Große schsfache Teilung
 
 #Grimstone
 tile.chisel.grimstone.name=Grimstone
@@ -869,7 +869,7 @@ tile.stonebricksmooth.9.desc=Steinziegel in einer fantasievollen Anordnung
 tile.stonebricksmooth.10.desc=Gemeißelte Steinziegelfliessen
 tile.stonebricksmooth.11.desc=Große gemeißelte Steinziegelfliessen
 tile.stonebricksmooth.12.desc=Steinplatten
-tile.stonebricksmooth.13.desc=Versunkene Steinplatten
+tile.stonebricksmooth.13.desc=VerVerfallene Steinplatten
 tile.stonebricksmooth.14.desc=Gemeißelte Steinplatten
 tile.stonebricksmooth.15.desc=Giftige Steinziegel
 
@@ -891,7 +891,7 @@ tile.dirt.12.desc=Zerbröckelnde Erde
 
 #Ice
 tile.chisel.ice.name=Eis
-tile.ice.1.desc=Roher Einblock
+tile.ice.1.desc=Rauer Eisblock
 tile.ice.2.desc=Pflastereis
 tile.ice.3.desc=Große rohe Einziegel
 tile.ice.4.desc=Große Eisziegel
@@ -908,7 +908,7 @@ tile.ice.14.desc=Bismuth eisblock
 tile.ice.15.desc=Giftiger Eisblock
 
 #Ice Säules
-tile.chisel.ice_Säule.name=Eissäule
+tile.chisel.ice_pillar.name=Eissäule
 tile.iceSäule.0.desc=Glatte Eissäule mit glattem Schlußstein
 tile.iceSäule.1.desc=Glatte Eissäule mit griechischem Schlußstein
 tile.iceSäule.2.desc=Griechische Eissäule mit glattem Schlußstein
@@ -917,91 +917,91 @@ tile.iceSäule.4.desc=Geschnitzte Eissäule mit Schlußstein
 tile.iceSäule.5.desc=Verzierte Eissäule mit Schlußstein
 tile.iceSäule.6.desc=Gravierte Eissäule
 
-#Ice Stairs
-tile.chisel.ice_stairs.name=Ice Stairs
-tile.chisel.ice_stairs.0.name=Ice Stairs
-tile.chisel.ice_stairs.1.name=Ice Stairs
-tile.chisel.ice_stairs.2.name=Ice Stairs
-tile.chisel.ice_stairs.3.name=Ice Stairs
-tile.chisel.ice_stairs.4.name=Ice Stairs
-tile.chisel.ice_stairs.5.name=Ice Stairs
-tile.chisel.ice_stairs.6.name=Ice Stairs
-tile.chisel.ice_stairs.7.name=Ice Stairs
-tile.ice_stairs.0.desc=Ice Stairs
-tile.ice_stairs.1.desc=Rough Ice Stairs
-tile.ice_stairs.2.desc=Cobble-Ice Stairs
-tile.ice_stairs.3.desc=Large rough Ice Brick Stairs
-tile.ice_stairs.4.desc=Large Ice Brick Stairs
-tile.ice_stairs.5.desc=Small Ice Brick Stairs
-tile.ice_stairs.6.desc=Fancy Ice Wall Stairs
-tile.ice_stairs.7.desc=Large Ice Tile Stairs
-tile.ice_stairs.8.desc=Fancy Ice Tile Stairs
-tile.ice_stairs.9.desc=Sunken Ice Tile Stairs
-tile.ice_stairs.10.desc=DisordeRot Ice Tile Stairs
-tile.ice_stairs.11.desc=Ice Panel Stairs
-tile.ice_stairs.12.desc=Ice Double Slab Stairs
-tile.ice_stairs.13.desc=Ice Zelda Stairs
-tile.ice_stairs.14.desc=Ice Bismuth Stairs
-tile.ice_stairs.15.desc=Ice Poison Stairs
+#Eistreppe
+tile.chisel.ice_stairs.name=Eistreppe
+tile.chisel.ice_stairs.0.name=Eistreppe
+tile.chisel.ice_stairs.1.name=Eistreppe
+tile.chisel.ice_stairs.2.name=Eistreppe
+tile.chisel.ice_stairs.3.name=Eistreppe
+tile.chisel.ice_stairs.4.name=Eistreppe
+tile.chisel.ice_stairs.5.name=Eistreppe
+tile.chisel.ice_stairs.6.name=Eistreppe
+tile.chisel.ice_stairs.7.name=Eistreppe
+tile.ice_stairs.0.desc=Eistreppe
+tile.ice_stairs.1.desc=Raue Eistreppe
+tile.ice_stairs.2.desc=Pflaster-Eistreppe
+tile.ice_stairs.3.desc=Große raue Eisziegeltreppe
+tile.ice_stairs.4.desc=Große Eisziegeltreppe
+tile.ice_stairs.5.desc=Schmale Eisziegeltreppe
+tile.ice_stairs.6.desc=Fantasievolle Eiswandtreppen
+tile.ice_stairs.7.desc=Große Eisfliessentreppe
+tile.ice_stairs.8.desc=Fantasievolle Eisfliessentreppe
+tile.ice_stairs.9.desc=Verfallene Eisfliessentreppe
+tile.ice_stairs.10.desc=Ungeordnete Eisfliessentreppe
+tile.ice_stairs.11.desc=Eisplattentreppe
+tile.ice_stairs.12.desc=Eisdoppelstufentreppe
+tile.ice_stairs.13.desc=Zelda Eistreppe
+tile.ice_stairs.14.desc=Bismuth eistreppe
+tile.ice_stairs.15.desc=Giftige Eistreppe
 
 #Packed Ice
-tile.chisel.packedice.name=Packed Ice
-tile.packedice.1.desc=Rough Packed Ice Block
-tile.packedice.2.desc=Cobble-Packed Ice
-tile.packedice.3.desc=Large Rough Packed Ice Ziegel
-tile.packedice.4.desc=Large Packed Ice Ziegel
-tile.packedice.5.desc=Small Packed Ice Ziegel
-tile.packedice.6.desc=Fancy Glass Wall
-tile.packedice.7.desc=Large Packed Ice Tiles
-tile.packedice.8.desc=Fancy Packed Ice Tiles
-tile.packedice.9.desc=Sunken Packed Ice Tiles
-tile.packedice.10.desc=DisordeRot Packed Ice Tiles
-tile.packedice.11.desc=Packed Ice Panel
-tile.packedice.12.desc=Packed Ice Double Slab
-tile.packedice.13.desc=Packed Ice Zelda Block
-tile.packedice.14.desc=Packed Ice Bismuth Block
-tile.packedice.15.desc=Packed Ice Poison Block
+tile.chisel.packedice.name=Packeis
+tile.packedice.1.desc=Raues Packeis
+tile.packedice.2.desc=Pflaster-Packeis
+tile.packedice.3.desc=Große raue Packeisziegel
+tile.packedice.4.desc=Große Packeisziegel
+tile.packedice.5.desc=Schmale Packeisziegel
+tile.packedice.6.desc=Fantasievolle Eiswand
+tile.packedice.7.desc=Große Packeisfliessen
+tile.packedice.8.desc=Fantasievolle Packeisfliessen
+tile.packedice.9.desc=Verfallene Packeisfliessen
+tile.packedice.10.desc=Ungeordnete Packeisfliessen
+tile.packedice.11.desc=Packeisplatten
+tile.packedice.12.desc=Packeisdoppelstufe
+tile.packedice.13.desc=Zelda Packeis Block
+tile.packedice.14.desc=Bismuth Packeis Block
+tile.packedice.15.desc=Giftiger Packeis Block
 
-#Packed Ice Säules
-tile.chisel.packedice_Säule.name=Packed Ice Säule
-tile.packedice_Säule.0.desc=Glatt Packed Ice Säule with Glatt Schlußstein
-tile.packedice_Säule.1.desc=Glatt Packed Ice Säule with Griechisch Schlußstein
-tile.packedice_Säule.2.desc=Griechisch Packed Ice Säule with Glatt Schlußstein
-tile.packedice_Säule.3.desc=Griechisch Packed Ice Säule with Griechisch Schlußstein
-tile.packedice_Säule.4.desc=Geschnitzt Packed Ice Säule Schlußstein
-tile.packedice_Säule.5.desc=Verzierte Packed Ice Säule Schlußstein
-tile.packedice_Säule.6.desc=Inscribed Packed Ice Säule
+#Packed Ice Pillars
+tile.chisel.packedice_pillar.name=Packeissäule
+tile.packedice_pillar.0.desc=Glatte Packeissäule mit glattem Schlußstein
+tile.packedice_pillar.1.desc=Glatte Packeissäule mit griechischem Schlußstein
+tile.packedice_pillar.2.desc=Griechische Packeissäule mit glattem Schlußstein
+tile.packedice_pillar.3.desc=Griechische Packeissäule mit griechischem Schlußstein
+tile.packedice_pillar.4.desc=Geschnitzte Packeissäule mit Schlußstein
+tile.packedice_pillar.5.desc=Verzierte Packeissäule mit Schlußstein
+tile.packedice_pillar.6.desc=Gravierte Packeissäule
 
 #Packed Ice Stairs
-tile.chisel.packedice_stairs.name=Packed Ice Stairs
-tile.chisel.packedice_stairs.0.name=Packed Ice Stairs
-tile.chisel.packedice_stairs.1.name=Packed Ice Stairs
-tile.chisel.packedice_stairs.2.name=Packed Ice Stairs
-tile.chisel.packedice_stairs.3.name=Packed Ice Stairs
-tile.chisel.packedice_stairs.4.name=Packed Ice Stairs
-tile.chisel.packedice_stairs.5.name=Packed Ice Stairs
-tile.chisel.packedice_stairs.6.name=Packed Ice Stairs
-tile.chisel.packedice_stairs.7.name=Packed Ice Stairs
-tile.packedice_stairs.0.desc=Packed Ice Stairs
-tile.packedice_stairs.1.desc=Rough Packed Ice Stairs
-tile.packedice_stairs.2.desc=Cobble-Packed Ice Stairs
-tile.packedice_stairs.3.desc=Large rough Packed Ice Brick Stairs
-tile.packedice_stairs.4.desc=Large Packed Ice Brick Stairs
-tile.packedice_stairs.5.desc=Small Packed Ice Brick Stairs
-tile.packedice_stairs.6.desc=Fancy Packed Ice Wall Stairs
-tile.packedice_stairs.7.desc=Large Packed Ice Tile Stairs
-tile.packedice_stairs.8.desc=Fancy Packed Ice Tile Stairs
-tile.packedice_stairs.9.desc=Sunken Packed Ice Tile Stairs
-tile.packedice_stairs.10.desc=DisordeRot Packed Ice Tile Stairs
-tile.packedice_stairs.11.desc=Packed Ice Panel Stairs
-tile.packedice_stairs.12.desc=Packed Ice Double Slab Stairs
-tile.packedice_stairs.13.desc=Packed Ice Zelda Stairs
-tile.packedice_stairs.14.desc=Packed Ice Bismuth Stairs
-tile.packedice_stairs.15.desc=Packed Ice Poison Stairs
+tile.chisel.packedice_stairs.name=Packeistreppe
+tile.chisel.packedice_stairs.0.name=Packeistreppe
+tile.chisel.packedice_stairs.1.name=Packeistreppe
+tile.chisel.packedice_stairs.2.name=Packeistreppe
+tile.chisel.packedice_stairs.3.name=Packeistreppe
+tile.chisel.packedice_stairs.4.name=Packeistreppe
+tile.chisel.packedice_stairs.5.name=Packeistreppe
+tile.chisel.packedice_stairs.6.name=Packeistreppe
+tile.chisel.packedice_stairs.7.name=Packeistreppe
+tile.packedice_stairs.0.desc=Packeistreppe
+tile.packedice_stairs.1.desc=Raue Packeistreppe
+tile.packedice_stairs.2.desc=Pflaster-Packeistreppe
+tile.packedice_stairs.3.desc=Große raue Packeisziegeltreppe
+tile.packedice_stairs.4.desc=Große Packeisziegeltreppe
+tile.packedice_stairs.5.desc=Schmale Packeisziegeltreppe
+tile.packedice_stairs.6.desc=Fantasievolle Packeiswandtreppe
+tile.packedice_stairs.7.desc=Große Packeisfliessentreppe
+tile.packedice_stairs.8.desc=Fantasievolle Packeisfliessentreppe
+tile.packedice_stairs.9.desc=Verfallene Packeisfliessentreppe
+tile.packedice_stairs.10.desc=Ungeordnete Packeisfliessentreppe
+tile.packedice_stairs.11.desc=Packeisplattentreppe
+tile.packedice_stairs.12.desc=Packeisdoppelstufentreppe
+tile.packedice_stairs.13.desc=Zelda Packeistreppe
+tile.packedice_stairs.14.desc=Bismuth Packeistreppe
+tile.packedice_stairs.15.desc=Giftige Packeistreppe
 
 #Obsidian
 tile.chisel.obsidian.name=Obsidian
-tile.obsidian.1.desc=Large Obsidian Säule
+tile.obsidian.1.desc=Groß Obsidian Säule
 tile.obsidian.2.desc=Obsidian Säule
 tile.obsidian.3.desc=Chiseled Obsidian
 tile.obsidian.4.desc=Shiny Obsidian Panel
@@ -1051,7 +1051,7 @@ tile.glass_pane.15.desc=Gemeißelt Japanese Glass Pane
 #Redstone block
 tile.chisel.redstone_block.name=Redstone Block
 tile.redstone_block.1.desc=Glatt Redstone
-tile.redstone_block.2.desc=Large Redstone Block
+tile.redstone_block.2.desc=Groß Redstone Block
 tile.redstone_block.3.desc=Small Redstone Block
 tile.redstone_block.4.desc=Redstone Ziegel
 tile.redstone_block.5.desc=Small Redstone Ziegel
@@ -1073,13 +1073,13 @@ tile.holystone.1.desc=Glatt Holystone
 tile.holystone.2.desc=Mysterious Holystone Symbol
 tile.holystone.3.desc=Chiseled Holystone
 tile.holystone.4.desc=Holystone Blocks
-tile.holystone.5.desc=Rough Holystone Blocks
+tile.holystone.5.desc=Rau Holystone Blocks
 tile.holystone.6.desc=Holystone Ziegel
-tile.holystone.7.desc=Large Holystone Ziegel
+tile.holystone.7.desc=Groß Holystone Ziegel
 tile.holystone.8.desc=Holystone Platform
 tile.holystone.9.desc=Holystone Platform Tiles
-tile.holystone.10.desc=Fancy Holystone Construction
-tile.holystone.11.desc=Fancy Holystone Tiles
+tile.holystone.10.desc=Fantasievolle Holystone Construction
+tile.holystone.11.desc=Fantasievolle Holystone Tiles
 tile.holystone.12.desc=Glatt Holystone Plate
 tile.holystone.13.desc=Holystone Plate
 
@@ -1169,7 +1169,7 @@ tile.templeblock.1.desc=Gemeißelt Temple Block
 tile.templeblock.2.desc=Temple Plate
 tile.templeblock.3.desc=Cracked Temple Plate
 tile.templeblock.4.desc=Temple Ziegel
-tile.templeblock.5.desc=Large Temple Ziegel
+tile.templeblock.5.desc=Groß Temple Ziegel
 tile.templeblock.6.desc=Worn Temple Ziegel
 tile.templeblock.7.desc=Temple Ziegel in disarray
 tile.templeblock.8.desc=Temple Column
@@ -1188,7 +1188,7 @@ tile.mossy_templeblock.1.desc=Gemeißelt Mossy Temple Block
 tile.mossy_templeblock.2.desc=Mossy Temple Plate
 tile.mossy_templeblock.3.desc=Cracked Mossy Temple Plate
 tile.mossy_templeblock.4.desc=Mossy Temple Ziegel
-tile.mossy_templeblock.5.desc=Large Mossy Temple Ziegel
+tile.mossy_templeblock.5.desc=Groß Mossy Temple Ziegel
 tile.mossy_templeblock.6.desc=Worn Mossy Temple Ziegel
 tile.mossy_templeblock.7.desc=Mossy Temple Ziegel in disarray
 tile.mossy_templeblock.8.desc=Mossy Temple Column
@@ -1203,7 +1203,7 @@ tile.mossy_templeblock.15.desc=Small Light Mossy Temple Tiles
 #Cloud
 tile.chisel.cloud.name=Cloud
 tile.cloud.0.desc=Cloud Block
-tile.cloud.1.desc=Large Cloud Ziegel
+tile.cloud.1.desc=Groß Cloud Ziegel
 tile.cloud.2.desc=Small Cloud Ziegel
 tile.cloud.3.desc=Small Vertical Cloud Ziegel
 tile.cloud.4.desc=Gridded Cloud Ziegel
@@ -1340,13 +1340,13 @@ tile.laboratory.1.desc=Dotted Panel
 tile.laboratory.2.desc=Enamelled Wall
 tile.laboratory.3.desc=Enamelled Roundel Wall
 tile.laboratory.4.desc=Enamelled Wall Vents
-tile.laboratory.5.desc=Large Enamelled Tile
+tile.laboratory.5.desc=Groß Enamelled Tile
 tile.laboratory.6.desc=Small Enamelled Tiles
 tile.laboratory.7.desc=Laboratory Floor
 tile.laboratory.8.desc=Checkerboard Floor
 tile.laboratory.9.desc=Clear Panel
 tile.laboratory.10.desc=Fuzzy Panel
-tile.laboratory.11.desc=Large Steel Tile
+tile.laboratory.11.desc=Groß Steel Tile
 tile.laboratory.12.desc=Small Steel Tiles
 tile.laboratory.13.desc=Direction Console (Right)
 tile.laboratory.14.desc=Direction Console (Left)
@@ -1356,12 +1356,12 @@ tile.laboratory.15.desc=Information Console
 #Oak
 tile.oak.planks.1.desc=Glatt Oak Wood Planks
 tile.oak.planks.2.desc=Short Oak Wood Planks
-tile.oak.planks.6.desc=Fancy Oak Wood Plank Arrangement
+tile.oak.planks.6.desc=Fantasievolle Oak Wood Plank Arrangement
 tile.oak.planks.8.desc=Oak Wood Panel
 tile.oak.planks.9.desc=Oak Wood Double Slab
 tile.oak.planks.10.desc=Oak Wood Crate
-tile.oak.planks.11.desc=Fancy Oak Wood Crate
-tile.oak.planks.13.desc=Large Long Oak Wood Planks
+tile.oak.planks.11.desc=Fantasievolle Oak Wood Crate
+tile.oak.planks.13.desc=Groß Long Oak Wood Planks
 tile.oak.planks.3.desc=Vertical Oak Wood Planks
 tile.oak.planks.4.desc=Vertical Uneven Oak Wood Planks
 tile.oak.planks.5.desc=Oak Wood Parquet
@@ -1373,12 +1373,12 @@ tile.oak.planks.15.desc=Vertical Oak Wood Planks in Disarray
 #Spruce
 tile.spruce.planks.1.desc=Glatt Spruce Wood Planks
 tile.spruce.planks.2.desc=Short Spruce Wood Planks
-tile.spruce.planks.6.desc=Fancy Spruce Wood Plank Arrangement
+tile.spruce.planks.6.desc=Fantasievolle Spruce Wood Plank Arrangement
 tile.spruce.planks.8.desc=Spruce Wood Panel
 tile.spruce.planks.9.desc=Spruce Wood Double Slab
 tile.spruce.planks.10.desc=Spruce Wood Crate
-tile.spruce.planks.11.desc=Fancy Spruce Wood Crate
-tile.spruce.planks.13.desc=Large Long Spruce Wood Planks
+tile.spruce.planks.11.desc=Fantasievolle Spruce Wood Crate
+tile.spruce.planks.13.desc=Groß Long Spruce Wood Planks
 tile.spruce.planks.3.desc=Vertical Spruce Wood Planks
 tile.spruce.planks.4.desc=Vertical Uneven Spruce Wood Planks
 tile.spruce.planks.5.desc=Spruce Wood Parquet
@@ -1390,12 +1390,12 @@ tile.spruce.planks.15.desc=Vertical Spruce Wood Planks in Disarray
 #Birch
 tile.birch.planks.1.desc=Glatt Birch Wood Planks
 tile.birch.planks.2.desc=Short Birch Wood Planks
-tile.birch.planks.6.desc=Fancy Birch Wood Plank Arrangement
+tile.birch.planks.6.desc=Fantasievolle Birch Wood Plank Arrangement
 tile.birch.planks.8.desc=Birch Wood Panel
 tile.birch.planks.9.desc=Birch Wood Double Slab
 tile.birch.planks.10.desc=Birch Wood Crate
-tile.birch.planks.11.desc=Fancy Birch Wood Crate
-tile.birch.planks.13.desc=Large Long Birch Wood Planks
+tile.birch.planks.11.desc=Fantasievolle Birch Wood Crate
+tile.birch.planks.13.desc=Groß Long Birch Wood Planks
 tile.birch.planks.3.desc=Vertical Birch Wood Planks
 tile.birch.planks.4.desc=Vertical Uneven Birch Wood Planks
 tile.birch.planks.5.desc=Birch Wood Parquet
@@ -1407,12 +1407,12 @@ tile.birch.planks.15.desc=Vertical Birch Wood Planks in Disarray
 #Jungle
 tile.jungle.planks.1.desc=Glatt Jungle Wood Planks
 tile.jungle.planks.2.desc=Short Jungle Wood Planks
-tile.jungle.planks.6.desc=Fancy Jungle Wood Plank Arrangement
+tile.jungle.planks.6.desc=Fantasievolle Jungle Wood Plank Arrangement
 tile.jungle.planks.8.desc=Jungle Wood Panel
 tile.jungle.planks.9.desc=Jungle Wood Double Slab
 tile.jungle.planks.10.desc=Oak Wood Crate
-tile.jungle.planks.11.desc=Fancy jungle Wood Crate
-tile.jungle.planks.13.desc=Large Long Jungle Wood Planks
+tile.jungle.planks.11.desc=Fantasievolle jungle Wood Crate
+tile.jungle.planks.13.desc=Groß Long Jungle Wood Planks
 tile.jungle.planks.3.desc=Vertical Jungle Wood Planks
 tile.jungle.planks.4.desc=Vertical Uneven Jungle Wood Planks
 tile.jungle.planks.5.desc=Jungle Wood Parquet
@@ -1424,12 +1424,12 @@ tile.jungle.planks.15.desc=Vertical Jungle Wood Planks in Disarray
 #Acacia
 tile.acacia.planks.1.desc=Glatt Acacia Wood Planks
 tile.acacia.planks.2.desc=Short Acacia Wood Planks
-tile.acacia.planks.6.desc=Fancy Acacia Wood Plank Arrangement
+tile.acacia.planks.6.desc=Fantasievolle Acacia Wood Plank Arrangement
 tile.acacia.planks.8.desc=Acacia Wood Panel
 tile.acacia.planks.9.desc=Acacia Wood Double Slab
 tile.acacia.planks.10.desc=Acacia Wood Crate
-tile.acacia.planks.11.desc=Fancy Acacia Wood Crate
-tile.acacia.planks.13.desc=Large Long Acacia Wood Planks
+tile.acacia.planks.11.desc=Fantasievolle Acacia Wood Crate
+tile.acacia.planks.13.desc=Groß Long Acacia Wood Planks
 tile.acacia.planks.3.desc=Vertical Acacia Wood Planks
 tile.acacia.planks.4.desc=Vertical Uneven Acacia Wood Planks
 tile.acacia.planks.5.desc=Acacia Wood Parquet
@@ -1441,12 +1441,12 @@ tile.acacia.planks.15.desc=Vertical Acacia Wood Planks in Disarray
 #Dark Oak
 tile.dark-oak.planks.1.desc=Glatt Dark Oak Wood Planks
 tile.dark-oak.planks.2.desc=Short Dark Oak Wood Planks
-tile.dark-oak.planks.6.desc=Fancy Dark Oak Wood Plank Arrangement
+tile.dark-oak.planks.6.desc=Fantasievolle Dark Oak Wood Plank Arrangement
 tile.dark-oak.planks.8.desc=Dark Oak Wood Panel
 tile.dark-oak.planks.9.desc=Dark Oak Wood Double Slab
 tile.dark-oak.planks.10.desc=Dark Oak Wood Crate
-tile.dark-oak.planks.11.desc=Fancy Dark Oak Wood Crate
-tile.dark-oak.planks.13.desc=Large Long Dark Oak Wood Planks
+tile.dark-oak.planks.11.desc=Fantasievolle Dark Oak Wood Crate
+tile.dark-oak.planks.13.desc=Groß Long Dark Oak Wood Planks
 tile.dark-oak.planks.3.desc=Vertical Dark Oak Wood Planks
 tile.dark-oak.planks.4.desc=Vertical Uneven Dark Oak Wood Planks
 tile.dark-oak.planks.5.desc=Dark Oak Wood Parquet
@@ -1458,196 +1458,196 @@ tile.dark-oak.planks.15.desc=Vertical Dark Oak Wood Planks in Disarray
 #Stained Glass
 white.bubble.desc=Weiß Bubble Glass
 white.glass.desc=Weiß Glass Panel
-white.glass.fancy.desc=Weiß Fancy Glass Panel
+white.glass.Fantasievolle.desc=Weiß Fantasievolle Glass Panel
 white.glass.noborder.desc=Weiß Borderless Glass
 
 orange.bubble.desc=Orange Bubble Glass
 orange.glass.desc=Orange Glass Panel
-orange.glass.fancy.desc=Orange Fancy Glass Panel
+orange.glass.Fantasievolle.desc=Orange Fantasievolle Glass Panel
 orange.glass.noborder.desc=Orange Borderless Glass
 
 magenta.bubble.desc=Lila Bubble Glass
 magenta.glass.desc=Lila Glass Panel
-magenta.glass.fancy.desc=Lila Fancy Glass Panel
+magenta.glass.Fantasievolle.desc=Lila Fantasievolle Glass Panel
 magenta.glass.noborder.desc=Lila Borderless Glass
 
 lightblue.bubble.desc=Hellblau Bubble Glass
 lightblue.glass.desc=Hellblau Glass Panel
-lightblue.glass.fancy.desc=Hellblau Fancy Glass Panel
+lightblue.glass.Fantasievolle.desc=Hellblau Fantasievolle Glass Panel
 lightblue.glass.noborder.desc=Hellblau Borderless Glass
 
 yellow.bubble.desc=Gelb Bubble Glass
 yellow.glass.desc=Gelb Glass Panel
-yellow.glass.fancy.desc=Gelb Fancy Glass Panel
+yellow.glass.Fantasievolle.desc=Gelb Fantasievolle Glass Panel
 yellow.glass.noborder.desc=Gelb Borderless Glass
 
 lime.bubble.desc=Hellgrün Bubble Glass
 lime.glass.desc=Hellgrün Glass Panel
-lime.glass.fancy.desc=Hellgrün Fancy Glass Panel
+lime.glass.Fantasievolle.desc=Hellgrün Fantasievolle Glass Panel
 lime.glass.noborder.desc=Hellgrün Borderless Glass
 
 pink.bubble.desc=Rosa Bubble Glass
 pink.glass.desc=Rosa Glass Panel
-pink.glass.fancy.desc=Rosa Fancy Glass Panel
+pink.glass.Fantasievolle.desc=Rosa Fantasievolle Glass Panel
 pink.glass.noborder.desc=Rosa Borderless Glass
 
 darkgray.bubble.desc=Grau Bubble Glass
 darkgray.glass.desc=Grau Glass Panel
-darkgray.glass.fancy.desc=Grau Fancy Glass Panel
+darkgray.glass.Fantasievolle.desc=Grau Fantasievolle Glass Panel
 darkgray.glass.noborder.desc=Grau Borderless Glass
 
 lightgray.bubble.desc=Hellgrau Bubble Glass
 lightgray.glass.desc=Hellgrau Glass Panel
-lightgray.glass.fancy.desc=Hellgrau Fancy Glass Panel
+lightgray.glass.Fantasievolle.desc=Hellgrau Fantasievolle Glass Panel
 lightgray.glass.noborder.desc=Hellgrau Borderless Glass
 
 cyan.bubble.desc=Türkies Bubble Glass
 cyan.glass.desc=Türkies Glass Panel
-cyan.glass.fancy.desc=Türkies Fancy Glass Panel
+cyan.glass.Fantasievolle.desc=Türkies Fantasievolle Glass Panel
 cyan.glass.noborder.desc=Türkies Borderless Glass
 
 purple.bubble.desc=Violet Bubble Glass
 purple.glass.desc=Violet Glass Panel
-purple.glass.fancy.desc=Violet Fancy Glass Panel
+purple.glass.Fantasievolle.desc=Violet Fantasievolle Glass Panel
 purple.glass.noborder.desc=Violet Borderless Glass
 
 blue.bubble.desc=Blau Bubble Glass
 blue.glass.desc=Blau Glass Panel
-blue.glass.fancy.desc=Blau Fancy Glass Panel
+blue.glass.Fantasievolle.desc=Blau Fantasievolle Glass Panel
 blue.glass.noborder.desc=Blau Borderless Glass
 
 brown.bubble.desc=Braun Bubble Glass
 brown.glass.desc=Braun Glass Panel
-brown.glass.fancy.desc=Braun Fancy Glass Panel
+brown.glass.Fantasievolle.desc=Braun Fantasievolle Glass Panel
 brown.glass.noborder.desc=Braun Borderless Glass
 
 green.bubble.desc=Grün Bubble Glass
 green.glass.desc=Grün Glass Panel
-green.glass.fancy.desc=Grün Fancy Glass Panel
+green.glass.Fantasievolle.desc=Grün Fantasievolle Glass Panel
 green.glass.noborder.desc=Grün Borderless Glass
 
 red.bubble.desc=Rot Bubble Glass
 red.glass.desc=Rot Glass Panel
-red.glass.fancy.desc=Rot Fancy Glass Panel
+red.glass.Fantasievolle.desc=Rot Fantasievolle Glass Panel
 red.glass.noborder.desc=Rot Borderless Glass
 
 black.bubble.desc=Schwarz Bubble Glass
 black.glass.desc=Schwarz Glass Panel
-black.glass.fancy.desc=Schwarz Fancy Glass Panel
+black.glass.Fantasievolle.desc=Schwarz Fantasievolle Glass Panel
 black.glass.noborder.desc=Schwarz Borderless Glass
 
 #Stained Glass Pane
 white.pane.bubble.desc=Weiß Bubble Glass
 white.pane.glass.desc=Weiß Glass Panel
-white.pane.glass.fancy.desc=Weiß Fancy Glass Panel
+white.pane.glass.Fantasievolle.desc=Weiß Fantasievolle Glass Panel
 white.pane.glass.noborder.desc=Weiß Borderless Glass
 white.pane.glass.quadrant.desc=Weiß Quadrant Glass
-white.pane.glass.fancyquadrant.desc=Weiß Fancy Quadrant Glass
+white.pane.glass.Fantasievollequadrant.desc=Weiß Fantasievolle Quadrant Glass
 
 orange.pane.bubble.desc=Orange Bubble Glass
 orange.pane.glass.desc=Orange Glass Panel
-orange.pane.glass.fancy.desc=Orange Fancy Glass Panel
+orange.pane.glass.Fantasievolle.desc=Orange Fantasievolle Glass Panel
 orange.pane.glass.noborder.desc=Orange Borderless Glass
 orange.pane.glass.quadrant.desc=Orange Quadrant Glass
-orange.pane.glass.fancyquadrant.desc=Orange Fancy Quadrant Glass
+orange.pane.glass.Fantasievollequadrant.desc=Orange Fantasievolle Quadrant Glass
 
 magenta.pane.bubble.desc=Lila Bubble Glass
 magenta.pane.glass.desc=Lila Glass Panel
-magenta.pane.glass.fancy.desc=Lila Fancy Glass Panel
+magenta.pane.glass.Fantasievolle.desc=Lila Fantasievolle Glass Panel
 magenta.pane.glass.noborder.desc=Lila Borderless Glass
 magenta.pane.glass.quadrant.desc=Lila Quadrant Glass
-magenta.pane.glass.fancyquadrant.desc=Lila Fancy Quadrant Glass
+magenta.pane.glass.Fantasievollequadrant.desc=Lila Fantasievolle Quadrant Glass
 
 lightblue.pane.bubble.desc=Hellblau Bubble Glass
 lightblue.pane.glass.desc=Hellblau Glass Panel
-lightblue.pane.glass.fancy.desc=Hellblau Fancy Glass Panel
+lightblue.pane.glass.Fantasievolle.desc=Hellblau Fantasievolle Glass Panel
 lightblue.pane.glass.noborder.desc=Hellblau Borderless Glass
 lightblue.pane.glass.quadrant.desc=Hellblau Quadrant Glass
-lightblue.pane.glass.fancyquadrant.desc=Hellblau Fancy Quadrant Glass
+lightblue.pane.glass.Fantasievollequadrant.desc=Hellblau Fantasievolle Quadrant Glass
 
 yellow.pane.bubble.desc=Gelb Bubble Glass
 yellow.pane.glass.desc=Gelb Glass Panel
-yellow.pane.glass.fancy.desc=Gelb Fancy Glass Panel
+yellow.pane.glass.Fantasievolle.desc=Gelb Fantasievolle Glass Panel
 yellow.pane.glass.noborder.desc=Gelb Borderless Glass
 yellow.pane.glass.quadrant.desc=Gelb Quadrant Glass
-yellow.pane.glass.fancyquadrant.desc=Gelb Fancy Quadrant Glass
+yellow.pane.glass.Fantasievollequadrant.desc=Gelb Fantasievolle Quadrant Glass
 
 lime.pane.bubble.desc=Hellgrün Bubble Glass
 lime.pane.glass.desc=Hellgrün Glass Panel
-lime.pane.glass.fancy.desc=Hellgrün Fancy Glass Panel
+lime.pane.glass.Fantasievolle.desc=Hellgrün Fantasievolle Glass Panel
 lime.pane.glass.noborder.desc=Hellgrün Borderless Glass
 lime.pane.glass.quadrant.desc=Hellgrün Quadrant Glass
-lime.pane.glass.fancyquadrant.desc=Hellgrün Fancy Quadrant Glass
+lime.pane.glass.Fantasievollequadrant.desc=Hellgrün Fantasievolle Quadrant Glass
 
 pink.pane.bubble.desc=Rosa Bubble Glass
 pink.pane.glass.desc=Rosa Glass Panel
-pink.pane.glass.fancy.desc=Rosa Fancy Glass Panel
+pink.pane.glass.Fantasievolle.desc=Rosa Fantasievolle Glass Panel
 pink.pane.glass.noborder.desc=Rosa Borderless Glass
 pink.pane.glass.quadrant.desc=Rosa Quadrant Glass
-pink.pane.glass.fancyquadrant.desc=Rosa Fancy Quadrant Glass
+pink.pane.glass.Fantasievollequadrant.desc=Rosa Fantasievolle Quadrant Glass
 
 darkgray.pane.bubble.desc=Grau Bubble Glass
 darkgray.pane.glass.desc=Grau Glass Panel
-darkgray.pane.glass.fancy.desc=Grau Fancy Glass Panel
+darkgray.pane.glass.Fantasievolle.desc=Grau Fantasievolle Glass Panel
 darkgray.pane.glass.noborder.desc=Grau Borderless Glass
 darkgray.pane.glass.quadrant.desc=Grau Quadrant Glass
-darkgray.pane.glass.fancyquadrant.desc=Grau Fancy Quadrant Glass
+darkgray.pane.glass.Fantasievollequadrant.desc=Grau Fantasievolle Quadrant Glass
 
 lightgray.pane.bubble.desc=Hellgrau Bubble Glass
 lightgray.pane.glass.desc=Hellgrau Glass Panel
-lightgray.pane.glass.fancy.desc=Hellgrau Fancy Glass Panel
+lightgray.pane.glass.Fantasievolle.desc=Hellgrau Fantasievolle Glass Panel
 lightgray.pane.glass.noborder.desc=Hellgrau Borderless Glass
 lightgray.pane.glass.quadrant.desc=Hellgrau Quadrant Glass
-lightgray.pane.glass.fancyquadrant.desc=Hellgrau Fancy Quadrant Glass
+lightgray.pane.glass.Fantasievollequadrant.desc=Hellgrau Fantasievolle Quadrant Glass
 
 cyan.pane.bubble.desc=Türkies Bubble Glass
 cyan.pane.glass.desc=Türkies Glass Panel
-cyan.pane.glass.fancy.desc=Türkies Fancy Glass Panel
+cyan.pane.glass.Fantasievolle.desc=Türkies Fantasievolle Glass Panel
 cyan.pane.glass.noborder.desc=Türkies Borderless Glass
 cyan.pane.glass.quadrant.desc=Türkies Quadrant Glass
-cyan.pane.glass.fancyquadrant.desc=Türkies Fancy Quadrant Glass
+cyan.pane.glass.Fantasievollequadrant.desc=Türkies Fantasievolle Quadrant Glass
 
 purple.pane.bubble.desc=Violet Bubble Glass
 purple.pane.glass.desc=Violet Glass Panel
-purple.pane.glass.fancy.desc=Violet Fancy Glass Panel
+purple.pane.glass.Fantasievolle.desc=Violet Fantasievolle Glass Panel
 purple.pane.glass.noborder.desc=Violet Borderless Glass
 purple.pane.glass.quadrant.desc=Violet Quadrant Glass
-purple.pane.glass.fancyquadrant.desc=Violet Fancy Quadrant Glass
+purple.pane.glass.Fantasievollequadrant.desc=Violet Fantasievolle Quadrant Glass
 
 blue.pane.bubble.desc=Blau Bubble Glass
 blue.pane.glass.desc=Blau Glass Panel
-blue.pane.glass.fancy.desc=Blau Fancy Glass Panel
+blue.pane.glass.Fantasievolle.desc=Blau Fantasievolle Glass Panel
 blue.pane.glass.noborder.desc=Blau Borderless Glass
 blue.pane.glass.quadrant.desc=Blau Quadrant Glass
-blue.pane.glass.fancyquadrant.desc=Blau Fancy Quadrant Glass
+blue.pane.glass.Fantasievollequadrant.desc=Blau Fantasievolle Quadrant Glass
 
 brown.pane.bubble.desc=Braun Bubble Glass
 brown.pane.glass.desc=Braun Glass Panel
-brown.pane.glass.fancy.desc=Braun Fancy Glass Panel
+brown.pane.glass.Fantasievolle.desc=Braun Fantasievolle Glass Panel
 brown.pane.glass.noborder.desc=Braun Borderless Glass
 brown.pane.glass.quadrant.desc=Braun Quadrant Glass
-brown.pane.glass.fancyquadrant.desc=Braun Fancy Quadrant Glass
+brown.pane.glass.Fantasievollequadrant.desc=Braun Fantasievolle Quadrant Glass
 
 green.pane.bubble.desc=Grün Bubble Glass
 green.pane.glass.desc=Grün Glass Panel
-green.pane.glass.fancy.desc=Grün Fancy Glass Panel
+green.pane.glass.Fantasievolle.desc=Grün Fantasievolle Glass Panel
 green.pane.glass.noborder.desc=Grün Borderless Glass
 green.pane.glass.quadrant.desc=Grün Quadrant Glass
-green.pane.glass.fancyquadrant.desc=Grün Fancy Quadrant Glass
+green.pane.glass.Fantasievollequadrant.desc=Grün Fantasievolle Quadrant Glass
 
 red.pane.bubble.desc=Rot Bubble Glass
 red.pane.glass.desc=Rot Glass Panel
-red.pane.glass.fancy.desc=Rot Fancy Glass Panel
+red.pane.glass.Fantasievolle.desc=Rot Fantasievolle Glass Panel
 red.pane.glass.noborder.desc=Rot Borderless Glass
 red.pane.glass.quadrant.desc=Rot Quadrant Glass
-red.pane.glass.fancyquadrant.desc=Rot Fancy Quadrant Glass
+red.pane.glass.Fantasievollequadrant.desc=Rot Fantasievolle Quadrant Glass
 
 black.pane.bubble.desc=Schwarz Bubble Glass
 black.pane.glass.desc=Schwarz Glass Panel
-black.pane.glass.fancy.desc=Schwarz Fancy Glass Panel
+black.pane.glass.Fantasievolle.desc=Schwarz Fantasievolle Glass Panel
 black.pane.glass.noborder.desc=Schwarz Borderless Glass
 black.pane.glass.quadrant.desc=Schwarz Quadrant Glass
-black.pane.glass.fancyquadrant.desc=Schwarz Fancy Quadrant Glass
+black.pane.glass.Fantasievollequadrant.desc=Schwarz Fantasievolle Quadrant Glass
 
 # Creative Tab localizations
 itemGroup.tabOtherChiselBlocks=Andere gemeißelte Blöcke
