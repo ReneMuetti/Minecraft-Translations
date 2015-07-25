@@ -890,32 +890,32 @@ tile.dirt.11.desc=Erdschichten
 tile.dirt.12.desc=Zerbröckelnde Erde
 
 #Ice
-tile.chisel.ice.name=Ice
-tile.ice.1.desc=Rough Ice Block
-tile.ice.2.desc=Cobble-Ice
-tile.ice.3.desc=Large Rough Ice Ziegel
-tile.ice.4.desc=Large Ice Ziegel
-tile.ice.5.desc=Small Ice Ziegel
-tile.ice.6.desc=Fancy Glass Wall
-tile.ice.7.desc=Large Ice Tiles
-tile.ice.8.desc=Fancy Ice Tiles
-tile.ice.9.desc=Sunken Ice Tiles
-tile.ice.10.desc=DisordeRot Ice Tiles
-tile.ice.11.desc=Ice Panel
-tile.ice.12.desc=Ice Double Slab
-tile.ice.13.desc=Ice Zelda Block
-tile.ice.14.desc=Ice Bismuth Block
-tile.ice.15.desc=Ice Poison Block
+tile.chisel.ice.name=Eis
+tile.ice.1.desc=Roher Einblock
+tile.ice.2.desc=Pflastereis
+tile.ice.3.desc=Große rohe Einziegel
+tile.ice.4.desc=Große Eisziegel
+tile.ice.5.desc=Schmale Eisziegel
+tile.ice.6.desc=Fantasievolle Glaswand
+tile.ice.7.desc=Große Eisfliesen
+tile.ice.8.desc=Fantasievolle Eisfliesen
+tile.ice.9.desc=Eingefallene Eisfliesen
+tile.ice.10.desc=Ungeordnete Eisfliesen
+tile.ice.11.desc=Eisplatten
+tile.ice.12.desc=Dunkle Eisstufe
+tile.ice.13.desc=Zelda Eisblock
+tile.ice.14.desc=Bismuth eisblock
+tile.ice.15.desc=Giftiger Eisblock
 
 #Ice Säules
-tile.chisel.ice_Säule.name=Ice Säule
-tile.iceSäule.0.desc=Glatt Ice Säule with Glatt Capstone
-tile.iceSäule.1.desc=Glatt Ice Säule with Griechisch Capstone
-tile.iceSäule.2.desc=Griechisch Ice Säule with Glatt Capstone
-tile.iceSäule.3.desc=Griechisch Ice Säule with Griechisch Capstone
-tile.iceSäule.4.desc=Carved Ice Säule Capstone
-tile.iceSäule.5.desc=Ornamental Ice Säule Capstone
-tile.iceSäule.6.desc=Inscribed Ice Säule
+tile.chisel.ice_Säule.name=Eissäule
+tile.iceSäule.0.desc=Glatte Eissäule mit glattem Schlußstein
+tile.iceSäule.1.desc=Glatte Eissäule mit griechischem Schlußstein
+tile.iceSäule.2.desc=Griechische Eissäule mit glattem Schlußstein
+tile.iceSäule.3.desc=Griechische Eissäule mit griechischem Schlußstein
+tile.iceSäule.4.desc=Geschnitzte Eissäule mit Schlußstein
+tile.iceSäule.5.desc=Verzierte Eissäule mit Schlußstein
+tile.iceSäule.6.desc=Gravierte Eissäule
 
 #Ice Stairs
 tile.chisel.ice_stairs.name=Ice Stairs
@@ -964,12 +964,12 @@ tile.packedice.15.desc=Packed Ice Poison Block
 
 #Packed Ice Säules
 tile.chisel.packedice_Säule.name=Packed Ice Säule
-tile.packedice_Säule.0.desc=Glatt Packed Ice Säule with Glatt Capstone
-tile.packedice_Säule.1.desc=Glatt Packed Ice Säule with Griechisch Capstone
-tile.packedice_Säule.2.desc=Griechisch Packed Ice Säule with Glatt Capstone
-tile.packedice_Säule.3.desc=Griechisch Packed Ice Säule with Griechisch Capstone
-tile.packedice_Säule.4.desc=Carved Packed Ice Säule Capstone
-tile.packedice_Säule.5.desc=Ornamental Packed Ice Säule Capstone
+tile.packedice_Säule.0.desc=Glatt Packed Ice Säule with Glatt Schlußstein
+tile.packedice_Säule.1.desc=Glatt Packed Ice Säule with Griechisch Schlußstein
+tile.packedice_Säule.2.desc=Griechisch Packed Ice Säule with Glatt Schlußstein
+tile.packedice_Säule.3.desc=Griechisch Packed Ice Säule with Griechisch Schlußstein
+tile.packedice_Säule.4.desc=Geschnitzt Packed Ice Säule Schlußstein
+tile.packedice_Säule.5.desc=Verzierte Packed Ice Säule Schlußstein
 tile.packedice_Säule.6.desc=Inscribed Packed Ice Säule
 
 #Packed Ice Stairs
