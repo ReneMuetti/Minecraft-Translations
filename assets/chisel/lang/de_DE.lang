@@ -1458,196 +1458,196 @@ tile.dark-oak.planks.15.desc=Vertikale Schwarzeichenholzbretter in Auflösung
 #Stained Glass
 white.bubble.desc=Weißes Blasenglas
 white.glass.desc=Weiße Glasscheibe
-white.glass.Fantasievolle.desc=Weiße fantasievolle Glasscheibe
+white.glass.fancy.desc=Weiße fantasievolle Glasscheibe
 white.glass.noborder.desc=Weißes randloses Glass
 
 orange.bubble.desc=Orangene Blasenglas
 orange.glass.desc=Orangene Glasscheibe
-orange.glass.Fantasievolle.desc=Orangene fantasievolle Glasscheibe
+orange.glass.fancy.desc=Orangene fantasievolle Glasscheibe
 orange.glass.noborder.desc=Orangenes randloses Glass
 
 magenta.bubble.desc=Lila Blasenglas
 magenta.glass.desc=Lila Glasscheibe
-magenta.glass.Fantasievolle.desc=Lila fantasievolle Glasscheibe
+magenta.glass.fancy.desc=Lila fantasievolle Glasscheibe
 magenta.glass.noborder.desc=Lila randloses Glass
 
 lightblue.bubble.desc=Hellblaues Blasenglas
 lightblue.glass.desc=Hellblaue Glasscheibe
-lightblue.glass.Fantasievolle.desc=Hellblaue fantasievolle Glasscheibe
+lightblue.glass.fancy.desc=Hellblaue fantasievolle Glasscheibe
 lightblue.glass.noborder.desc=Hellblaues randloses Glass
 
 yellow.bubble.desc=Gelbes Blasenglas
 yellow.glass.desc=Gelbe Glasscheibe
-yellow.glass.Fantasievolle.desc=Gelbe fantasievolle Glasscheibe
+yellow.glass.fancy.desc=Gelbe fantasievolle Glasscheibe
 yellow.glass.noborder.desc=Gelbes randloses Glass
 
 lime.bubble.desc=Hellgrünes Blasenglas
 lime.glass.desc=Hellgrüne Glasscheibe
-lime.glass.Fantasievolle.desc=Hellgrüne fantasievolle Glasscheibe
+lime.glass.fancy.desc=Hellgrüne fantasievolle Glasscheibe
 lime.glass.noborder.desc=Hellgrünes randloses Glass
 
 pink.bubble.desc=Rosanes Blasenglas
 pink.glass.desc=Rosane Glasscheibe
-pink.glass.Fantasievolle.desc=Rosanes fantasievolle Glasscheibe
+pink.glass.fancy.desc=Rosanes fantasievolle Glasscheibe
 pink.glass.noborder.desc=Rosanes randloses Glass
 
 darkgray.bubble.desc=Graues Blasenglas
 darkgray.glass.desc=Graue Glasscheibe
-darkgray.glass.Fantasievolle.desc=Graue fantasievolle Glasscheibe
+darkgray.glass.fancy.desc=Graue fantasievolle Glasscheibe
 darkgray.glass.noborder.desc=Graues randloses Glass
 
 lightgray.bubble.desc=Hellgraues Blasenglas
 lightgray.glass.desc=Hellgraue Glasscheibe
-lightgray.glass.Fantasievolle.desc=Hellgraue fantasievolle Glasscheibe
+lightgray.glass.fancy.desc=Hellgraue fantasievolle Glasscheibe
 lightgray.glass.noborder.desc=Hellgraues randloses Glass
 
 cyan.bubble.desc=Türkieses Blasenglas
 cyan.glass.desc=Türkiese Glasscheibe
-cyan.glass.Fantasievolle.desc=Türkiese fantasievolle Glasscheibe
+cyan.glass.fancy.desc=Türkiese fantasievolle Glasscheibe
 cyan.glass.noborder.desc=Türkieses randloses Glass
 
 purple.bubble.desc=Violettes Blasenglas
 purple.glass.desc=Violette Glasscheibe
-purple.glass.Fantasievolle.desc=Violette fantasievolle Glasscheibe
+purple.glass.fancy.desc=Violette fantasievolle Glasscheibe
 purple.glass.noborder.desc=Violettes randloses Glass
 
 blue.bubble.desc=Blaues Blasenglas
 blue.glass.desc=Blaue Glasscheibe
-blue.glass.Fantasievolle.desc=Blaue fantasievolle Glasscheibe
+blue.glass.fancy.desc=Blaue fantasievolle Glasscheibe
 blue.glass.noborder.desc=Blaues randloses Glass
 
 brown.bubble.desc=Braunes Blasenglas
 brown.glass.desc=Braune Glasscheibe
-brown.glass.Fantasievolle.desc=Braune fantasievolle Glasscheibe
+brown.glass.fancy.desc=Braune fantasievolle Glasscheibe
 brown.glass.noborder.desc=Braunes randloses Glass
 
 green.bubble.desc=Grünes Blasenglas
 green.glass.desc=Grüne Glasscheibe
-green.glass.Fantasievolle.desc=Grüne fantasievolle Glasscheibe
+green.glass.fancy.desc=Grüne fantasievolle Glasscheibe
 green.glass.noborder.desc=Grünes randloses Glass
 
 red.bubble.desc=Rotes Blasenglas
 red.glass.desc=Rote Glasscheibe
-red.glass.Fantasievolle.desc=Rote fantasievolle Glasscheibe
+red.glass.fancy.desc=Rote fantasievolle Glasscheibe
 red.glass.noborder.desc=Rotes randloses Glass
 
 black.bubble.desc=Schwarzes Blasenglas
 black.glass.desc=Schwarze Glasscheibe
-black.glass.Fantasievolle.desc=Schwarze fantasievolle Glasscheibe
+black.glass.fancy.desc=Schwarze fantasievolle Glasscheibe
 black.glass.noborder.desc=Schwarzes randloses Glass
 
 #Stained Glass Pane
-white.pane.bubble.desc=Weiß Blasenglas
-white.pane.glass.desc=Weiß Glasscheibe
-white.pane.glass.Fantasievolle.desc=Weiß Fantasievolle Glasscheibe
-white.pane.glass.noborder.desc=Weiß randloses Glass
-white.pane.glass.quadrant.desc=Weiß Quadrant Glass
-white.pane.glass.Fantasievollequadrant.desc=Weiß Fantasievolle Quadrant Glass
+white.pane.bubble.desc=Weißes Blasenglas
+white.pane.glass.desc=Weiße Glasscheibe
+white.pane.glass.fancy.desc=Weiße fantasievolle Glasscheibe
+white.pane.glass.noborder.desc=Weißes randloses Glass
+white.pane.glass.quadrant.desc=Weißes quadratisches Glass
+white.pane.glass.fancyquadrant.desc=Weißes fantasievolles quadratisches Glass
 
-orange.pane.bubble.desc=Orange Blasenglas
-orange.pane.glass.desc=Orange Glasscheibe
-orange.pane.glass.Fantasievolle.desc=Orange Fantasievolle Glasscheibe
-orange.pane.glass.noborder.desc=Orange randloses Glass
-orange.pane.glass.quadrant.desc=Orange Quadrant Glass
-orange.pane.glass.Fantasievollequadrant.desc=Orange Fantasievolle Quadrant Glass
+orange.pane.bubble.desc=Orangenes Blasenglas
+orange.pane.glass.desc=Orangene Glasscheibe
+orange.pane.glass.fancy.desc=Orangene fantasievolle Glasscheibe
+orange.pane.glass.noborder.desc=Orangenes randloses Glass
+orange.pane.glass.quadrant.desc=Orangenes quadratisches Glass
+orange.pane.glass.fancyquadrant.desc=Orangenes fantasievolles quadratisches Glass
 
 magenta.pane.bubble.desc=Lila Blasenglas
 magenta.pane.glass.desc=Lila Glasscheibe
-magenta.pane.glass.Fantasievolle.desc=Lila Fantasievolle Glasscheibe
+magenta.pane.glass.fancy.desc=Lila Fantasievolle Glasscheibe
 magenta.pane.glass.noborder.desc=Lila randloses Glass
-magenta.pane.glass.quadrant.desc=Lila Quadrant Glass
-magenta.pane.glass.Fantasievollequadrant.desc=Lila Fantasievolle Quadrant Glass
+magenta.pane.glass.quadrant.desc=Lila quadratisches Glass
+magenta.pane.glass.fancyquadrant.desc=Lila fantasievolles quadratisches Glass
 
-lightblue.pane.bubble.desc=Hellblau Blasenglas
-lightblue.pane.glass.desc=Hellblau Glasscheibe
-lightblue.pane.glass.Fantasievolle.desc=Hellblau Fantasievolle Glasscheibe
-lightblue.pane.glass.noborder.desc=Hellblau randloses Glass
-lightblue.pane.glass.quadrant.desc=Hellblau Quadrant Glass
-lightblue.pane.glass.Fantasievollequadrant.desc=Hellblau Fantasievolle Quadrant Glass
+lightblue.pane.bubble.desc=Hellblaues Blasenglas
+lightblue.pane.glass.desc=Hellblaue Glasscheibe
+lightblue.pane.glass.fancy.desc=Hellblaue fantasievolle Glasscheibe
+lightblue.pane.glass.noborder.desc=Hellblaues randloses Glass
+lightblue.pane.glass.quadrant.desc=Hellblaues quadratisches Glass
+lightblue.pane.glass.fancyquadrant.desc=Hellblaues fantasievolles quadratisches Glass
 
-yellow.pane.bubble.desc=Gelb Blasenglas
-yellow.pane.glass.desc=Gelb Glasscheibe
-yellow.pane.glass.Fantasievolle.desc=Gelb Fantasievolle Glasscheibe
-yellow.pane.glass.noborder.desc=Gelb randloses Glass
-yellow.pane.glass.quadrant.desc=Gelb Quadrant Glass
-yellow.pane.glass.Fantasievollequadrant.desc=Gelb Fantasievolle Quadrant Glass
+yellow.pane.bubble.desc=Gelbes Blasenglas
+yellow.pane.glass.desc=Gelbe Glasscheibe
+yellow.pane.glass.fancy.desc=Gelbe fantasievolle Glasscheibe
+yellow.pane.glass.noborder.desc=Gelbes randloses Glass
+yellow.pane.glass.quadrant.desc=Gelbes quadratisches Glass
+yellow.pane.glass.fancyquadrant.desc=Gelbes fantasievolles quadratisches Glass
 
-lime.pane.bubble.desc=Hellgrün Blasenglas
-lime.pane.glass.desc=Hellgrün Glasscheibe
-lime.pane.glass.Fantasievolle.desc=Hellgrün Fantasievolle Glasscheibe
-lime.pane.glass.noborder.desc=Hellgrün randloses Glass
-lime.pane.glass.quadrant.desc=Hellgrün Quadrant Glass
-lime.pane.glass.Fantasievollequadrant.desc=Hellgrün Fantasievolle Quadrant Glass
+lime.pane.bubble.desc=Hellgrünes Blasenglas
+lime.pane.glass.desc=Hellgrüne Glasscheibe
+lime.pane.glass.fancy.desc=Hellgrüne fantasievolle Glasscheibe
+lime.pane.glass.noborder.desc=Hellgrünes randloses Glass
+lime.pane.glass.quadrant.desc=Hellgrünes quadratisches Glass
+lime.pane.glass.fancyquadrant.desc=Hellgrünes fantasievolles quadratisches Glass
 
-pink.pane.bubble.desc=Rosa Blasenglas
-pink.pane.glass.desc=Rosa Glasscheibe
-pink.pane.glass.Fantasievolle.desc=Rosa Fantasievolle Glasscheibe
-pink.pane.glass.noborder.desc=Rosa randloses Glass
-pink.pane.glass.quadrant.desc=Rosa Quadrant Glass
-pink.pane.glass.Fantasievollequadrant.desc=Rosa Fantasievolle Quadrant Glass
+pink.pane.bubble.desc=Rosanes Blasenglas
+pink.pane.glass.desc=Rosane Glasscheibe
+pink.pane.glass.fancy.desc=Rosane fantasievolle Glasscheibe
+pink.pane.glass.noborder.desc=Rosanes randloses Glass
+pink.pane.glass.quadrant.desc=Rosanes quadratisches Glass
+pink.pane.glass.fancyquadrant.desc=Rosanes fantasievolles quadratisches Glass
 
-darkgray.pane.bubble.desc=Grau Blasenglas
-darkgray.pane.glass.desc=Grau Glasscheibe
-darkgray.pane.glass.Fantasievolle.desc=Grau Fantasievolle Glasscheibe
-darkgray.pane.glass.noborder.desc=Grau randloses Glass
-darkgray.pane.glass.quadrant.desc=Grau Quadrant Glass
-darkgray.pane.glass.Fantasievollequadrant.desc=Grau Fantasievolle Quadrant Glass
+darkgray.pane.bubble.desc=Graues Blasenglas
+darkgray.pane.glass.desc=Graue Glasscheibe
+darkgray.pane.glass.fancy.desc=Graue fantasievolle Glasscheibe
+darkgray.pane.glass.noborder.desc=Graues randloses Glass
+darkgray.pane.glass.quadrant.desc=Graues quadratisches Glass
+darkgray.pane.glass.fancyquadrant.desc=Graues fantasievolles quadratisches Glass
 
-lightgray.pane.bubble.desc=Hellgrau Blasenglas
-lightgray.pane.glass.desc=Hellgrau Glasscheibe
-lightgray.pane.glass.Fantasievolle.desc=Hellgrau Fantasievolle Glasscheibe
-lightgray.pane.glass.noborder.desc=Hellgrau randloses Glass
-lightgray.pane.glass.quadrant.desc=Hellgrau Quadrant Glass
-lightgray.pane.glass.Fantasievollequadrant.desc=Hellgrau Fantasievolle Quadrant Glass
+lightgray.pane.bubble.desc=Hellgraues Blasenglas
+lightgray.pane.glass.desc=Hellgraue Glasscheibe
+lightgray.pane.glass.fancy.desc=Hellgraue fantasievolle Glasscheibe
+lightgray.pane.glass.noborder.desc=Hellgraues randloses Glass
+lightgray.pane.glass.quadrant.desc=Hellgraues quadratisches Glass
+lightgray.pane.glass.fancyquadrant.desc=Hellgraues fantasievolles quadratisches Glass
 
-cyan.pane.bubble.desc=Türkies Blasenglas
-cyan.pane.glass.desc=Türkies Glasscheibe
-cyan.pane.glass.Fantasievolle.desc=Türkies Fantasievolle Glasscheibe
-cyan.pane.glass.noborder.desc=Türkies randloses Glass
-cyan.pane.glass.quadrant.desc=Türkies Quadrant Glass
-cyan.pane.glass.Fantasievollequadrant.desc=Türkies Fantasievolle Quadrant Glass
+cyan.pane.bubble.desc=Türkieses Blasenglas
+cyan.pane.glass.desc=Türkiese Glasscheibe
+cyan.pane.glass.fancy.desc=Türkiese fantasievolle Glasscheibe
+cyan.pane.glass.noborder.desc=Türkieses randloses Glass
+cyan.pane.glass.quadrant.desc=Türkieses quadratisches Glass
+cyan.pane.glass.fancyquadrant.desc=Türkieses fantasievolles quadratisches Glass
 
-purple.pane.bubble.desc=Violet Blasenglas
-purple.pane.glass.desc=Violet Glasscheibe
-purple.pane.glass.Fantasievolle.desc=Violet Fantasievolle Glasscheibe
-purple.pane.glass.noborder.desc=Violet randloses Glass
-purple.pane.glass.quadrant.desc=Violet Quadrant Glass
-purple.pane.glass.Fantasievollequadrant.desc=Violet Fantasievolle Quadrant Glass
+purple.pane.bubble.desc=Violettes Blasenglas
+purple.pane.glass.desc=Violette Glasscheibe
+purple.pane.glass.fancy.desc=Violette fantasievolle Glasscheibe
+purple.pane.glass.noborder.desc=Violettes randloses Glass
+purple.pane.glass.quadrant.desc=Violettes quadratisches Glass
+purple.pane.glass.fancyquadrant.desc=Violettes fantasievolles quadratisches Glass
 
-blue.pane.bubble.desc=Blau Blasenglas
-blue.pane.glass.desc=Blau Glasscheibe
-blue.pane.glass.Fantasievolle.desc=Blau Fantasievolle Glasscheibe
-blue.pane.glass.noborder.desc=Blau randloses Glass
-blue.pane.glass.quadrant.desc=Blau Quadrant Glass
-blue.pane.glass.Fantasievollequadrant.desc=Blau Fantasievolle Quadrant Glass
+blue.pane.bubble.desc=Blaues Blasenglas
+blue.pane.glass.desc=Blaue Glasscheibe
+blue.pane.glass.fancy.desc=Blaue fantasievolle Glasscheibe
+blue.pane.glass.noborder.desc=Blaues randloses Glass
+blue.pane.glass.quadrant.desc=Blaues quadratisches Glass
+blue.pane.glass.fancyquadrant.desc=Blaues fantasievolles quadratisches Glass
 
-brown.pane.bubble.desc=Braun Blasenglas
-brown.pane.glass.desc=Braun Glasscheibe
-brown.pane.glass.Fantasievolle.desc=Braun Fantasievolle Glasscheibe
-brown.pane.glass.noborder.desc=Braun randloses Glass
-brown.pane.glass.quadrant.desc=Braun Quadrant Glass
-brown.pane.glass.Fantasievollequadrant.desc=Braun Fantasievolle Quadrant Glass
+brown.pane.bubble.desc=Braunes Blasenglas
+brown.pane.glass.desc=Braune Glasscheibe
+brown.pane.glass.fancy.desc=Braune fantasievolle Glasscheibe
+brown.pane.glass.noborder.desc=Braunes randloses Glass
+brown.pane.glass.quadrant.desc=Braunes quadratisches Glass
+brown.pane.glass.fancyquadrant.desc=Braunes fantasievolles quadratisches Glass
 
-green.pane.bubble.desc=Grün Blasenglas
-green.pane.glass.desc=Grün Glasscheibe
-green.pane.glass.Fantasievolle.desc=Grün Fantasievolle Glasscheibe
-green.pane.glass.noborder.desc=Grün randloses Glass
-green.pane.glass.quadrant.desc=Grün Quadrant Glass
-green.pane.glass.Fantasievollequadrant.desc=Grün Fantasievolle Quadrant Glass
+green.pane.bubble.desc=Grünes Blasenglas
+green.pane.glass.desc=Grüne Glasscheibe
+green.pane.glass.fancy.desc=Grüne fantasievolle Glasscheibe
+green.pane.glass.noborder.desc=Grünes randloses Glass
+green.pane.glass.quadrant.desc=Grünes quadratisches Glass
+green.pane.glass.fancyquadrant.desc=Grünes fantasievolles quadratisches Glass
 
-red.pane.bubble.desc=Rot Blasenglas
-red.pane.glass.desc=Rot Glasscheibe
-red.pane.glass.Fantasievolle.desc=Rot Fantasievolle Glasscheibe
-red.pane.glass.noborder.desc=Rot randloses Glass
-red.pane.glass.quadrant.desc=Rot Quadrant Glass
-red.pane.glass.Fantasievollequadrant.desc=Rot Fantasievolle Quadrant Glass
+red.pane.bubble.desc=Rotes Blasenglas
+red.pane.glass.desc=Rote Glasscheibe
+red.pane.glass.fancy.desc=Rote fantasievolle Glasscheibe
+red.pane.glass.noborder.desc=Rotes randloses Glass
+red.pane.glass.quadrant.desc=Rotes quadratisches Glass
+red.pane.glass.fancyquadrant.desc=Rotes fantasievolles quadratisches Glass
 
-black.pane.bubble.desc=Schwarz Blasenglas
-black.pane.glass.desc=Schwarz Glasscheibe
-black.pane.glass.Fantasievolle.desc=Schwarz Fantasievolle Glasscheibe
-black.pane.glass.noborder.desc=Schwarz randloses Glass
-black.pane.glass.quadrant.desc=Schwarz Quadrant Glass
-black.pane.glass.Fantasievollequadrant.desc=Schwarz Fantasievolle Quadrant Glass
+black.pane.bubble.desc=Schwarzes Blasenglas
+black.pane.glass.desc=Schwarze Glasscheibe
+black.pane.glass.fancy.desc=Schwarze fantasievolle Glasscheibe
+black.pane.glass.noborder.desc=Schwarzes randloses Glass
+black.pane.glass.quadrant.desc=Schwarzes quadratisches Glass
+black.pane.glass.fancyquadrant.desc=Schwarzes fantasievolles quadratisches Glass
 
 # Creative Tab localizations
 itemGroup.tabOtherChiselBlocks=Andere gemeißelte Blöcke
