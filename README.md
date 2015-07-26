@@ -23,6 +23,7 @@ Please errors to the mods Report directly from the author!
 - [Magical Crops Armour](http://minecraft.curseforge.com/mc-mods/232149)
 - [Mo' Furnaces](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2189931)
 - [MrCrayfish's Furniture Mod](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282349)
+- [Multipage Chest](http://minecraft.curseforge.com/mc-mods/78779)
 - [Mystcraft](http://minecraft.curseforge.com/mc-mods/224599)
 - [Pam's Harvestcraft](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294413)
 - [Reliquary](http://minecraft.curseforge.com/mc-mods/59713)
