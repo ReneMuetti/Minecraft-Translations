@@ -33,7 +33,7 @@ Please errors to the mods Report directly from the author!
 - [TiC Tooltips](http://minecraft.curseforge.com/mc-mods/76845)
 - [Thermal Dynamics](http://minecraft.curseforge.com/mc-mods/22744)
 - [Thermal Expansion](http://minecraft.curseforge.com/mc-mods/69163)
-- [ThermalFoundation](http://minecraft.curseforge.com/mc-mods/222880)
+- [Thermal Foundation](http://minecraft.curseforge.com/mc-mods/222880)
 - [Twilight Forest](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258)
 - [Waila](http://minecraft.curseforge.com/mc-mods/73488)
 - [Waila Harvestability](http://minecraft.curseforge.com/mc-mods/79287)
