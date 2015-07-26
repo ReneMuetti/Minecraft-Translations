@@ -120,6 +120,7 @@ Lootbags
 | ReneMuetti      | German   |
 
 Magic Bees
+
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
