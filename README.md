@@ -1,7 +1,7 @@
 # Minecraft-Translations
 
-This repository does not include the code of the Mods.
-It this only localization.
+This repository does not include the code of the Mods.<br />
+It this only localization.<br />
 Please errors to the mods Report directly from the author!
 
 - [Archimedes' Ships](http://www.minecraftforum.net/topic/1857899-)
