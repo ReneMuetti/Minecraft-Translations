@@ -29,7 +29,11 @@ Please errors to the mods Report directly from the author!
 - [Reliquary](http://minecraft.curseforge.com/mc-mods/59713)
 - [RFTools](http://minecraft.curseforge.com/mc-mods/224641)
 - [Soul Shards: The Old Ways](http://minecraft.curseforge.com/mc-mods/226958)
+- [TiC Tooltips](http://minecraft.curseforge.com/mc-mods/76845)
 - [Twilight Forest](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1276258)
+- [Waila](http://minecraft.curseforge.com/mc-mods/73488)
+- [Waila Harvestability](http://minecraft.curseforge.com/mc-mods/79287)
+- [Waila Plugins](http://minecraft.curseforge.com/mc-mods/226119)
 
 ******************
 
