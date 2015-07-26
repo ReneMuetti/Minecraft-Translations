@@ -11,12 +11,13 @@ Please errors to the mods Report directly from the author!
 - [CompactStorage](http://minecraft.curseforge.com/mc-mods/223703)
 - [CraftGuide](http://minecraft.curseforge.com/mc-mods/75557)
 - [Ex Nihilo](http://minecraft.curseforge.com/mc-mods/221696)
-- [Extra Utilities](http://minecraft.curseforge.com/mc-mods/225561)
+- [Extra Utilities](http://minecraft.curseforge.com/mc-moDs/225561)
 - [Gendustry](http://minecraft.curseforge.com/mc-mods/70492)
 - [IngameInfo XML](http://minecraft.curseforge.com/mc-mods/225604)
 - [JABBA](http://minecraft.curseforge.com/mc-mods/73510)
 - [LunatriusCore](http://minecraft.curseforge.com/mc-mods/225605)
 - [Lootbags](http://minecraft.curseforge.com/mc-mods/225946)
+- [Magic Bees](http://minecraft.curseforge.com/mc-mods/65764)
 - [Magical Crops Core](http://minecraft.curseforge.com/mc-mods/232150)
 - [Magical Crops Dekoration](http://minecraft.curseforge.com/mc-mods/232182)
 - [Magical Crops Armour](http://minecraft.curseforge.com/mc-mods/232149)
@@ -109,6 +110,11 @@ LunatriusCore
 
 Lootbags
 
+| Translations by | Language |
+| --------------- | -------- |
+| ReneMuetti      | German   |
+
+Magic Bees
 | Translations by | Language |
 | --------------- | -------- |
 | ReneMuetti      | German   |
