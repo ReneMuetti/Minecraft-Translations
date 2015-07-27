@@ -74,13 +74,6 @@ info.thermalexpansion.incSend=Erhöhe RF Output um
 info.thermalexpansion.maxIn=Max Input
 info.thermalexpansion.maxOut=Max Output
 
-#Workbench
-info.thermalexpansion.gridClear=Leere Werkgitter
-info.thermalexpansion.gridSet=Stelle Werkgitter von Schema ein
-info.thermalexpansion.noRecipe=Kein Rezept
-info.thermalexpansion.noSchematic=Kein Schema
-info.thermalexpansion.writeSchematic=Schema beschreiben
-
 #Activator
 info.thermalexpansion.angleLow=Ziel Niedrig
 info.thermalexpansion.angleLevel=Ziel-Level
@@ -93,6 +86,12 @@ info.thermalexpansion.slotsRR=RoundRobin-Itemnutzung
 info.thermalexpansion.sneakOff=Nicht Schleichen
 info.thermalexpansion.sneakOn=Schleichen
 
+#Buffer
+info.thermalexpansion.buffer.disableInput=Deaktiviere Eingang
+info.thermalexpansion.buffer.disableOutput=Deaktiviere Ausgang
+info.thermalexpansion.buffer.enableInput=Aktiviere Eingang
+info.thermalexpansion.buffer.enableOutput=Aktiviere Ausgang
+
 #Tesseract
 info.thermalexpansion.inactive=Inaktiv
 info.thermalexpansion.modeBlocked=Blockiert
@@ -104,17 +103,17 @@ info.thermalexpansion.modeSend=Nur Senden
 info.thermalexpansion.modeSendRecv=Senden/Empfangen
 
 #Smelter
-info.thermalexpansion.toggleSmelterLock=Sperre Fluxslot
-info.thermalexpansion.toggleSmelterUnlock=Öffne Fluxslot
+info.thermalexpansion.smelter.toggleLock=Sperre Fluxslot
+info.thermalexpansion.smelter.toggleUnlock=Öffne Fluxslot
 
 #Transposer
-info.thermalexpansion.toggleEmpty=Schalte: Leeren
-info.thermalexpansion.toggleFill=Schalte: Füllen
-info.thermalexpansion.toggleWait=Geschaltet
+info.thermalexpansion.transposer.toggleEmpty=Schalte: Leeren
+info.thermalexpansion.transposer.toggleFill=Schalte: Füllen
+info.thermalexpansion.transposer.toggleWait=Geschaltet
 
 #Insolator
-info.thermalexpansion.toggleInsolatorLock=Sperre Düngerslot
-info.thermalexpansion.toggleInsolatorUnlock=Öffne Düngerslot
+info.thermalexpansion.insolator.toggleLock=Sperre Düngerslot
+info.thermalexpansion.insolator.toggleUnlock=Öffne Düngerslot
 
 #Plates
 info.thermalexpansion.distance=Entfernung
@@ -122,12 +121,19 @@ info.thermalexpansion.intensitySignal=Signalstärke
 info.thermalexpansion.intensityImpulse=Impulsstärke
 info.thermalexpansion.duration=Haltbarkeit
 
+#Workbench
+info.thermalexpansion.gridClear=Leere Werkgitter
+info.thermalexpansion.gridSet=Stelle Werkgitter von Schema ein
+info.thermalexpansion.noRecipe=Kein Rezept
+info.thermalexpansion.noSchematic=Kein Schema
+info.thermalexpansion.writeSchematic=Schema beschreiben
+
 #Tier Localization
-info.thermalexpansion.creative=Kreativ -
-info.thermalexpansion.basic=Basis -
-info.thermalexpansion.hardened=Hart -
-info.thermalexpansion.reinforced=Bewehr -
-info.thermalexpansion.resonant=Resonant -
+info.thermalexpansion.creative=Kreativ
+info.thermalexpansion.basic=Basis
+info.thermalexpansion.hardened=Hart
+info.thermalexpansion.reinforced=Bewehr
+info.thermalexpansion.resonant=Resonant
 
 info.thermalexpansion.augment=Erweiterung
 info.thermalexpansion.augment.energyProduced=Produzierte Energie
@@ -181,7 +187,6 @@ info.thermalexpansion.capacitor.3=Nutze beim Schleichen, um zu deaktivieren.
 info.thermalexpansion.capacitor.4=Muss in der Hotbar bleiben.
 info.thermalexpansion.capacitor.potato=Clever! Aber nicht wiederaufladbar.
 
-info.thermalexpansion.device.workbench=Craftet Dinge; kann Blaupausen benutzen.
 info.thermalexpansion.device.activator=Ist mehr als ein Tooltip erklären kann.
 info.thermalexpansion.device.breaker=Zerstört Blöcke. Ganz einfach.
 info.thermalexpansion.device.nullifier=Entfernt Dinge aus der Existenz.
@@ -223,6 +228,8 @@ info.thermalexpansion.plate.translocate=Teleportiert Dinge bei Kontakt
 
 info.thermalexpansion.rockwool.default=Erstellt durch Schmelzschlacke.
 info.thermalexpansion.rockwool.dyed=Erstellt durch Färben anderen Steinwolle.
+
+info.thermalexpansion.workbench=Craftet Dinge. Kann Schemata zum schnellen craften benutzen.
 
 info.thermalexpansion.florb.0=Hält 1000 mB der meisten Flüssigkeiten.
 info.thermalexpansion.florb.1=Hält 1000 mB der meisten heißen Flüssigkeiten.
@@ -333,16 +340,17 @@ recipe.thermalexpansion.secure=Sicherheitsherstellung
 tab.thermalexpansion.cell.0=Speichert Redstone Flux.
 tab.thermalexpansion.cell.1=Halte Shift oder Strg, um Energiekontrolle zu konfigurieren.
 
-tab.thermalexpansion.device.workbench.0=Crafts things!
-tab.thermalexpansion.device.workbench.1=A crafting recipe may be written to or read from a schematic.
-tab.thermalexpansion.device.workbench.2=Shift + Right Click on a Schematic to craft the saved recipe directly.
-tab.thermalexpansion.device.activator.0=It slices! It dices! It pours things, it throws things!
-tab.thermalexpansion.device.activator.1=Maybe it's random, maybe it isn't. Maybe it's sneaky, maybe not.
-tab.thermalexpansion.device.activator.2=Deceptively versatile!
-tab.thermalexpansion.device.breaker.0=Breaks all the things!
-tab.thermalexpansion.device.breaker.1=Keep face away from front of device.
-tab.thermalexpansion.device.nullifier.0=Sends all the things to /dev/null!
-tab.thermalexpansion.device.nullifier.1=It is a horrible place, even fluid cannot escape.
+tab.thermalexpansion.device.activator.0=Es schneidet! Er würfelt! Es gießt Dinge, es wirft Dinge!
+tab.thermalexpansion.device.activator.1=Vielleicht ist es zufällig, vielleicht auch nicht. Vielleicht ist es hinterhältig, vielleicht auch nicht.
+tab.thermalexpansion.device.activator.2=Täuschend vielseitig!
+tab.thermalexpansion.device.breaker.0=Bricht alle Dinge!
+tab.thermalexpansion.device.breaker.1=Schau es niemals direkt an.
+tab.thermalexpansion.device.nullifier.0=Sendet alles nach /dev/null!
+tab.thermalexpansion.device.nullifier.1=Es ist ein schrecklicher Ort, auch Flüssigkeit können nicht entweichen.
+tab.thermalexpansion.device.buffer.0=Speichert und Transportiert Items.
+tab.thermalexpansion.device.buffer.1=Besser als ein Hopper, wirklich!
+tab.thermalexpansion.device.buffer.2=Halten Shift oder Strg gedrückt, um die Menge genau einzustellen.
+
 
 tab.thermalexpansion.dynamo.0=Energieproduktion hängt vom Energiebedarf ab.
 tab.thermalexpansion.dynamo.steam.0=Erzeugt RF aus Dampf.
@@ -415,6 +423,11 @@ tab.thermalexpansion.storage.enchant=Kann verzaubert werden, um mehr Items zu tr
 tab.thermalexpansion.strongbox.0=Eine Truhe! Sie kann Dinge enthalten. Naja, die meisten.
 tab.thermalexpansion.strongbox.creative=Kann unendlich viele Items einer Sorte enthalten!
 
+tab.thermalexpansion.workbench.0=Crafts alles!
+tab.thermalexpansion.workbench.1=Rezepte können geschrieben oder von einem Schema gelesen werden.
+tab.thermalexpansion.workbench.2=Shift + Rechtsklick auf ein Schema um das Rezept direkt zu benutzen.
+tab.thermalexpansion.workbench.creative=Items sind optional!
+
 #Blocks
 tile.thermalexpansion.cache.creative.name=Kreativer Cache
 tile.thermalexpansion.cache.basic.name=Cache
@@ -429,10 +442,10 @@ tile.thermalexpansion.cell.hardened.name=Gehärtete Energiezelle
 tile.thermalexpansion.cell.reinforced.name=Redstone-Energiezelle
 tile.thermalexpansion.cell.resonant.name=Resonante Energiezelle
 
-tile.thermalexpansion.device.workbench.name=Maschinistenwerkbank
 tile.thermalexpansion.device.activator.name=Autonomer Aktivator
 tile.thermalexpansion.device.breaker.name=Terrainzerschlager
 tile.thermalexpansion.device.nullifier.name=Vernichter
+tile.thermalexpansion.device.buffer.name=
 
 tile.thermalexpansion.dynamo=Dynamo
 tile.thermalexpansion.dynamo.steam.name=Dampfdynamo
@@ -515,3 +528,13 @@ tile.thermalexpansion.tank.basic.name=Tragbarer Tank
 tile.thermalexpansion.tank.hardened.name=Gehärteter Tragbarer Tank
 tile.thermalexpansion.tank.reinforced.name=Verstärkter Tragbarer Tank
 tile.thermalexpansion.tank.resonant.name=Resonanter Tragbarer Tank
+
+tile.thermalexpansion.workbench.creative.name=Creative Maschinistenwerkbank
+tile.thermalexpansion.workbench.basic.name=Maschinistenwerkbank
+tile.thermalexpansion.workbench.hardened.name=Gehärtete Maschinistenwerkbank
+tile.thermalexpansion.workbench.reinforced.name=Verstärkte Maschinistenwerkbank
+tile.thermalexpansion.workbench.resonant.name=Resonante Maschinistenwerkbank
+
+#To be removed
+tile.thermalexpansion.device.workbench.name=Maschinistenwerkbank
+info.thermalexpansion.device.workbench=Crafts Dinge, kann Schemata benutzen.
