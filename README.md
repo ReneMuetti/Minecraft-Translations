@@ -13,6 +13,7 @@ Please errors to the mods Report directly from the author!
 - [Ex Nihilo](http://minecraft.curseforge.com/mc-mods/221696)
 - [Extra Utilities](http://minecraft.curseforge.com/mc-moDs/225561)
 - [Gendustry](http://minecraft.curseforge.com/mc-mods/70492)
+- [Iguana Tinker Tweaks](http://minecraft.curseforge.com/mc-mods/223248)
 - [IngameInfo XML](http://minecraft.curseforge.com/mc-mods/225604)
 - [JABBA](http://minecraft.curseforge.com/mc-mods/73510)
 - [LunatriusCore](http://minecraft.curseforge.com/mc-mods/225605)
