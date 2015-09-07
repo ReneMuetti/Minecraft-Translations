@@ -32,7 +32,7 @@ Please errors to the mods Report directly from the author!
 - [RFTools](http://minecraft.curseforge.com/mc-mods/224641)
 - [Soul Shards: The Old Ways](http://minecraft.curseforge.com/mc-mods/226958)
 - [TiC Tooltips](http://minecraft.curseforge.com/mc-mods/76845)
-- [Tinkers Konstruct](http://minecraft.curseforge.com/mc-mods/74072)
+- [Tinkers Construct](http://minecraft.curseforge.com/mc-mods/74072)
 - [Thermal Dynamics](http://minecraft.curseforge.com/mc-mods/227443)
 - [Thermal Expansion](http://minecraft.curseforge.com/mc-mods/69163)
 - [Thermal Foundation](http://minecraft.curseforge.com/mc-mods/222880)
