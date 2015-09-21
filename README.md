@@ -10,6 +10,7 @@ Please errors to the mods Report directly from the author!
 - [Chisel 2](http://minecraft.curseforge.com/mc-mods/225236)
 - [CompactStorage](http://minecraft.curseforge.com/mc-mods/223703)
 - [CraftGuide](http://minecraft.curseforge.com/mc-mods/75557)
+- [Draconic Evolution](http://minecraft.curseforge.com/mc-mods/223565)
 - [Ex Nihilo](http://minecraft.curseforge.com/mc-mods/221696)
 - [Extra Utilities](http://minecraft.curseforge.com/mc-moDs/225561)
 - [Gendustry](http://minecraft.curseforge.com/mc-mods/70492)
