@@ -29,7 +29,7 @@ tile.draconicevolution:infusedObsidian.name=Drakonium Durchzogenes Obsidian
 tile.draconicevolution:dislocatorReceptacle.name=Versetzer Empfänger
 tile.draconicevolution:portal.name=Portal
 tile.draconicevolution:flowGateFlux.name=Flux Tor
-tile.draconicevolution:flowGateFluid.name=Flüssigkeiten Toor
+tile.draconicevolution:flowGateFluid.name=Flüssigkeiten Tor
 tile.draconicevolution:reactorCore.name=Drakonischer Reaktorkern
 tile.draconicevolution:reactorStabilizer.name=Reaktorstabilisierer
 tile.draconicevolution:reactorEnergyInjector.name=Reaktorenergie Injektor
@@ -229,8 +229,8 @@ info.de.toolInventoryEnch.txt=Verzauberung
 info.de.hudDisplayConfigTxt1.txt=#### HUD Display ####
 info.de.hudDisplayConfigTxt2.txt=Klicken und Ziehen zum verschieben
 info.de.hudDisplayConfigTxt3.txt=###################
-info.de.hudDisplayConfigInfo1.txt=Klicken und Ziehen HUD
-info.de.hudDisplayConfigInfo2.txt=zum taschen der Porition
+info.de.hudDisplayConfigInfo1.txt=Klicken und Ziehen im HUD
+info.de.hudDisplayConfigInfo2.txt=zum tauschen der Position
 
 
 info.de.manual.introTxt.txt=Alles, was Du wissen mußt. Alles an einem Ort.
